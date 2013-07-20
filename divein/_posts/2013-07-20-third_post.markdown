@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: test
 title:  "Third post"
 date:   2013-07-20 8:33:00
 categories: saga
