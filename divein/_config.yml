@@ -1,9 +1,4 @@
-url: "http://www.erictang.org"
+name: Your New Jekyll Site
+markdown: redcarpet
 pygments: true
-exclude: [/bin, Gemfile, Gemfile.lock]
-markdown: kramdown
-permalink: pretty
-paginate: 10
-
-kramdown:
-  entity_output: symbolic
+lsi: BOOL
