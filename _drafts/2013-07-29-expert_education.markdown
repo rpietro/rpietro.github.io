@@ -1,11 +1,9 @@
----
-layout: post
-title:  "Expert education"
-date:   2013-07-29
-categories: situated_cognition, big_data
----
-
-![](http://scottreinhard.com/wp-content/uploads/2012/08/expert-button_forweb-e1345329354880.jpg)
+<!-- 
+learning
+big data
+situated cognition
+ -->
+# Expert education
 
 I have heard a number of times that experts do not need structured learning environments, all they need is freedom to explore. While I certainly agree with the freedom portion, I think the portion on not needing structured learning environments is plain wrong. Here is why:
 
