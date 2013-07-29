@@ -1,5 +1,11 @@
 # what does Agile mean in terms of online learning
 
+<!-- 
+learning
+big data
+situated cognition
+ -->
+
 focus Agile is on clients, which in online learning translates into students
 
 iterative cycles, short, incomplete but functioning

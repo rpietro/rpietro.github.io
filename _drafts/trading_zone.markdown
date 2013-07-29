@@ -1,3 +1,8 @@
+<!-- 
+learning
+big data
+situated cognition
+ -->
 trading zone and education
 
 aligned with the concept of whole tasks as they often require skills from multiple different disciplines

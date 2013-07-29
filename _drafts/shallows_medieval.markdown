@@ -1,3 +1,8 @@
+<!-- 
+learning
+big data
+situated cognition
+ -->
 # Shallows and the art of memory?
 
 I just finished reading [What the internet is doing to our brains: the shallows](http://www.amazon.com/The-Shallows-Internet-Doing-Brains/dp/0393339750). All in all it is a good read, talking primarily about how the internet makes us [multitask](http://en.wikipedia.org/wiki/Human_multitasking), therefore not allowing us to concentrate on anything and be deep.

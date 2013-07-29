@@ -1,3 +1,8 @@
+<!-- 
+learning
+big data
+situated cognition
+ -->
 assessment metrics for complex learning
 
 main metric is task execution in personal and professional practices

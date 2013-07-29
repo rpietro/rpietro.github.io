@@ -1,3 +1,8 @@
+<!-- 
+learning
+big data
+situated cognition
+ -->
 # Use cases for data retrieval 
 
 
