@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "3D models for clinical training"
+date:   2013-07-30
+categories: situated_cognition, big_data
+---
+
+![](https://lh6.googleusercontent.com/-9bSce_VZSOU/UffkEw4Ck-I/AAAAAAAAz-Y/JflPNKPfy6g/w506-h285/Desktop.jpg)
+
+3D models have typically been used for training with a number of clinical specialties, and we are now experimenting with orthopedic fractures and dentistry prostheses. The possibilities are endless, but one that is of particular interest to me is the ability to enhance training and assessment in relation to diagnosis, disease mechanisms or pathophysiology, and therapeutic planning. Here are some examples in the context of orthopedic fractures, a topic that is of interest not only to orthopedic surgeons and residents but also to the large number of other health care providers involved with the treatment of bone fractures such as nurses, physical and occupational therapists, general practitioners, among others.
+
+1. Diagnosis: even very large clinical image repositories can be difficult to search when looking for specific types of fractures and their multiple combinations. With 3D models you cannot only reproduce any type of fracture, but also any combination. This is important for novice healthcare providers since they rarely have an opportunity to see a large collection all in one place. 
+2. Pathophysiology or fracture biomechanics: the biomechanics of a fracture largely determines its treatment. In other words, how the fragments are displaced as a function of their muscle and ligament insertions, gravity, or walking load will largely determine whether a fracture might be successfuly treated with a conservative treatment or the multiple types of surgical devices. In a 3D model it is possible to demonstrate the impact of the biomechanical factors on the fracture, such as having fragments being pulled in one direction or another.
+3. Treatment: 3D can demonstrate with extreme clarity how a cast or an orthopedic device interact with a the biomechanics of a fracture, counterbalancing these mechanisms to bring the fragments to their anatomical position. This is certainly useful when attempting to explain the preference for one treatment vs. another.
+
+To bring this back to an educational context, the main role of these 3D models is to have healthcare providers build rich maps with the concepts and situations surrounding therapeutic planning. In other words, rather than having oversimplistic associations saying that for a given fracture type the treatment should be x, you build a number of rich associations having biomechanical mechanisms in the middle.
