@@ -1,8 +1,14 @@
-<!-- 
-learning
-big data
-situated cognition
- -->
+---
+layout: post
+title:  "Static sites and reproducible research blogging"
+date:   2013-07-29
+categories: situated_cognition, big_data
+---
+
+![](http://hq.scisdragons.net/xkruger/files/2011/08/Archeology.jpg)
+
+
+
 static sites
 
 others have mentioned before some of the advantages of static sites like jekyll, and among them is the use of versioning systems like github. 
