@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mastering an experimental approach to mathematics: Are the expert skills similar to the one display by experts trained in a traditional way?"
+title:  "Mastering an experimental approach to mathematics: Are the expert skills similar to the ones displayed by experts trained in a traditional way?"
 date:   2013-08-01
 categories: situated_cognition, big_data
 ---
