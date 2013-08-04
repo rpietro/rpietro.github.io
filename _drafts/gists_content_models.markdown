@@ -6,3 +6,7 @@ categories: situated_cognition, big_data
 ---
 
 ![]()
+
+video on gist insertion into sublime text
+
+example Introduction template
