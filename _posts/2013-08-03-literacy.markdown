@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The evolving definition of literacy"
-date:   2013-07-29
+date:   2013-08-03
 categories: situated_cognition, big_data
 ---
 
