@@ -13,3 +13,5 @@ Of importance, there will be minimum to no lecture type of content. All material
 
 then post daily on what was covered
 post script with comments
+introductory post to all items from brazil big data
+http://goo.gl/eiG2Mh - how to include gists

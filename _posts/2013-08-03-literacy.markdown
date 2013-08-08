@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The evolving definition of literacy"
+date:   2013-08-03
+categories: situated_cognition, big_data
+---
+
+![](http://blogs-images.forbes.com/marketshare/files/2011/08/abc_blocks.jpg)
+
+The definition of what constitutes being literate has been changing over time, and the rate of change is accelerating. Until not a long time ago being literate meant the ability to read and write in your own language. But unless your language is English, this definition is really getting outdated, and very soon Chinese is likely going to be joining the English. 
+
+But then it is not just about reading words, the definition is moving far beyond that. Right now literacy means the ability to be able to skillfully search for information, interpret and possibly analyze data, and write computer programs. Of course it's not going to stop there, at some point the basic literacy will be to understand and maybe hack biotechnology and maybe neurobiology.
+
+But then again, this is just my opinion ...
