@@ -10,3 +10,6 @@ categories: situated_cognition, big_data
 
 
 course on wrist fracture
+
+gamification as a prize
+closer inspection? elastic bands in place of muscles

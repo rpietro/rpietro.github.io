@@ -9,6 +9,8 @@ categories: situated_cognition, big_data
 
 following up on another post](http://rpietro.github.io/situated_cognition,/big_data/2013/07/29/input_output_educational_framework/)
 
+<!-- use jekyll way of referring to another post -->
+
 Table 
 
 Graphic

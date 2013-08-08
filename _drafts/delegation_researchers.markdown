@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Research templates through gists  for biomedical researcher education"
+title:  "Delegation for researchers"
 date:   2013-07-
 categories: situated_cognition, big_data
 ---

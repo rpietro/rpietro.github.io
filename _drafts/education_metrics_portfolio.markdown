@@ -1,8 +1,11 @@
-<!-- 
-learning
-big data
-situated cognition
- -->
+---
+layout: post
+title:  "Learning porfolio and metrics"
+date:   2013-07-
+categories: situated_cognition, big_data
+---
+
+![]()
 
 
 public education portfolio is not only about what you might have to show for yourself, but actually comes down to what society expects to see from students
