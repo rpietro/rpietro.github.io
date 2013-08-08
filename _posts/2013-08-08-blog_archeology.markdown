@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Static sites and reproducible research blogging"
-date:   2013-07-29
+date:   2013-08-08
 categories: situated_cognition, big_data
 ---
 
