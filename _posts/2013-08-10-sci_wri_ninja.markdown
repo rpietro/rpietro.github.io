@@ -5,7 +5,7 @@ date:   2013-08-10
 categories: situated_cognition, big_data
 ---
 
-![](http://img.gawkerassets.com/img/18dm2s5z4up57jpg/k-bigpic.jpg)
+![](http://upload.wikimedia.org/wikipedia/commons/7/72/Hokusai-sketches---hokusai-manga-vol6-crop.jpg)
 
 For a long time our group has been using content models to coach novice biomedical researchers on how to write scientific papers. Results are really good, since it quickly becomes clear to them what the underlying rhetorical structure is behind a paper.
 
