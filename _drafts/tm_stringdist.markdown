@@ -1,0 +1,6 @@
+[stringdist](http://goo.gl/WOaOgj)
+[tm](http://goo.gl/cvDwJ)
+[openNLP](http://cran.r-project.org/web/packages/openNLP/index.html)
+[RWeka](http://cran.r-project.org/web/packages/RWeka/index.html)
+[RKEA](http://cran.r-project.org/web/packages/RKEA/vignettes/kea.pdf)
+[lsa](http://nm.wu-wien.ac.at/research/publications/b675.pdf)

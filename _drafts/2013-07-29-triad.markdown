@@ -9,7 +9,7 @@ categories: situated_cognition, big_data
 
 # Search for concepts and tools
 
-Harvard professor - trading zones
+Gallison - trading zones
 search
 concepts
 tools
