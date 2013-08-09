@@ -1,3 +1,12 @@
+---
+layout: post
+title:  ""
+date:   2013-07-
+categories: situated_cognition, big_data
+---
+
+![]()
+
 http://goo.gl/Wevw
 English536Chinese445Spanish153Japanese99Portuguese82German75Arabic65French59Russian59Korean39.4Rest350 
 

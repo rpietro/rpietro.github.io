@@ -7,3 +7,11 @@ categories: situated_cognition, big_data
 
 ![]()
 
+connect to scientific ninja
+tables in markdown populated with mock values as well as R data objects 
+R package containing functions used within tables for value inclusion
+mock values with typical interpretation
+
+methods with text chunks
+
+all text under CC non-commercial
