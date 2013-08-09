@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  ""
+title:  "Big learning data that matters: Bringing the excluded back in"
 date:   2013-08-10
 categories: situated_cognition, big_data
 ---
 
-![]()
+![](http://edudemic.com/wp-content/uploads/2012/11/learningstyles.jpg)
 
-I recently read an excellent post from [Knewton]() on the [five different types of Big Data in Education *that matter*](http://www.knewton.com/blog/knewton/from-jose/2013/07/18/big-data-in-education/?utm_medium=email&utm_campaign=July+newsletter+New&utm_content=July+newsletter+New+CID_1e4db5006f527cdc859264e27cfc7e06&utm_source=Knewton+Newsletter&utm_term=Read+more#more). Very briefly, the five types are classified as identity data, user interaction data, inferred content data, system-wide data, inferred student data.
+I recently read an excellent post from [Knewton](http://www.knewton.com/) on the [five different types of Big Data in Education *that matter*](http://www.knewton.com/blog/knewton/from-jose/2013/07/18/big-data-in-education/?utm_medium=email&utm_campaign=July+newsletter+New&utm_content=July+newsletter+New+CID_1e4db5006f527cdc859264e27cfc7e06&utm_source=Knewton+Newsletter&utm_term=Read+more#more). Very briefly, the five types are classified as identity data, user interaction data, inferred content data, system-wide data, inferred student data.
 
-While I certainly agree that these types do matter, one of the possible interpretations might be that other types might *not matter*. So, this post is to come rescue the guys who were left out. 
+While I certainly agree that these types do matter, one of the possible interpretations might be that other types might *not matter*. Although I am sure that this was not the intention of that post, mine is to come rescue the guys who were left out. 
 The list is huge, and my goal here is not to cover them all. So, here is a first shot:
 
 1. Before learning happens
