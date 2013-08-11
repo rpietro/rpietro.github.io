@@ -1,0 +1,3 @@
+concept of an ontology is and incomplete definition, as it doesn't take into consideration the situation. example is the concept of homicide in civilian situations vs. in war. or the idea of 1 + 1 in decimal vs. hexa notation, or the meaning of gravity here and in Mars
+
+one concept can have an infinite number of meanings, *meaning* being a concept under a specific situation. the meaning of a situated concept can then only be further specified if the individual will fix a certain number of surrounding situations, and this could potentially be done through crowdsourcing as reactions to a given concept. in order for this to happen, those situations would have to be automatically captured, so that their meaning can be mapped over time

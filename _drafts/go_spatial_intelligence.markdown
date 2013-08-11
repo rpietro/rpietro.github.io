@@ -1,0 +1,1 @@
+go relates to surgeons expertise in relation to where things are located on the surgical field

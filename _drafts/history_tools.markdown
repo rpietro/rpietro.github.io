@@ -1,0 +1,1 @@
+focus on swords and then surround it with historical facts and other artifacts
