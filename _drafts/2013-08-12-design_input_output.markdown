@@ -7,7 +7,8 @@ categories: situated_cognition, big_data
 
 ![]()
 
-connect to scientific ninja
+
+connect to scientific writing ninja
 tables in markdown populated with mock values as well as R data objects 
 R package containing functions used within tables for value inclusion
 mock values with typical interpretation
