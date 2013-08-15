@@ -9,6 +9,3 @@ paginate: 10
 markdown: redcarpet
 permalink: pretty
 pygments: true
-
-layout: default
-comments: true
