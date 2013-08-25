@@ -1,0 +1,1 @@
+richness of novels in contrast with life - detailed description of each environment, personalities, actions, far removed with an external eye
