@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Enriched learning content"
+date:   2013-08-27
+categories: situated_cognition, big_data
+---
+
+![](http://gegeblog.com/wp-content/uploads/2012/10/protein-food.jpg)
+
+One of the main problems with online learning is that, no matter what we might do, so far it will necessarily lag behind a personal coach. Take for example the outstanding learning framework just posted by the [Khan Academy group](https://plus.google.com/106268032364497388036/posts/XRQxPEhLuia). This framework is right on the spot, as it walks students through a real scenario, talks about everything that is important from the perspective of an expert, ultimately attempting to make the student think like an expert.
+
+In sum, it's perfect, except for one crucial thing: It's not personalized to what the student needs at that very moment. In other words, when students say that they want to learn how to program, few if any would choose to learn how to program in general rather than creating a very specific program that would meet a very specific need they might have. In the end, what they are looking for is not to become programmers, but instead to learn how to program a certain thing to a achieve a specific objective. A personal coach could walk them through this process, a current online program cannot. 
+
+But then what are the options? Creating an infinite number of tutorials is clearly not one of them, but perhaps a combination of the following factors could help:
+
+1. *Focus on a niche*: From a marketing perspective, focus on a narrow niche that might make sense from an ROI perspective, and then go global. Going global will expand the number of people potentially taking the course even if the number of people interested is small
+2. *Modularize the course structure*: In psychometrics there is a field called [Automatic Item Generation](https://plus.google.com/106268032364497388036/posts/Zf2oedoqm7g) where items or questions are built as models, and then variations are introduced inside the models to generate a huge number of items. For example, if one wants to teach how to make a diagnosis of a set of abdominal conditions, it would be possible to list a group of symptoms, signs, and lab exams, and then associate each of the combinations with certain diagnoses and therapeutic plans. The same could potentially be applicable to different types of education. The key here would be to constantly feed these exercises through a group of motivated content creators and curators. 
+3. *Ladder mechanism*: Establish a ladder mechanism where the initial, more general part of learning is done through more general material. Then, once students have a general basis, then and only then they start with more individualized type or coaching.
+4. *Documentation integrated into daily activities*: here the main concept is that as our ability to document our daily activities increases as a function of automation through software, more and more material will be available to students regarding what might be the current practice of a given professional. For example, if a given physician has a specially effective way of treating patients, and if this workflow is carefully followed through a series of software applications, then a student would be able to learn about that workflow by looking at the documentation trail left from that physician. This last path will obviously involve the 
+    1. ability to track information, like an electronic medical record tracking every single step of the physician
+    2. the concurrent documentation by the professional to enhance the data, or the physician constantly making notes to clarify any practice that might not be appropriately captured by the electronic medical record
+    3. the existence of tools that will facilitate the transformation of that data into useful information, such as graphical tools that might make the workflow clear enough
