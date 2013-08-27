@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Enriched learning content"
+title:  "Enriched and personalized learning content"
 date:   2013-08-27
 categories: situated_cognition, big_data
 ---
