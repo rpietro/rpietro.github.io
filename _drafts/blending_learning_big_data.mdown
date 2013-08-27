@@ -1,5 +1,7 @@
 big data
 
+ http://goo.gl/7U9TW 
+
 * objects and functions
     * objects (existing or potentially collectible data)
     * functions - analytical methods
