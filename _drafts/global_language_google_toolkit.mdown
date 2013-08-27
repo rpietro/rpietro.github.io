@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Writing in another language"
+date:   2013--
+categories: situated_cognition, big_data
+---
+
+![]()
+
+I often go to other countries to talk about different methods to 
+
+Writing in another language
+check all the documentation for google toolkit
+
+google toolkit
+
+
+
+glossary https://support.google.com/translate/toolkit/answer/147859?hl=en 
+
+glossary as a way to never forget a word since it will be automatically translated
+
+one possible way would be to translate back several documents into your native language
