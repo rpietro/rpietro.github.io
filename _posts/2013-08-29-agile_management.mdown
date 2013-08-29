@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Learning Agile project management applied to clinical research"
+date:   2013-08-29
+categories: situated_cognition, big_data
+---
+
+![](http://tiny-giant-books.com/blog/wp-content/uploads/2012/02/agile-edge-case-ninja.png)
+
+The *Agile mania* started within [software development](http://agilemanifesto.org/), but has been gradually moving into business areas, the most famous being the whole [Lean Startup movement](http://theleanstartup.com/)
+
+But then, some areas such as biomedical research are fairly slow to adopt, usually under untested claims that *this is not for us* or *won't work here*. Sure enough, full-blown Agile is not for everybody or every project, but that doesn't excuse people from at least looking at which features of this methodology could potentially bring value. 
+
+So, what are the main principles behind Agile and how exactly could they fit to the whole clinical research enterprise? Below is a non-comprehensive first shot at both of these questions selecting the ones I personally think are most relevant:
+
+## Focus on your client
+
+When you start a clinical research project, you have to have a clear picture of the goal you are trying to achieve and who is interested in the final product. Clinical research could accommodate multiple goals, but I would probably argue that the following are among the top ones: 
+
+1. Create knowledge that is brand new, filling a gap in the literature. Your client here will be your journal editor and your peers
+2. Create knowledge that will be useful to patients, addressing a need that wasn't fulfilled up to this point. Your primary client here are patients around the world
+3. Do something that is achievable within the resources at your disposal. Your main client here are the people working with you, as you don't want them to embark on a project unless you know it can get to a successful closure.
+
+Although all of this might sound like common sense, most clinical research project will miss one or more of these: Starting a project without thoroughly evaluating how novel the project is, focusing on something that is new but trivial, or embarking on a project that is clearly impossible to complete.
+
+
+## Incomplete and functioning products
+Agile assumes that the world is not only constantly changing, but that you are also constantly learning about the world around you. As a function of both of these principles, Agile says that you should not embark on long development periods without exposing something that is both incomplete and functioning to your client. 
+
+Bringing this to clinical research, one of the applications is that you should not design a full blown clinical study without doing a quick and dirty test of each one of its phases. For example, I have seen researchers designing studies where they honestly thought that a single patient would answer a questionnaire with 100 pages. The worst part is that I am not kidding. This assumption of participants with super powers and infinite time and patience went untested throughout the funding acquisition, staff recruitment, ethical approval, just to fail miserably when the first research participant came through. This could have been easily avoided with a simple test at the very beginning. Again, it doesn't have to be complete, a simple portion of the protocol will do. But it has to be functional, meaning that it has to reproduce at least some aspects of the protocol.
+
+
+## Iterate
+Iteration is a function of incomplete and functional products. In other words, you keep running small trials, having it evaluated by your client, and then improving a bit every time. 
+
+Back to our impossible 100-page data collection study, a quick test would show that 100-pages is impossible, a second test would show that even 10 pages is too much, and the final test would show that a very well selected one-page is probably what you need. You then run this through some peers to see whether the final article coming out of that one very well crafted page would provide the answer to your gap. 
+
+## Minimum viable product
+The idea of a minimum viable product or MVP is that because you work in cycles, you don't want your first product to be perfect. Actually, perfection is probably not in your dictionary. Instead, what you want is something that is progressively better, achievable, but at the same time adapted to your environment. 
+
+Back to the clinical research world, you don't want to design the study that will provide answers to everything, from the cure of cancer all the way to the end of the Syria conflict. Instead, you want something that will answer your question in the simplest possible way. Once that is achieved, then you can increment your study with an additional cohort or a longer follow-up, or whatever you think might bring value to the study in the long run.
+
+## Trello
+Most people love [Trello](https://trello.com/) since it's not only an outstanding software but also free of charge. Although the details of how to use it in an Agile environment are beyond what I plan on covering in this post, there are plenty of [online tutorials](http://www.civicactions.com/blog/2012/oct/10/five_tips_for_using_trello_for_scrum) on this.
+
+As mentioned in the beginning, none of these principles are all or nothing. You can use bits and pieces of each of them or go full force. The point here is that you should not be religious about Agile, but you should instead know about each of the principles and then choose which ones are the best for you.
+
+can be adapted, how much is used is completely open
