@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "title"
+date:   2013--
+categories: situated_cognition, big_data
+---
+
+![]()
+
+content
+
 Sit schemas based on cta and literature and codified as RDF - lsa??
 
 Sit schemas used for action-based learning - there is a difference between concepts and action, enacted cognition, one doesn't necessarily lead to the other

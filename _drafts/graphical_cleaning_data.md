@@ -1,2 +1,4 @@
+
+
 communicating with statisticians: 
-3. graphical representation and cleaning of your data
+graphical representation and management/cleaning of your data

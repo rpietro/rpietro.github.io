@@ -18,3 +18,7 @@ can add credentials as one of the potential "opinion weights" if that type of in
 [QCA article](http://journal.r-project.org/archive/2013-1/thiem-dusa.pdf)
 
 [QCA with R book](http://www.amazon.com/Qualitative-Comparative-Analysis-SpringerBriefs-ebook/dp/B00A9YH2LM/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid=)
+
+lsa
+
+tc metaphor

@@ -1,3 +1,2 @@
-the key to enrichment is to have niche masters paid proportionally to the volume and quality of material added to the course
+start with basic program and then progressively enrich and personalize it
 
-literate programming - roxygen2

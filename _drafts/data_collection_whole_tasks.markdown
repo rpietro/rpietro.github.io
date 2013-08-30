@@ -8,11 +8,7 @@ categories: situated_cognition, big_data
 ![]()
 
 content
-<!-- 
-learning
-big data
-situated cognition
- -->
+
 biomedical research learning and the need for whole tasks
 
 data collection takes time, sometimes years
