@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Basic skills for clinical researchers working with biomedical data"
+date:   2013-08-31
+categories: situated_cognition, big_data
+---
+
+![](https://lh3.googleusercontent.com/-Gp5-KazjVkM/UiJv_vHpL6I/AAAAAAAA3G0/5O9f_B2Osw4/w500-h300-no/blog.png)
+
+Just a simple list of skills that, in my personal opinion, make it for a good set of skills a clinical researcher should have in order to explore a topic from multiple design perspectives.
+
+* Design
+    * Cross-sectional
+    * Trends
+    * RCTs
+    * Qualitative
+    * Surveys
+    * Longitudinal
+    * Time to event
+    * Classification
+    * Scales
+* Writing
+    * Introduction
+    * Methods and standards
+    * Results and mock tables
+* Analysis interpretation
+    * Inferential tests
+    * Regression
+    * Time to event
+    * Scales
+    * Classification
+    * SEM
+    * qualitative and qca
+* Data management and exploratory graphical analysis
+    * Data cleaning
+    * Association plots
+    * Maps
+* Qualitative data collection
+    * data collection, interview techniques, storage
+* Survey data collection
+    * questionnaire set up, mturkR
+* Finding existing data
+    * repositories
+    * csv
+    * what is xml, json, rdf
+    * large data and mysql
+    * what is hadoop
+* Writing of grant proposals
+    * specific aims, significance, innovation, approach, cvs
+* Literature search 
+    * google search, pubmed, reference manager, map against manuscript
+* Reproducible research
+* Project management
+    * agile, 
+* Dissemination 
+    * blogging and white papers
+    * presentation - audience, fear, handling difficult questions, presentation structure, videos 
+    * white papers
