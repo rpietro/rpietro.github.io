@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>divein coaching</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="big data and behavioral sciences applied to immersive distance education">
+
+    <link href="/css/bootstrap.css" rel="stylesheet">
+    <style>
+      body {
+        padding-top: 60px;
+      }
+    </style>
+    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="#">divein coaching</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="active"><a href="/">Home</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+<div class="row-fluid">
+	<div class="span8">
+		<h1>Scientific Writing Ninja</h1>
+		<p class="muted">10 August 2013</p>
+
+		<p><img src="http://upload.wikimedia.org/wikipedia/commons/7/72/Hokusai-sketches---hokusai-manga-vol6-crop.jpg" alt=""></p>
+
+<p>For a long time our group has been using content models to coach novice biomedical researchers on how to write scientific papers. Results are really good, since it quickly becomes clear to them what the underlying rhetorical structure is behind a paper.</p>
+
+<p>But then, so far we have been using static templates, which is a fancy way to say that we simply put together a text with examples on how to write certain sections of a paper on a <a href="https://drive.google.com/">Google doc</a>. Novice researchers then grab that template and apply it to their own manuscripts. </p>
+
+<p>Recently, however, I have been exposed to a group of international novice researchers focusing on data sciences, which then gives me the flexibility to use some <em>geek tools</em> that I wouldn&#39;t dare using before. So, although in all honesty this is an ever changing framework and some portions have only been partially tested, here is what the current workflow looks like:</p>
+
+<ol>
+<li>All article writing happens using R markdown</li>
+<li>Editor is <a href="http://www.sublimetext.com/">Sublime Text</a>, using the <a href="https://github.com/wch/SendText">sendtext</a> plugin to run code as the text is written. You might want to check <a href="http://www.youtube.com/watch?v=zoCFjpXa_UY">this brief tutorial</a> </li>
+<li>Protocols are entirely reproducible, including versioning the manuscript itself on <a href="http://git-scm.com/">git</a> through <a href="https://github.com/">Github</a></li>
+<li>References are inserted through <a href="http://carlboettiger.info/2012/05/30/knitcitations.html">knitcitations</a>, which is brilliantly connected to the <a href="">cito ontology</a>. Searches are without a plugin and performed through the browser using specific databases such as <a href="http://scholar.google.com/">Google Scholar</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed">PubMed</a>, <a href="http://www.jstor.org/">JSTOR</a>, <a href="http://www.scielo.org">Scielo</a>, and the like. Citation analyses are conducted through Google Scholar</li>
+<li><a href="http://www.amazon.com/Content-Everywhere-Structure-Future-Ready-ebook/dp/B00AEYPLPQ/ref=sr_1_1_bnp_1_kin?ie=UTF8&amp;qid=1376085529&amp;sr=8-1&amp;keywords=content+everywhere">Content models</a>, or the text being reused across manuscripts, is stored on gists and then pulled into Sublime through the <a href="https://github.com/kemayo/sublime-text-2-git/wiki">gist plugin</a>. Now, truth being told, using [Sublime snippets] would allow us to make the text substitution much easier, faster and they could also be stored on <a href="https://github.com/">Github</a>, but the ability to store individual gists allows for some perks in relation to the taxonomy (see next item).</li>
+<li>Taxonomy for the gists involves a first word that determines the overall location within an article (abstract-introduction-methods-results-discussion), followed by the design, and then the specifics of the text chunk itself. For example, a section containing the randomization section within a randomized trial in the methods section could be called something like methods<em>rct</em>randomization. The chunks are hierarchical, meaning that if I only look for a chunk called methods_rct I would get a gist with the names of all possible text chunks inside the methods section of randomized controlled trial. These sections obviously follow international standards, in the case of the randomized trial the standard being the <a href="http://www.consort-statement.org/">CONSORT statement</a>, and the fact that Sublime Text uses <a href="https://tutsplus.com/lesson/multiple-cursors-and-incremental-search/">incremental or fuzzy search</a> makes finding them really easy.</li>
+</ol>
+
+<p>Of course this system is all but perfect, the main flaws being:</p>
+
+<ul>
+<li>because these are gists it is hard for people to make contributions or fork a large number of them</li>
+<li>the chunks are still fairly rough. Just to take the CONSORT example, there are currently multiple available versions</li>
+<li>the taxonomy has to be better than what it currently is</li>
+</ul>
+
+<p>Pondering about creating a course on this and then making the system evolve to a serious library with a consistent taxonomy/ontology and later a plugin that would manage some of these problems. But let&#39;s see. So far I only got the course name down: <em>Scientific Writing Ninja</em> LOL</p>
+
+	</div>
+	<div class="span4">
+		<h3>About Me</h3>
+
+<p>My name is Ricardo Pietrobon and I am interested in big data and situated cognition applied to immersive distance education.</p>
+
+<ul>
+  
+    <li><a href="/situated_cognition,/big_data/2013/08/31/basic_skills_clinical_researchers/">Basic skills for clinical researchers working with biomedical data</a></li>
+  
+    <li><a href="/situated_cognition,/big_data/2013/08/30/whole_task_ladder/">Complex Learning IDM, whole tasks, and task ladders</a></li>
+  
+    <li><a href="/situated_cognition,/big_data/2013/08/29/agile_management/">Learning Agile project management applied to clinical research</a></li>
+  
+    <li><a href="/situated_cognition,/big_data/2013/08/27/enriched_content/">Enriched and personalized learning content</a></li>
+  
+    <li><a href="/situated_cognition,/big_data/2013/08/26/3D_anatomy_healthcare_learning/">3D models in healthcare education - bone fractures</a></li>
+  
+</ul>
+	</div>
+</div>
+
+
+
+</div>
+
+  </body>
+</html>
