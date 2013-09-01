@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Education expenditure per country according to OECD data"
+date:   2013-09-01
+categories: situated_cognition, big_data
+---
+
+![](https://lh4.googleusercontent.com/-vCAfFjYmlyk/UiNM5K5H2kI/AAAAAAAA3H0/oO46RLJZFiY/w680-h480-no/fractal4.png)
+
+Just grabbed some data from [OECD(Organisation for Economic Co-operation and Development)](http://www.oecd.org/) to create a very simple plot to show education expenditure per country. Top row is an analysis for tertiary degrees (college and graduate) while bottom row is for primary and secondary degrees (elementary, high school). First graphic column evaluates investment as a percentage of total country expenditures while the second row focuses on investment as a percentage of GDP (gross domestic product).
+
+![](https://lh4.googleusercontent.com/-AI2BHcV6Xws/UiNUhw1PuBI/AAAAAAAA3Is/sX5D3d6Qyfs/s480-no/combined.jpg)
+
+What is interesting from an educational marketing perspective is that countries already investing large sums in education will likely require even more educational programs. Education is a snowball. Second, countries focusing their investment in primary/secondary education would likely benefit from courses focusing on soft topics since that will lead toward student differentiation. Countries focusing on tertiary education will certainly also need soft skills, but will also have a greater demand for technical skills.
+
+
+### Sources:
+
+* [OECD data](http://www.oecd.org/edu/eag2013%20(eng)--FINAL%2020%20June%202013.pdf)
+
+<script src="https://gist.github.com/rpietro/6404853.js"></script>
+
+<script src="https://gist.github.com/rpietro/6404791.js"></script>
+
+
