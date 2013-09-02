@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Learning by searching sites in other languages"
+date:   2013-09-04
+categories: situated_cognition, big_data
+---
+
+![](https://lh5.googleusercontent.com/-hlfULNems5g/UiPgLL6clGI/AAAAAAAA3KI/Qc9z21royI0/w680-h480-no/fractal.png)
+
+The ability to search for information and tools as well as to interact in expert forums is arguably the single most important set of skills to be able to keep learning literally anything. But is it enough to do this in your native language or, for that matter, in English alone?
+
+My answer will be based on two perspectives: Being a native Portuguese speaker, and then attempting to search in Chinese with assistance from automatic translators. 
+
+1. Portuguese native speaker: This perspective is about how much one might be losing by searching in English-only. According to [Internet World Stats](http://www.internetworldstats.com/stats7.htm) Portuguese is the eighth most popular language on the Web with more than 80 million pages. Guess what, there is a ton of information that is only available in Portuguese, from databases that are not listed anywhere, perspectives that are far different from the American mainstream, cultural details, software, among a sea of other concepts and tools that are hidden from anybody not searching in the native language. ![](https://lh3.googleusercontent.com/-cwSSt5OK-kg/UiPgf8P5RKI/AAAAAAAA3Ks/tbtrmSJIA4Q/w500-h560-no/languages2009.png)
+2. Chinese sites with aid from automatic translators: Despite a couple attempts at learning Mandarim Chinese, I just haven't learned enough to search or information on the Web. And so my strategy is to do exactly what do when I search in English. In other words, I try to imagine which words would be present in the site containing the information or tools I am looking for, and get those on a search engine. But when it comes to Chinese I ended up using a couple *tricks*:
+    * I use [Google Translate](http://translate.google.com/) to translate my search terms from English to Portuguese, check whether what I am saying in English makes sense in Portuguese, and then use the same words in English to translate it to simplified Chinese. Now, there is a huge, likely wrong assumption here that by getting a good translation to Portuguese my translation to Chinese will be decent. But my hope is that at least it will improve the translation a bit. 
+    * With the search words in Chinese I then use [Baidu](http://www.baidu.com/) since it seems to be [better than Google for pages in China](http://investorplace.com/2013/08/google-vs-baidu-which-is-the-better-bet-right-now/) to find the best pages
+    * [Automatic page translation in Chrome](https://support.google.com/chrome/answer/173424?hl=en) is the next step, which allows me to read pages and follow links
+    * last, to post comments on sites I use the same mechanism above, so far people were able to understand my broken Chinese and reply accordingly
+
+
+Now, you might say that the step where I use Portuguese is kind of cheating, but hey, I've got to fight with the tools I have, although I clearly don't know whether that is making a difference or not. One thing is for sure, like in Portuguese pages I have been finding a lot of information that was previously hidden to my English-only searches. 
+
+Will keep using this method and will report more as I find new tricks.
