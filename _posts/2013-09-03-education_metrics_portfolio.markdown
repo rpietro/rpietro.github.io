@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning porfolio and metrics"
+title:  "Learning portfolio and metrics"
 date:   2013-09-03
 categories: situated_cognition, big_data
 ---
