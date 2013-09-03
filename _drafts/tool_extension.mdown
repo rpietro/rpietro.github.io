@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Tools as learning extension"
+date:   2013--
+categories: situated_cognition, big_data
+---
+
+![]()
+
+no difference between the tool and person

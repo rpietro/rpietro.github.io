@@ -5,7 +5,7 @@ date:   2013--
 categories: situated_cognition, big_data
 ---
 
-![]()
+![](https://lh5.googleusercontent.com/-0F1OVXEK1w8/UiQPHaJGM7I/AAAAAAAA3LY/cKY3_ylFzo8/w506-h715/drawing.png)
 
 * big data
     * market research surveys
