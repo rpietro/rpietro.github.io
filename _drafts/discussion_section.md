@@ -7,5 +7,4 @@ categories: situated_cognition, big_data
 
 ![]()
 
-content
 discussion for any paper
