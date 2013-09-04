@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Tools as learning extension"
+date:   2013-09-07
+categories: situated_cognition, big_data
+---
+
+![](https://lh4.googleusercontent.com/-tfdWbChTyyM/Uid8d5vOmJI/AAAAAAAA3Y8/pjJSupbYvFk/w700-h500-no/red.png)
+
+There is a now a strong movement in the humanities to look at people's activities as a measure of who they really are. This means that I care less about what you think and more about what you do. While I do think that both are important, not to say inseparable, the approximation between thoughts and action is certainly extremely welcome. 
+
+The question then is what does all this means for learning? Here are the usual items in no particular order:
+
+1. Educational portfolios as a measurement of actions rather than just information: this is likely the most immediate change, with hackers already talking about the info on the popularity and source code quality in their [github](https://github.com/) repositories being complimentary or sometimes even more valuable than course they might have taken or other traditional *curriculum vitae* elements. If this is true, learning should then focus on providing students with template projects that will make them move from idea to completion, ultimately leaving students free to use that template to adapt to other scenarios that they might judge relevant to them.
+2. Focus on tools as well as concepts: when a student is traditionally trained, most of what they gain in a course is usually conceptual. But perhaps equally important are the tools that they learn in the process in order to put those concepts directly into practice. Notice that the tools concept doesn't stand alone, in that learning a tool without being able to adapt and complete something for themselves is of way less value than getting something practical done.
+3. Focus on group action rather than just putting teams together: Ask any educational institution today and they will praise group learning for days. But there is a big difference between putting teams together and then making them work as a team in a way that mimics best practices in their future, daily personal and professional lives. So, it's not only about putting teams together, but showing them different ways in which teams might be organized in order to deliver a functional product. Notice that when I say a product I don't necessarily mean a gadget. It could be anything such as delivering a movement to decrease international disparity, or a mechanism that will speak up against government's actions that you disagree with, or simply raising awareness about a system that doesn't seem to be in most people's benefit.
+4. Time and quality to execute a given task do matter: Time matters. If I fail to act in defense of a group that might be in danger, that group will likely be harmed. The same is true for the quality of my actions and products.
