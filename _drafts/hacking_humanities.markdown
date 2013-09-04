@@ -7,6 +7,10 @@ categories: situated_cognition, big_data
 
 ![]()
 
+
+see gist http://goo.gl/3sHbJm
+
+
 interpretation and concept extraction
 
 can add credentials as one of the potential "opinion weights" if that type of information might be judged relevant
