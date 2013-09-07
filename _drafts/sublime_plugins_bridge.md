@@ -12,3 +12,5 @@ content
 check sublime plugins and look for applications to this bridge researcher
 
 can try to create this person now that has a massive number of researchers
+
+python plugin with lookup

@@ -11,4 +11,8 @@ UK full story
 SEP
 Walk through 
 Errors and fixes
-Replace my example
+programming hacks
+
+Role model as embodied cog in walk–through framework
+enrichment - 4 Es including 
+personalization - translation, specialty, personalized
