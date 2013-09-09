@@ -17,6 +17,6 @@ Graphic
 
 how to describe them in the Results section of a peer-reviewed manuscript
 
-later, within deeper levels then we might want to go into what goes into the mathematical underpinnings of the method, likely using a lego framework where each portion is analyzed independently and then progressively putting them together
+later, within deeper levels then we might want to go into what goes into the mathematical underpinnings of the method, likely using a lego framework http://goo.gl/KgjaT where each portion is analyzed independently and then progressively putting them together
 
 this might well be connected with the scientific writing ninja method - tables in markdown
