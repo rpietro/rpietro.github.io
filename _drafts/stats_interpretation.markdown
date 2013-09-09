@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What do biomedical researchers need to know to interpret statistical results"
+title:  "What do biomedical researchers need to know to interpret statistical results?"
 date:   2013-07-29
 categories: situated_cognition, big_data
 ---
