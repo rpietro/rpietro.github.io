@@ -18,5 +18,5 @@ If you then think of learning as being determined by TOC, the two problems peopl
 1. *Problem identification*: How do you help people that the problem they have is addressable by a given skill? For example, I might think that writing that paper will indeed take six months, and that my messy meeting is just the way it is.
 1. *Skill identification*: How do you help somebody find out that, once they identify a problem, what they need to learn is a specific skill, when in multiple cases they might not even be aware of that skill? For example, most people don't know what scraping is.
 
-Problem and skill identification are both coaching components, and as we recently learned from [Tutorspree's experience](), coaching is difficult to scale. Lots of work ahead of educators.
+Problem and skill identification are both coaching components, and as we recently learned from [Tutorspree's experience](http://rpietro.github.io/situated_cognition,/big_data/2013/09/16/coaching_learning/), coaching is difficult to scale. Lots of work ahead of educators.
 
