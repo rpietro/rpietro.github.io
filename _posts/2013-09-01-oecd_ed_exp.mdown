@@ -16,7 +16,7 @@ What is interesting from an educational marketing perspective is that countries 
 
 ### Sources:
 
-* [OECD data](http://www.oecd.org/edu/eag2013%20(eng)--FINAL%2020%20June%202013.pdf)
+* OECD data: http://www.oecd.org/edu/eag2013%20(eng)--FINAL%2020%20June%202013.pdf
 
 <script src="https://gist.github.com/rpietro/6404853.js"></script>
 
