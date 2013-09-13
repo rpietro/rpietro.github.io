@@ -21,3 +21,5 @@ glossary https://support.google.com/translate/toolkit/answer/147859?hl=en
 glossary as a way to never forget a word since it will be automatically translated
 
 one possible way would be to translate back several documents into your native language
+
+importance of having content in text format

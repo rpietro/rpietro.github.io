@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "title"
+title:  "sublime plugin for knitr with options"
 date:   2013--
 categories: situated_cognition, big_data
 ---
 
 ![]()
 
-content
+check previous posts about this topic
 
-Merrienboer's sequencing and ladder  

@@ -16,3 +16,5 @@ XML parsing
 Cito
 Latex
 Storage gist (file limit)
+
+zoom in-out

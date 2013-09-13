@@ -8,7 +8,9 @@ categories: situated_cognition, big_data
 ![](https://lh4.googleusercontent.com/-BLGsGkbyiaA/Ui4lcl3h32I/AAAAAAAA3rA/Tpf0mjyQbRg/w800-h500-no/fractal.png)
 
 <!-- 
-need to check mathjax for jekyll
+need to check mathjax for jekyll  
+
+
 
 http://goo.gl/YH7OW7
 

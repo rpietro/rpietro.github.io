@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Simple django app for learning"
+title:  "formatR and easy of code reading"
 date:   2013--
 categories: situated_cognition, big_data
 ---
 
 ![]()
 
-simplest possible app
-check tuts tutorial
+check previous posts about this topic
+

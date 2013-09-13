@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Marketing research with R applied to learning"
+title:  "Algebra with R"
 date:   2013--
 categories: situated_cognition, big_data
 ---
 
 ![]()
 
-http://goo.gl/M1ZvFt
+check previous posts about this topic
+

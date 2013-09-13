@@ -6,7 +6,8 @@ categories: situated_cognition, big_data
 ---
 
 ![]()
-
+  
+  
 * tools
     * how to videos
     * feedback in specific portions of a video

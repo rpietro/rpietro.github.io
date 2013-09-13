@@ -13,7 +13,7 @@ following up on another post](http://rpietro.github.io/situated_cognition,/big_d
 
 Table 
 
-Graphic
+Graphic  
 
 how to describe them in the Results section of a peer-reviewed manuscript
 

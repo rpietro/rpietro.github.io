@@ -8,7 +8,7 @@ categories: situated_cognition, big_data
 ![]()
 
 send web site, name and institutional email
-instructions to tutor sent after payment
+instructions to tutor sent after payment  
 name and email address of the tutor goes along with certificate
 
 proctors and assessment in contrast with new, less reliable technologies

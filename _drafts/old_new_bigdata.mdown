@@ -5,7 +5,7 @@ date:   2013--
 categories: situated_cognition, big_data
 ---
 
-![]()
+![]()  
 
 The [Big Data movement] in learning has brought along a change that is certainly welcome in the interplay between researchers driving the design of large studies and those analyzing the data. In the old style, there was clearly a gap between these groups. Educators would conceptualize studies and then, once everything was set and decided, they would bring along a number the quantitative folk who had little if any input into the design. A gap between the two was then created, essentially missing the person who would play a catalyst in this scenario.
 
