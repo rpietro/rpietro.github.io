@@ -8,3 +8,4 @@ categories: situated_cognition, big_data, hack
 ![]()
 
 http://www.rdatamining.com/tutorials/rhadoop
+https://github.com/jseidman/hadoop-R
