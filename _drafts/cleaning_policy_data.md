@@ -6,7 +6,7 @@ categories: situated_cognition, big_data
 ---
 
 ![]()
-
+ 
 check previous posts about this topic
 
 original oecd data set
