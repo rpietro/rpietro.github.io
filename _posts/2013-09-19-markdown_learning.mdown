@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Markdown for learning materials?"
-date:   2013--
+date:   2013-09-19
 categories: situated_cognition, big_data
 ---
 
@@ -18,7 +18,6 @@ categories: situated_cognition, big_data
 * Tables: Tables are not only extremely easy to put together, but if you are performing data analyses you can very easily have tables automatically populated. The advantage is that if you modify your analysis in any way, ultimately affecting every cell in the table, using Markdown all results will be automatically updated without the need to manually do each cell all over again.
 * Styling CSS: Let's say you have a collection of one thousand documents, and all of a sudden you decide that you want to change their look and feel. Using [cascading style sheets (CSS)](http://www.w3schools.com/css/) the change can be made in a single document and then automatically spread to all documents. Of importance, this doesn't work all that well for PDF, although there are some potential solutions to this problem with software such as [Prince XML](http://www.princexml.com/)
 * Integration with data analysis: As mentioned in the point about tables, it is fairly easy to integrate Markdown with statistical languages like [R]() using packages such as [knitr](http://yihui.name/knitr/)
-* Amazing slide presentations: Although Pandoc Markdown 
-* integration with javascript and all kinds of gadgets
+* Amazing slide presentations: Although Pandoc Markdown does have a way to generate slides, [Slidify](http://slidify.org/) has a number of advantages that justify going along with it: Support for many different presentation modes, quizzes, dynamic graphics, among many other features.
 
-If you would like to give it a try, perhaps the best way is just to start using it in a tablet computer like the iPad, there are excellent [review articles talking about different apps](http://ipad.appstorm.net/roundups/productivity-roundups/the-14-best-markdown-editors-and-notepads-for-the-ipad/)
+There is obviously more, but this probably good enough for a post. If you would like to give it a try, perhaps the best way is just to start using it in a tablet computer like the iPad, there are excellent [review articles talking about different apps](http://ipad.appstorm.net/roundups/productivity-roundups/the-14-best-markdown-editors-and-notepads-for-the-ipad/)
