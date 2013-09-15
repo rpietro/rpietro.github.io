@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "Conceptual maps: An aid to a solution, but not a solution in and of itself"
+date:   2013--
+categories: situated_cognition, big_data
+---
+
+![]()
+
+
+
 doesn't take sit schema into account - need 4 Es
 meaningless or hard to understand outside of a specific situation
 

@@ -7,14 +7,21 @@ categories: situated_cognition, big_data
 
 ![]()
 
-Try lit review for simple topic
-Sit cog
-Quickly make it work
+what is missing - big picture about story to be told around gap
 
-Add new stuff until gets tired:
-XML parsing
-Cito
-Latex
-Storage gist (file limit)
-
-zoom in-out
+* try lit review for simple topic - key words
+* iteratively locate seminal paper, reading using EBM sequence and searching more until finds three key papers
+* locate main concepts around argument in intro or discussion - enrich to get sit schema but still without writing the sections
+* download abstract and full text of key papers in text (XML or html or txt) - storage gist
+* zoom in with search across papers and consistent search engine
+* enrich schema
+* zoom in 
+* search pubmed from within suite where rplos is included
+* enrich schema
+* zoom in 
+<!-- above is an iterative cycle -->
+* further enrich sit concept with concepts and short sentences
+* write narrative for intro or discussion
+* advanced methods
+    * XML parsing 
+    * Cito and LaTeX for typesetting

@@ -9,4 +9,4 @@ categories: situated_cognition, big_data
 
 check previous posts about this topic
 
-http://styleshapes.com/
+http://styleshapes.com/ 

@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Writing in another language"
+title:  "Translating learning materials in multiple languages"
 date:   2013--
 categories: situated_cognition, big_data
 ---
 
 ![]()
 
-I often go to other countries to talk about different methods to 
+translation of learning materials in multiple languages
 
-Writing in another language
 check all the documentation for google toolkit
 
 google toolkit
@@ -20,6 +19,4 @@ glossary https://support.google.com/translate/toolkit/answer/147859?hl=en
 
 glossary as a way to never forget a word since it will be automatically translated
 
-one possible way would be to translate back several documents into your native language
-
-importance of having content in text format
+importance of having content in text format - markdown for learning texts. I might talk about this in the future

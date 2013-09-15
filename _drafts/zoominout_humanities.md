@@ -7,4 +7,6 @@ categories: situated_cognition, big_data
 
 ![]()
 
-post on zoom in-out with tm and regexp on a series of philosohy encyclopedia papers
+zoom in-out on a series of philosohy encyclopedia papers
+
+video about doing this in sublime with regexp

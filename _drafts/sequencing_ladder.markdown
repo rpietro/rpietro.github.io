@@ -7,6 +7,6 @@ categories: situated_cognition, big_data
 
 ![]()
 
-content
+need to check previous post on ladder as it contrasts ladded and whole tasks
 
-Merrienboer's sequencing and ladder  
+Merrienboer's sequencing and ladder 
