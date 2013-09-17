@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Theory of constraints, "vocation" and learning"
+title:  Theory of constraints, vocation and learning
 date:   2013-09-17
 categories: situated_cognition, big_data
 ---
