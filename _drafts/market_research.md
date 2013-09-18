@@ -11,3 +11,5 @@ check previous posts about this topic
 
 questionnaire
 white paper
+conjoint
+needs and wants

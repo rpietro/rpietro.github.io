@@ -10,3 +10,7 @@ categories: situated_cognition, big_data
 check previous posts about this topic
 
 http://xuanji.appspot.com/isicp/ scip interactive
+
+clojure
+
+scip original link
