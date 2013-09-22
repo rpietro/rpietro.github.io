@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Error recovery and metacognition"
+title:  "Error recovery and meta-cognition"
 date:   2013-07-20
 categories: situated_cognition
 ---
@@ -13,3 +13,5 @@ Error recovery is likely better than just the isolated plain correct for a varie
 
 * this is what happens in real life. Life doesn't come with a second chance, and when you make a mistake you have to cope with the consequences, hopefully finding a way out of it. 
 * learning how to get out of a mistake will likely make you remember that lesson forever. If all you have to remember is the correct answer, then the memories connecting to that lesson will be way too poor.
+
+by Ricardo Pietrobon

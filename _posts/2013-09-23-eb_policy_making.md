@@ -14,3 +14,5 @@ I've recently [posted something on Google plus](https://plus.google.com/10626803
 3. To think of data as something objective and interest-free is highly misguided. The very act of designing a data collection or experiment already contains an intention to [demonstrate a few things and hide others](http://rpietro.github.io/situated_cognition,/big_data/2013/08/12/university_dilemma/)
 
 With these three points out of the way, I would argue that collecting some data using reproducible standards is at least something that can be criticized, while a mere opinion based on vested interests is hard to dissect. For example, if your data was collected in a reproducible manner I can criticize whatever aspect of it and try to do better, but if a politician simply states that something has to be done in a certain way because *that's the right thing to do*. The latter can't be argued about since the person who stated it is the most powerful stakeholder in the decision making process.
+
+by Ricardo Pietrobon

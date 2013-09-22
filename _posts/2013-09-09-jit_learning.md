@@ -20,3 +20,5 @@ There is a bunch of detail hidden into this description, and so let's dissect so
 4. In order to deliver content that is precisely what people need, a great deal of dynamic, real-time market research will be going on, with an even better experience monitoring after the content is delivered. The continuous production of additional content will be driven by both the market research and the experience monitoring. In other words, markets will be highly segmented.
 
 Anyway, like any prediction writer, I will likely regret having written this one, but it's written anyway.
+
+by Ricardo Pietrobon

@@ -14,3 +14,5 @@ It's then tempting to establish an analogy with learning to say that when trying
 This all sounds perfect, except that when you bring the functions-objects duo to humans you end up mixing a third component: Experience or, like some people prefer to call it, the situations surrounding functions & objects. Situations will affect how humans use functions/actions to act upon objects/things. 
 
 So, for example: I might coach a novice biomedical researcher by telling her that working in interdisciplinary groups is a good thing. However, if she feels that a given person would not be a good professional match for her, then the decision should be to not establish a collaboration with that individual. Also, I might coach another novice research into always reaching out to peers for further advice. That being said, if that novice researcher does not reach out in a way that is socially acceptable to within that research group, then no help will be provided.
+
+by Ricardo Pietrobon

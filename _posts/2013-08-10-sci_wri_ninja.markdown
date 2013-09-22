@@ -27,3 +27,5 @@ Of course this system is all but perfect, the main flaws being:
 * the taxonomy has to be better than what it currently is
 
 Pondering about creating a course on this and then making the system evolve to a serious library with a consistent taxonomy/ontology and later a plugin that would manage some of these problems. But let's see. So far I only got the course name down: *Scientific Writing Ninja* LOL
+
+by Ricardo Pietrobon

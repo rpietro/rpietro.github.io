@@ -15,3 +15,5 @@ But then if your new learning product involves a new type of experience, then it
 This is why I am now thinking that market research might be simply the first iterative cycle in an Agile chain. The process then should start with a market research, followed by an immediate release of a [minimum viable product (MVP)](http://en.wikipedia.org/wiki/Minimum_viable_product). Only then increments to that product are made through a series of small randomized experiments. 
 
 In this context, market research is not a definitive step, do or die. Instead, market research is just the start of an extensive experiment where the path can be re-oriented dynamically oriented as you go. So, if a given niche wants personalization, then given then the type of personalization they want. If their main need is deep content, then deep content it is, and so on.
+
+by Ricardo Pietrobon

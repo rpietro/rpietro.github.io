@@ -46,3 +46,5 @@ Most people love [Trello](https://trello.com/) since it's not only an outstandin
 As mentioned in the beginning, none of these principles are all or nothing. You can use bits and pieces of each of them or go full force. The point here is that you should not be religious about Agile, but you should instead know about each of the principles and then choose which ones are the best for you.
 
 can be adapted, how much is used is completely open
+
+by Ricardo Pietrobon

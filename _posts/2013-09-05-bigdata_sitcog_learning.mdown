@@ -21,3 +21,5 @@ Some evolving thoughts about what it means to combine Big Data and Situated Cogn
         * Practical relevance
         * Transfer to practice
         * Autonomy
+
+by Ricardo Pietrobon

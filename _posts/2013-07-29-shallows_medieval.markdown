@@ -23,3 +23,5 @@ This is all to say that the complaints about Web-driven multitasking being "the 
 Instead, it's probably time to leverage this new Web-situated cognition so that we can take full advantage of its multiple benefits. Of course this means we will have to have far more resources for formal and informal education taking advantage of situated cognition principles. Examples abound: Rather than preventing students from using Web sources, teach them about how to evaluate the quality of the information, blend different sources to come up with something new, focus on getting them to execute relevant tasks using information rather than imply having them memorizing content, and so on.
 
 Of course this new focus will require us to completely revamp education as we know it. I personally think that [Merrienboer's Complex Learning](http://www.amazon.com/Steps-Complex-Learning-Four-Component-ebook/dp/B009WMBP7O/ref=sr_1_1?s=books&ie=UTF8&qid=1375128942&sr=1-1) is in the direction we should be following, but this is a topic for another post altogether.
+
+by Ricardo Pietrobon

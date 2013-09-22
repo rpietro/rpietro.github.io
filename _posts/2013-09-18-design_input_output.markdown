@@ -18,3 +18,5 @@ For example, for a two-sample t-test, the biomedical researcher should think of 
 I am sure that at this point there might be people screaming out there by saying that t-tests are so much more complex and an introduction without x, x being a discussion about confidence intervals, or t distribution families, or how robust t-tests are to non-normal variables, or ... But I would argue that while all these points are important, they are not necessary to provide biomedical researchers with information so that they can start talking with data scientists. For example, if the data scientist took the body mass index and then turned it into a categorical variable, the biomedical researcher should be asking why rather than just saying amen. 
 
 I might come back to this topic later with some more solid examples.
+
+by Ricardo Pietrobon

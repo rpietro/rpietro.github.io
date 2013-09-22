@@ -17,3 +17,5 @@ First, concepts are only useful if they are put to a purpose, such as extending 
 Second, searching will provide students with sources of tools where these concepts can be put into practice. For example, if a student is attempting to learn what a statistical average is, simply learning the concept is not enough. The student has to try the concept using whatever tool on a dataset. 
 
 The idea of concepts and tools is not mine, but was instead developed by [Peter Gallison](http://www.fas.harvard.edu/~hsdept/bios/galison.html) in what he called [trading zones](http://en.wikipedia.org/wiki/Trading_zones). Tool use and using concepts in an interactive way can also be interpreted as an instance of [situated cognition](http://en.wikipedia.org/wiki/Situated_cognition)
+
+by Ricardo Pietrobon

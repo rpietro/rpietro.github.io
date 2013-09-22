@@ -20,3 +20,5 @@ But then what are the options? Creating an infinite number of tutorials is clear
     1. ability to track information, like an electronic medical record tracking every single step of the physician
     2. the concurrent documentation by the professional to enhance the data, or the physician constantly making notes to clarify any practice that might not be appropriately captured by the electronic medical record
     3. the existence of tools that will facilitate the transformation of that data into useful information, such as graphical tools that might make the workflow clear enough
+
+by Ricardo Pietrobon

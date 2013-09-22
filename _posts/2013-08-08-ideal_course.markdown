@@ -20,3 +20,4 @@ Of course I was disappointed and ended up dropping the course after a couple day
 5. i would like the course to adapt to me
 6. i would like to make choices in relation to course path
 
+by Ricardo Pietrobon

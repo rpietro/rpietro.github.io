@@ -20,3 +20,5 @@ Now, my point here is not really to say that one method is better than the other
 I guess my main point with this post is that one of the main future points in learning is personalization. The reason why good coaches are absolutely beloved by novice professionals is because they will pass the exact skills the novice needs to learn, at the exact time when it is needed. 
 
 Still a long way to go for us to create scalable systems to get there.
+
+by Ricardo Pietrobon

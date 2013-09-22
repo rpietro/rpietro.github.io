@@ -17,3 +17,5 @@ But then does this concept have any connection with the creation of online cours
 1. Run a quick and dirt market research survey before you launch something. In other words, which people care about what you have to say. Once you find a niche, create a course specifically for them
 1. Don't overdo it, create the simplest possible course you can in the beginning, and then improve from there
 2. Measure and experiment, which translates into metrics such as: are people completing the course, do they talk about it and what do they say, if you have some kind of satisfaction metric in there (5 stars will do), what is it that they are saying.
+
+by Ricardo Pietrobon

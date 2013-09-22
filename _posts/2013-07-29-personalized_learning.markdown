@@ -17,3 +17,5 @@ Just for the sake of example, let's say that I am trying to teach you how to mak
 1. Item stem: This is the way the question is formulated in an exercise. For example, exercises focusing on situations that might be problematic for both introverts and extroverts could be explored separately depending on the profile the student might fit in. 
 1. Item feedback: This is the feedback saying whether the student might have gotten the item right or wrong, and then providing feedback on why it was wrong and how to fix it. Here the way to fix a wrong answer might be different between an extrover and introvert. For example, while an introvert might want to simply state that he doesn't know but that he can get back to that person later, and extrovert might be encouraged to think on the spot, providing arguments that might lead toward an answer.
 1. Procedural information: These are the SOPs, which Merrienboer recommends should not be provided before the whole task, but *just in time*. The mechanism here is identical to the feedback, fitting it to the student's characteristics.
+
+by Ricardo Pietrobon

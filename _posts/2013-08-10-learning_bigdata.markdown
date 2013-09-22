@@ -24,3 +24,5 @@ The list is huge, and my goal here is not to cover them all. So, here is a first
     * How useful was the learning? Did students get a job? Did they get a promotion? Did it lead the student to do social good?
 
 I guess my point is that big learning data is certainly about the act of absorbing information, but what comes before and after as well as all the other factors that come along also do matter.
+
+by Ricardo Pietrobon

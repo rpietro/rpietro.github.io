@@ -12,3 +12,5 @@ Just finished reading Nina Amir's [How to blog a book](http://www.amazon.com/How
 Although one would possibly question whether somebody would feel *cheated* in buying a book when parts of it are online, there is something about the book as a unit that is hard to describe. I noticed this when I started consulting [Hadley Wickham's book on R Advanced Programming](http://adv-r.had.co.nz/). I have probably read some of his chapters at least four times, and yet I can barely wait for the ebook to come out. Why? Perhaps it's because it will have a final touch to it, sections will be more connected than they are now. Looking back, these are probably not reasons that would justify the buying of a book, maybe I'm just trying to rationalize the need to say thanks for putting together such a fantastic resource.
 
 Now, whether I will be blogging a book once again? Probably not for a while, but never say never ...
+
+by Ricardo Pietrobon

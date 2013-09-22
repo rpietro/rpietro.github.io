@@ -16,5 +16,6 @@ We are now testing the use of 3D models to educate healthcare professionals in r
 4. *Treatment*: Although treatment is not only about biomechanics, biomechanics does play an important role in defining how a certain fracture type should be treated. The idea for treatment then is to build dynamic models that will show how a given device or immobilization method interacts with the fracture biomechanics, making the treatment process more rational rather than an act of memorization.
 
 At this point we are focusing only on static images, but dynamic ones should be coming up soon, along with evidence-based information. One of my surprises when going over musculoskeletal models available in the most common 3D repositories is how poor they are. They will frequently lack very important bone details, have details that absolutely do not exist, the relationship among the bones is just plain wrong, among many other things. If the situation with skeletons is overall poor, it gets much worse when it comes to models combining bones, ligaments, cartilage, muscles and other anatomical structures. Let's then not even talk about dynamic models. 
-
 In sum, a ton of work moving forward. 
+
+by Ricardo Pietrobon

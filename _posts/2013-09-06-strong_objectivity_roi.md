@@ -24,3 +24,5 @@ So, which mechanisms could give us a better rat wheel? Below are some random tho
 
 1. Strong objectivity will only happen if I can map where you are coming from. Systems that continuously collect information about a person like in the [quantified self movement](http://quantifiedself.com/), compile that same information from multiple sources and then dynamically process it to be presented in an understandable way would be ideal. So, for example, my profile might say that indeed Chuck the bulldog are hanging out together most of the time.
 2. Alternative arrangements between university and companies will have to be made, the ivory tower has to be integrated far beyond what it does now, although it is more likely that other organizations will be built from the ground up to fulfill that societal need, now in a more sustainable way.
+
+by Ricardo Pietrobon

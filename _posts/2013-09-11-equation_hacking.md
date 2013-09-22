@@ -25,3 +25,5 @@ Again, it's no rocket science and it will likely get the data science practioner
     * [Calculus](https://www.khanacademy.org/math/calculus) there are some attempts now by the Project Mosaic to [teach Calculus using R](http://test.causeweb.org/wiki/mosaic/index.php/Pub114) but I haven't tried it
     * [Linear algebra](http://www.amazon.com/Hands-On-Matrix-Algebra-Using-Applications/dp/9814313696), and Vinod's book is extraordinary, just too bad that it doesn't have a Kindle version
     * [Differential equations](http://www.amazon.com/Solving-Differential-Equations-Use-ebook/dp/B00DGERDI4/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid=), and here Soetaert's book is definitely the place to go
+
+by Ricardo Pietrobon

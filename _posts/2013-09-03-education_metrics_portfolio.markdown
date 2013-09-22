@@ -14,3 +14,5 @@ Here is an example: Think about a nurse researcher, who has a clinical practice 
 Despite the differences between the two areas, what is common between the two is the value that stakeholders will give to a certain skill. For example, patients interacting with a highly empathic nurse might say that this is the most important characteristic ever, whereas in a research environment this might be something nice to have but significantly downplayed if the research skills are not up to par. 
 
 A way to summarize this is that portfolio's should be about what a person can do with what a person can do with a certain skill in a given environment much more than simply having the skill. In other words, we are looking for pragmatic, situated portfolios rather than theoretical ones. Exactly how to measure and display this is still an open question, at least to me.
+
+by Ricardo Pietrobon

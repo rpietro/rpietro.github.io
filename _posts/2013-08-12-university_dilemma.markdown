@@ -14,3 +14,5 @@ The university is one of the most interesting institutions in our society, and y
 2. If it goes the industry funding way, it becomes a pet. Despite the best intentions by conflict of interest committees researchers will design studies to prove industry products effective and later will hold back any criticism to their products since that would cut their chances of getting the next funding cycle.
 
 Does it mean that good science can't be done? Absolutely not, there is still plenty of exciting projects, probably more than ever. But then, the problem persists without a solution that could take the university to the next level.
+
+by Ricardo Pietrobon

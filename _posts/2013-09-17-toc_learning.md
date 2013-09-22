@@ -20,3 +20,4 @@ If you then think of learning as being determined by TOC, the two problems peopl
 
 Problem and skill identification are both coaching components, and as we recently learned from [Tutorspree's experience](http://rpietro.github.io/situated_cognition,/big_data/2013/09/16/coaching_learning/), coaching is difficult to scale. Lots of work ahead of educators.
 
+by Ricardo Pietrobon

@@ -56,3 +56,5 @@ Just a simple list of skills that, in my personal opinion, make it for a good se
     * blogging and white papers
     * presentation - audience, fear, handling difficult questions, presentation structure, videos 
     * white papers
+
+by Ricardo Pietrobon

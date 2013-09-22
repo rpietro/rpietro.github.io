@@ -16,3 +16,5 @@ But how do you increase the communication in this [trading zone](http://en.wikip
 For example, if we treat a logistic regression model as an input-output device, then it will require a dichotomous (yes/no) variable as input to be predicted, a group of variables or any kind as predictors. The output will have a series odds ratios that can be interpreted as the risk increase in the occurrence of the outcome associated with a given predictor. Present a table, and then show exactly what an odds ratio is, what the confidence interval is and what it means.
 
 Now, does the input-output model provides for a comprehensive learning experience? Absolutely not, but that's not what we want when getting a clinical researchers started on a quantitative topic. Instead, what they need is a sense of mastery on a simplified task, something that will give them the confidence to start a discussion with the quantitative experts and, then, the interest to start learning beyond that initial whole task. 
+
+by Ricardo Pietrobon
