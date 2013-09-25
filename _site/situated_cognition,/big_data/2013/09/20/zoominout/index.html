@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>divein coaching</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="big data and behavioral sciences applied to immersive distance education">
+
+    <link href="/css/bootstrap.css" rel="stylesheet">
+    <style>
+      body {
+        padding-top: 60px;
+      }
+    </style>
+    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="#">divein coaching</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="active"><a href="/">Home</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+<div class="row-fluid">
+	<div class="span8">
+		<h1>Novice researchers learning how to conduct a literature review: An iterative zoom-in-out method</h1>
+		<p class="muted">20 September 2013</p>
+
+		<p><img src="https://lh4.googleusercontent.com/-MAVte8M8bIE/UjY9EdKFlSI/AAAAAAAA328/ylvieZYqi70/w480-h680-no/fractal.png" alt=""></p>
+
+<p>One of the most common mistakes made by a novice researcher when writing an original scientific paper is to write sections requiring a literature review one paper at a time. When they do this, it read like &quot;author A said X,&quot; &quot;author B said Z,&quot; and &quot;author C said Z.&quot; What is usually missing is not only the connection among each one of these statements but a true narrative telling a story that will connect with readers. Bear in mind, while on the surface we might sound like sophisticated scientists, in reality we are just the same cave men who gathered around the fire telling stories to each other for thousands of years.</p>
+
+<p>But then, how does a novice researcher go from first getting acquainted with some papers in the field to a coherent and engaging narrative? What follows is an evolving method, and it is not trivial as it will require that you have a good level of technical sophistication. While I do plan on putting together a mini-course describing each step in detail, for now this is just an introduction:</p>
+
+<ol>
+<li><em>Get to know the field before you write anything</em>: First things first: Do not write the sections of the Introduction and Discussion sections of your paper before you have a good understanding of the literature. I know this sounds like a waste of time, but it will be easier in the end, trust me. One of the problems of writing a choppy, one paper at a time section is that once you commit to that kind of structure, it&#39;s actually pretty hard to get out. Almost like a conceptual cage. Of importance, there is a sea of difference between the role and way you write the literature review for the Introduction and Discussion sections, but this is a topic I won&#39;t cover now. </li>
+<li><em>Define your initial set of concepts</em>: The key for a smart search is to identify the kinds of concepts and their synonyms you would like to find. For example, I might want to find all the instances of the concepts &quot;situated&quot; within a certain proximity from the concept &quot;cognition&quot; and in articles</li>
+<li><em>Proper software</em>: Install a copy of <a href="http://jabref.sourceforge.net/">JabRef</a>. While most academics nowadays use <a href="http://www.zotero.org/">Zotero</a>, <a href="http://www.mendeley.com/">Mendeley</a>, or <a href="http://endnote.com/">Endnote</a>, the main advantage of JabRef is that all your citations are stored as text files, and as I will describe later on.</li>
+<li><em>Agregate searches across bibliographic databases</em>: Run web searches from within JabRef, using as many bibliographic databases as you think might be required. I won&#39;t go over the details required to search within each one of them, which can be found on <a href="http://jabref.sourceforge.net/help/Contents.php">JabRef&#39;s help page</a> but by and large you will run boolean searches as you would on the original page. You can also run a search on the database page, export the search results as a file, and then import it into JabRef.</li>
+<li><em>Store your citations as text files and then search using regexp and text mining functions</em>: JabRef saves the full library as a .bib file, meaning that this is a text file. To search the full file, simply enter into regular expression mode and you will have a much more powerful search than you could have within JabRef or the original application. Take that same file and treat with the <a href="http://cran.r-project.org/web/packages/tm/vignettes/tm.pdf">tm package</a> in <a href="http://www.r-project.org/">R</a> and you will have the ability to slice and dice your search in every single imaginable way. Of importance, go ahead and create a repo in <a href="">Gihub</a> so that you can version your search as well as allow your collaborators and others to fork it.</li>
+<li><em>Try to find the key papers to use in your Introduction or Discussion sections</em>: Once regexp and text mining have given you tips on whether a certan paper might contain the type of information you want, evaluating its methodology should follow a <a href="http://www.amazon.com/How-Read-Paper-Evidence-Based-ebook/dp/B005D7EUBA/ref=tmm_kin_title_0">regular evidence-based sequence</a>. Rather than trying to exhaust the literature, a good rule of thumb is to find the three or four key articles in relation to that topic, read them carefully, and then check their citations and the papers that have cited them, obviously including the relevant ones to your JabRef text file.</li>
+<li><em>Enrich the citations with full text articles of the key papers</em>: Once you have identified the key papers for each topic, grab their HTML files saved as complete Web pages and paste those into the <em>Review</em> field within RefJab. This will include the full text into your final .bib file, allowing you to run regexp and text mining methods also across the full text. Notice that for certain databases such as PubMed, full-text search is not available. The PDF for each article should also be store within RefJab, although you won&#39;t use PDFs for your regexp/text mining. Last, for bibliographic databases having alert functionality, go ahead and set queries that will keep sending you additional references throughout the course of your project. One word of caution when storing full-text HTML in your bib files under GitHub is that you should not place copyrighted material under a public repo. So, if you have copyrighted full-text articles, simply use a private repo.</li>
+<li><em>Zoom in and out</em>: From then on you will be constantly zooming out and looking at the conceptual map that you build as you read the key papers, and then zooming in to get the details of each key publication. The process is iterative and should probably last for the entire project lifecycle.</li>
+</ol>
+
+<p>by Ricardo Pietrobon</p>
+
+	</div>
+	<div class="span4">
+		<h3>About Me</h3>
+
+<p>My name is Ricardo Pietrobon and I am interested in big data and situated cognition applied to immersive distance education.</p>
+
+<ul>
+  
+    <li><a href="/situated_cognition,/big_data/2013/09/28/coaching_posts/">Orientando pesquisadores: O começo de uma série de artigos</a></li>
+  
+    <li><a href="/situated_cognition,/big_data,/facebook/2013/09/27/coaching_posts/">Coaching researchers: Beginning a series of posts</a></li>
+  
+    <li><a href="/situated_cognition,/big_data/2013/09/26/givedirectly_libations/">GiveDirectly libations</a></li>
+  
+    <li><a href="/situated_cognition,/big_data/2013/09/25/shinto_monism_learning/">Shinto, situated cognition, and monism</a></li>
+  
+    <li><a href="/situated_cognition,/big_data/2013/09/24/sequencing_ladder/">Merrienboer, whole tasks and the learning ladder</a></li>
+  
+</ul>
+	</div>
+</div>
+
+</div>
+
+  </body>
+</html>

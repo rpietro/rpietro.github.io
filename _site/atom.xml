@@ -4,7 +4,7 @@
 	<title type="text" xml:lang="en"></title>
 	<link type="application/atom+xml" href="http://rpietro.github.io/feed/" rel="self"/>
  	<link type="text" href="hhttp://rpietro.github.io/" rel="alternate"/>
-	<updated>2013-08-31T23:16:30-04:00</updated>
+	<updated>2013-09-25T11:00:11-04:00</updated>
 	<id>http://http://rpietro.github.io/</id>
 	<author>
 		<name>Ricardo Pietrobon</name>
@@ -13,516 +13,441 @@
 	
 	
 	<entry>
-		<title>Basic skills for clinical researchers working with biomedical data</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/31/basic_skills_clinical_researchers/"/>
-		<updated>2013-08-31T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/31/basic_skills_clinical_researchers</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-Gp5-KazjVkM/UiJv_vHpL6I/AAAAAAAA3G0/5O9f_B2Osw4/w500-h300-no/blog.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+		<title>Orientando pesquisadores: O começo de uma série de artigos</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/28/coaching_posts/"/>
+		<updated>2013-09-28T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/28/coaching_posts</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-NFPD8IREMX4/UkLT_E35bCI/AAAAAAAA4Uk/VdQPKKT90To/w805-h403-no/fractal2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Just a simple list of skills that, in my personal opinion, make it for a good set of skills a clinical researcher should have in order to explore a topic from multiple design perspectives.&lt;/p&gt;
+&lt;p&gt;Estou começando uma série de posts que sobre sugestões práticas para pesquisadores. Minha experiência decorre de ter &lt;a href=&quot;http://scholar.google.com/citations?user=F5m0nQoAAAAJ&amp;amp;hl=en&quot;&gt;publicado em pesquisas clínica&lt;/a&gt; por muitos anos, além de ter conduzido um programa de treinamento focado em professores juniores na Duke University e algumas outras instituições. Isso significa que os posts frequentemente vão usar exemplos relacionados com a área biomédica e análise de dados, mas acredito que a maioria do conteúdo pode ser extrapolado para outras áreas de pesquisa.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Design
+&lt;p&gt;Cada uma destes posts estará disponível em Inglês e Português, geralmente postados em dias consecutivos. Os posts também serão publicados nas respectivas paginas do Facebook, nas suas versões global e brasileira, a página brasileira &lt;a href=&quot;https://www.facebook.com/groups/578812732155954/?bookmark_t=group&quot;&gt;já estando disponível&lt;/a&gt;. Outras línguas podem vir a aparecer posteriormente caso os posts gerem interesse. &lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Cross-sectional&lt;/li&gt;
-&lt;li&gt;Trends&lt;/li&gt;
-&lt;li&gt;RCTs&lt;/li&gt;
-&lt;li&gt;Qualitative&lt;/li&gt;
-&lt;li&gt;Surveys&lt;/li&gt;
-&lt;li&gt;Longitudinal&lt;/li&gt;
-&lt;li&gt;Time to event&lt;/li&gt;
-&lt;li&gt;Classification&lt;/li&gt;
-&lt;li&gt;Scales&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Writing
-
-&lt;ul&gt;
-&lt;li&gt;Introduction&lt;/li&gt;
-&lt;li&gt;Methods and standards&lt;/li&gt;
-&lt;li&gt;Results and mock tables&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Analysis interpretation
-
-&lt;ul&gt;
-&lt;li&gt;Inferential tests&lt;/li&gt;
-&lt;li&gt;Regression&lt;/li&gt;
-&lt;li&gt;Time to event&lt;/li&gt;
-&lt;li&gt;Scales&lt;/li&gt;
-&lt;li&gt;Classification&lt;/li&gt;
-&lt;li&gt;SEM&lt;/li&gt;
-&lt;li&gt;qualitative and qca&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Data management and exploratory graphical analysis
-
-&lt;ul&gt;
-&lt;li&gt;Data cleaning&lt;/li&gt;
-&lt;li&gt;Association plots&lt;/li&gt;
-&lt;li&gt;Maps&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Qualitative data collection
-
-&lt;ul&gt;
-&lt;li&gt;data collection, interview techniques, storage&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Survey data collection
-
-&lt;ul&gt;
-&lt;li&gt;questionnaire set up, mturkR&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Finding existing data
-
-&lt;ul&gt;
-&lt;li&gt;repositories&lt;/li&gt;
-&lt;li&gt;csv&lt;/li&gt;
-&lt;li&gt;what is xml, json, rdf&lt;/li&gt;
-&lt;li&gt;large data and mysql&lt;/li&gt;
-&lt;li&gt;what is hadoop&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Writing of grant proposals
-
-&lt;ul&gt;
-&lt;li&gt;specific aims, significance, innovation, approach, cvs&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Literature search 
-
-&lt;ul&gt;
-&lt;li&gt;google search, pubmed, reference manager, map against manuscript&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Reproducible research&lt;/li&gt;
-&lt;li&gt;Project management
-
-&lt;ul&gt;
-&lt;li&gt;agile, &lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Dissemination 
-
-&lt;ul&gt;
-&lt;li&gt;blogging and white papers&lt;/li&gt;
-&lt;li&gt;presentation - audience, fear, handling difficult questions, presentation structure, videos &lt;/li&gt;
-&lt;li&gt;white papers&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Mas chega de conversa, mãos a obra ...&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
 	<entry>
-		<title>Complex Learning IDM, whole tasks, and task ladders</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/30/whole_task_ladder/"/>
-		<updated>2013-08-30T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/30/whole_task_ladder</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.edudemic.com/wp-content/uploads/2012/12/boy-writing-with-pencil.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+		<title>Coaching researchers: Beginning a series of posts</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data,/facebook/2013/09/27/coaching_posts/"/>
+		<updated>2013-09-27T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data,/facebook/2013/09/27/coaching_posts</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-NFPD8IREMX4/UkLT_E35bCI/AAAAAAAA4Uk/VdQPKKT90To/w805-h403-no/fractal2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;While I truly admire &lt;a href=&quot;http://www.amazon.com/Steps-Complex-Learning-Four-Component-ebook/dp/B009WMBP7O/ref=tmm_kin_title_0&quot;&gt;Merrienboer&amp;#39;s Complex Learning instructional design model (IDM)&lt;/a&gt;, every time a fixed set of guidelines is defined, it almost automatically sets itself for exceptions. Complex Learning follows the rule, and here I will try to present a problem that I believe is an exception to one of the central tenets behind Complex Learning: The need to use Whole Tasks.&lt;/p&gt;
+&lt;p&gt;I am starting a series of posts I plan on publishing about practical suggestions for researchers. My experience stems from having &lt;a href=&quot;http://scholar.google.com/citations?user=F5m0nQoAAAAJ&amp;amp;hl=en&quot;&gt;published in clinical and health services research&lt;/a&gt; for many years, as well as having run a coaching program targeting junior faculty members at Duke University and a few other institutions. All this means is that my posts will frequently use examples related to the biomedical and data sciences, but I also believe that most of the content can be extrapolated to other research areas.&lt;/p&gt;
 
-&lt;p&gt;Merrienboer sees whole tasks as being authentic and representative of what students are going to find in their daily personal or professional practice. In &lt;a href=&quot;http://dspace.ou.nl/bitstream/1820/2327/1/Ten%20Steps%20to%20Complex%20Learning%20-%20Sage%2021st%20Century.pdf&quot;&gt;his words&lt;/a&gt;:&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;These approaches all focus on authentic learning tasks as the driving force for teaching and learning because such tasks are instrumental in helping learners to integrate knowledge, skills, and atti- tudes (often referred to as competences), stimulate the coordination of skills constituent to solving problems or carrying out tasks, and facilitate the transfer of what has been learned to new and often unique tasks and problem situations (Merrill, 2002b; van Merriënboer, 2007; van Merriënboer &amp;amp; Kirschner, 2001).
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;In situations where a whole task cannot be brought in as a component of the educational plan, then Merrienboer recommends that it be substituted by segments that retain the whole task spirit, which completely makes sense.&lt;/p&gt;
+&lt;p&gt;Each of these posts will be available in English and Portuguese versions, usually posted in consecutive days. They will also be published to the respective Global and Brazilian versions of a Facebook Group page, the Brazilian page [already being available]](https://www.facebook.com/groups/578812732155954/?bookmark_t=group). Other languages might follow depending on whether the posts generate some interest. &lt;/p&gt;
 
-&lt;p&gt;But then, the idea of relying on whole tasks as a rule violates what happens with most experts as they climb up the learning ladder. For example, if you have a lab director or store manager with a number of assistants, at one point this person will no longer need or even want to execute tasks from start to finish in order to move up in their expertise. Instead, they will rely on their assistants to execute the tasks that they are already familiar with, waiting for them to filter the more complex problems that are then brought to their attention. In this ladder mechanism individuals rely on others to do the tasks they already know by heart, waiting for them to bring more sophisticated problems to their attention, ultimately sharpening their skills without unnecessary repetition. &lt;/p&gt;
-
-&lt;p&gt;Now, I have not approached Merrienboer himself regarding this problem, and maybe his response would be that the definition of what constitutes a whole tasks would get narrower and narrower as expertise is built. In any case, this is perhaps more of an addition to his impressive IDM rather than a flaw.&lt;/p&gt;
+&lt;p&gt;Enough said, let&amp;#39;s get to work ...&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
 	<entry>
-		<title>Learning Agile project management applied to clinical research</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/29/agile_management/"/>
-		<updated>2013-08-29T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/29/agile_management</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://tiny-giant-books.com/blog/wp-content/uploads/2012/02/agile-edge-case-ninja.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+		<title>GiveDirectly libations</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/26/givedirectly_libations/"/>
+		<updated>2013-09-26T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/26/givedirectly_libations</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-LJRJzeuK15Q/Ujx5wKJIJFI/AAAAAAAA4LE/C4LZ_gPyNHU/w707-h481-no/fractals.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;The &lt;em&gt;Agile mania&lt;/em&gt; started within &lt;a href=&quot;http://agilemanifesto.org/&quot;&gt;software development&lt;/a&gt;, but has been gradually moving into business areas, the most famous being the whole &lt;a href=&quot;http://theleanstartup.com/&quot;&gt;Lean Startup movement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You&amp;#39;ve probably heard of people who floss in the shower just because it creates an automatic habit. So, along &lt;a href=&quot;http://people.brandeis.edu/%7Eteuber/singermag1.html&quot;&gt;Peter Singer&amp;#39;s proposal&lt;/a&gt; that we should all donate money to people who didn&amp;#39;t have the same opportunities we did, I am proposing the idea of &lt;a href=&quot;https://www.givedirectly.org/give.php&quot;&gt;GiveDirectly&lt;/a&gt; libations. Here is how it works: You simply place the GiveDirectly link on the top of your bookmark, making it visible at all times:&lt;/p&gt;
 
-&lt;p&gt;But then, some areas such as biomedical research are fairly slow to adopt, usually under untested claims that &lt;em&gt;this is not for us&lt;/em&gt; or &lt;em&gt;won&amp;#39;t work here&lt;/em&gt;. Sure enough, full-blown Agile is not for everybody or every project, but that doesn&amp;#39;t excuse people from at least looking at which features of this methodology could potentially bring value. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-Qr-jEqqbGuo/Ujx2socEoMI/AAAAAAAA4Kk/rxMBxUOShwU/w454-h141-no/Screen+Shot+2013-09-20+at+12.23.12+PM.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;So, what are the main principles behind Agile and how exactly could they fit to the whole clinical research enterprise? Below is a non-comprehensive first shot at both of these questions selecting the ones I personally think are most relevant:&lt;/p&gt;
+&lt;p&gt;Then, every time you feel like you have to ask your gods for support or strength or hope or simply luck, you go ahead and make a GiveDirectly libation by donating some money. The quantity is proportional to how much you might want to get your gods on your side, some of them might be picky.&lt;/p&gt;
 
-&lt;h2&gt;Focus on your client&lt;/h2&gt;
+&lt;p&gt;GiveDirectly is one of the best donation sites, with &lt;a href=&quot;https://www.givedirectly.org/give.php&quot;&gt;90 to 93% of your donation being transferred to the people who need the money&lt;/a&gt;. This will allow them to buy food, get better shelter, learn something, or &lt;a href=&quot;http://www.givedirectly.org/faqs.php&quot;&gt;do whatever they think their top priority might be&lt;/a&gt;.&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Shinto, situated cognition, and monism</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/25/shinto_monism_learning/"/>
+		<updated>2013-09-25T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/25/shinto_monism_learning</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/--0Nq3O2KBnQ/Ujpbfxsl2NI/AAAAAAAA4JM/T2C3ycZ6gWY/w480-h680-no/fractal.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;When you start a clinical research project, you have to have a clear picture of the goal you are trying to achieve and who is interested in the final product. Clinical research could accommodate multiple goals, but I would probably argue that the following are among the top ones: &lt;/p&gt;
+&lt;p&gt;An upfront disclosure: I am agnostic. By that I mean that I am indifferent to whether gods might or not exist, whether there might be something after what we know as life, and other concepts that are typically attributed to the realm of religion. An important distinction, I am not an atheist, meaning that I don&amp;#39;t deny the existence of gods. I am simply indifferent: Whether they might or not exist is simply not a concern of mine. But in being agnostic I have a deep respect for the power religion has on human beings and how deeply it affects literally all of us, whether you might follow any religion, be atheist or an agnostic. &lt;/p&gt;
+
+&lt;p&gt;With that disclosure out of the way, one of the most interesting concepts I&amp;#39;ve found in religious movements is the idea of integration with the whole universe. I was first introduced to the concept during a period in which I practiced &lt;a href=&quot;http://en.wikipedia.org/wiki/Aikido&quot;&gt;Aikido&lt;/a&gt; for a year or so. Every class had a practice of the martial art as a physical exercise, but also short lectures on the importance of being integrated with the universe in order to execute the Aikido movements. Briefly, one of the main concepts behind Aikido is that you don&amp;#39;t fight &lt;em&gt;against&lt;/em&gt; somebody, but you instead let the energy of your opponents be directed against them. In order to do this, as my Aikido instructor always said, when the energy comes to you, you simply dissipate it by letting it go through. &lt;/p&gt;
+
+&lt;p&gt;How effective Aikido is as a martial art for street fighting is beyond the point of this post, but the point I want to make is that the concept of being integrated with the universe and participating in an overarching energy flow seem to have gotten to Aikido from &lt;a href=&quot;http://en.wikipedia.org/wiki/Shinto&quot;&gt;Shinto&lt;/a&gt;. The concept is actually spread to a number of areas that have no connection to either Shinto or Aikido, a very recent example being &lt;a href=&quot;http://en.wikipedia.org/wiki/Parkour&quot;&gt;Parkour&lt;/a&gt;, where people get through city barriers such as eight feet walls not by attacking them but actually &lt;a href=&quot;http://www.youtube.com/watch?v=aAhPaiajwDY&quot;&gt;moving in harmony with them&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Perhaps what is common to Aikido, Shinto and Parkour is the idea of &lt;a href=&quot;http://en.wikipedia.org/wiki/Monism&quot;&gt;Monism&lt;/a&gt;, or the concept that there is a unity that is inherent to all things. Where learning comes into the scene, I think, is with the concepts of using &lt;a href=&quot;http://en.wikipedia.org/wiki/Situated_cognition&quot;&gt;situated cognition&lt;/a&gt; permeate the learning process. I have covered some of these concepts in a &lt;a href=&quot;http://rpietro.github.io/situated_cognition,/big_data/2013/07/29/shallows_medieval/&quot;&gt;previous post&lt;/a&gt;, but one example would be that learning is not about simply absorbing concepts, but it is instead about interacting with your environment to produce some kind of outcome. For example, rather than just learning a programming language, students will also learn how to properly ask other programmers for help or how to search for the latest tools that might help beyond what they learned during the course. In another situation, rather than simply learning about, say, racial disparities, one would take a course as an opportunity to be coached while actively working with a community to address sources of disparity.&lt;/p&gt;
+
+&lt;p&gt;The point in all of this is that the distinction between the concepts underlying religion, the sciences, humanities and likely anything humans touch is very subtle. Perhaps this is why I think that those strongly arguing in favor of a certain religion or against all religions are probably mistaken. Just look around and you will see religious concepts permeating all we do, learning included.&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Merrienboer, whole tasks and the learning ladder</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/24/sequencing_ladder/"/>
+		<updated>2013-09-24T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/24/sequencing_ladder</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-9M89ShrDfCI/UjnxONF95nI/AAAAAAAA4H8/19ksRO9GP20/w480-h680-no/fractal2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;In a &lt;a href=&quot;http://rpietro.github.io/situated_cognition,/big_data/2013/08/30/whole_task_ladder/&quot;&gt;previous post&lt;/a&gt; I have argued that while I agree with Merrienboer&amp;#39;s concept of whole tasks as an essential component in the learning process, as students increase their skill levels, they might need to step out of whole tasks to focus on narrower sectors of a given task. The latter is called a learning ladder, where experts receive only particular sectors of a given whole task where there are unusual problems. Because these problems are unusual, experts continue to accumulate experience with interesting problems, ultimately honing their skills even further.&lt;/p&gt;
+
+&lt;p&gt;What I failed to mention, however, is that although the learning ladder and the whole task principle are somewhat at odds, the ladder certainly aligns with Merrieboer&amp;#39;s sequencing concept. In Merrienboer&amp;#39;s terminology, sequencing means that whole tasks should be made progressively more complex. What the learning ladder brings to the table is simply the practical realization that if complexity levels keep going up, it is no longer feasible for the student to focus on everything, but more practical to let other team members deal with the every day components of the whole task, while the expert deals with the unusual and complex.&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Need for evidence-based policy making in education</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/23/eb_policy_making/"/>
+		<updated>2013-09-23T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/23/eb_policy_making</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-V2EmCX1ceMg/UjnxOXj6gJI/AAAAAAAA4IA/k88cluJk3Uk/w480-h680-no/fractal3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ve recently &lt;a href=&quot;https://plus.google.com/106268032364497388036/posts/81Ka8i8u43W&quot;&gt;posted something on Google plus&lt;/a&gt; where I argued that the sources behind educational policy making should contain at least some degree of data. In our day and age, it would be naive to think that policy making can be entirely based on data for at least a few reasons: &lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Create knowledge that is brand new, filling a gap in the literature. Your client here will be your journal editor and your peers&lt;/li&gt;
-&lt;li&gt;Create knowledge that will be useful to patients, addressing a need that wasn&amp;#39;t fulfilled up to this point. Your primary client here are patients around the world&lt;/li&gt;
-&lt;li&gt;Do something that is achievable within the resources at your disposal. Your main client here are the people working with you, as you don&amp;#39;t want them to embark on a project unless you know it can get to a successful closure.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Policy-Making-Education-Holistic-Approach-Response/dp/1607091615/ref=sr_1_3?ie=UTF8&amp;amp;qid=1379477791&amp;amp;sr=8-3&amp;amp;keywords=policy+making+in+education&quot;&gt;Studies have shown over and again&lt;/a&gt; that educational policy making is primarily driven by personal interests of those in the top ranks of each national government.&lt;/li&gt;
+&lt;li&gt;We simply don&amp;#39;t have enough data, experimental or observational, to cover all the data needs to create evidence-based policy.&lt;/li&gt;
+&lt;li&gt;To think of data as something objective and interest-free is highly misguided. The very act of designing a data collection or experiment already contains an intention to &lt;a href=&quot;http://rpietro.github.io/situated_cognition,/big_data/2013/08/12/university_dilemma/&quot;&gt;demonstrate a few things and hide others&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Although all of this might sound like common sense, most clinical research project will miss one or more of these: Starting a project without thoroughly evaluating how novel the project is, focusing on something that is new but trivial, or embarking on a project that is clearly impossible to complete.&lt;/p&gt;
+&lt;p&gt;With these three points out of the way, I would argue that collecting some data using reproducible standards is at least something that can be criticized, while a mere opinion based on vested interests is hard to dissect. For example, if your data was collected in a reproducible manner I can criticize whatever aspect of it and try to do better, but if a politician simply states that something has to be done in a certain way because &lt;em&gt;that&amp;#39;s the right thing to do&lt;/em&gt;. The latter can&amp;#39;t be argued about since the person who stated it is the most powerful stakeholder in the decision making process.&lt;/p&gt;
 
-&lt;h2&gt;Incomplete and functioning products&lt;/h2&gt;
-
-&lt;p&gt;Agile assumes that the world is not only constantly changing, but that you are also constantly learning about the world around you. As a function of both of these principles, Agile says that you should not embark on long development periods without exposing something that is both incomplete and functioning to your client. &lt;/p&gt;
-
-&lt;p&gt;Bringing this to clinical research, one of the applications is that you should not design a full blown clinical study without doing a quick and dirty test of each one of its phases. For example, I have seen researchers designing studies where they honestly thought that a single patient would answer a questionnaire with 100 pages. The worst part is that I am not kidding. This assumption of participants with super powers and infinite time and patience went untested throughout the funding acquisition, staff recruitment, ethical approval, just to fail miserably when the first research participant came through. This could have been easily avoided with a simple test at the very beginning. Again, it doesn&amp;#39;t have to be complete, a simple portion of the protocol will do. But it has to be functional, meaning that it has to reproduce at least some aspects of the protocol.&lt;/p&gt;
-
-&lt;h2&gt;Iterate&lt;/h2&gt;
-
-&lt;p&gt;Iteration is a function of incomplete and functional products. In other words, you keep running small trials, having it evaluated by your client, and then improving a bit every time. &lt;/p&gt;
-
-&lt;p&gt;Back to our impossible 100-page data collection study, a quick test would show that 100-pages is impossible, a second test would show that even 10 pages is too much, and the final test would show that a very well selected one-page is probably what you need. You then run this through some peers to see whether the final article coming out of that one very well crafted page would provide the answer to your gap. &lt;/p&gt;
-
-&lt;h2&gt;Minimum viable product&lt;/h2&gt;
-
-&lt;p&gt;The idea of a minimum viable product or MVP is that because you work in cycles, you don&amp;#39;t want your first product to be perfect. Actually, perfection is probably not in your dictionary. Instead, what you want is something that is progressively better, achievable, but at the same time adapted to your environment. &lt;/p&gt;
-
-&lt;p&gt;Back to the clinical research world, you don&amp;#39;t want to design the study that will provide answers to everything, from the cure of cancer all the way to the end of the Syria conflict. Instead, you want something that will answer your question in the simplest possible way. Once that is achieved, then you can increment your study with an additional cohort or a longer follow-up, or whatever you think might bring value to the study in the long run.&lt;/p&gt;
-
-&lt;h2&gt;Trello&lt;/h2&gt;
-
-&lt;p&gt;Most people love &lt;a href=&quot;https://trello.com/&quot;&gt;Trello&lt;/a&gt; since it&amp;#39;s not only an outstanding software but also free of charge. Although the details of how to use it in an Agile environment are beyond what I plan on covering in this post, there are plenty of &lt;a href=&quot;http://www.civicactions.com/blog/2012/oct/10/five_tips_for_using_trello_for_scrum&quot;&gt;online tutorials&lt;/a&gt; on this.&lt;/p&gt;
-
-&lt;p&gt;As mentioned in the beginning, none of these principles are all or nothing. You can use bits and pieces of each of them or go full force. The point here is that you should not be religious about Agile, but you should instead know about each of the principles and then choose which ones are the best for you.&lt;/p&gt;
-
-&lt;p&gt;can be adapted, how much is used is completely open&lt;/p&gt;
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
 	<entry>
-		<title>Enriched and personalized learning content</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/27/enriched_content/"/>
-		<updated>2013-08-27T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/27/enriched_content</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://gegeblog.com/wp-content/uploads/2012/10/protein-food.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+		<title>Ben Gunn, social extension, and implications for learning</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/22/bengunn/"/>
+		<updated>2013-09-22T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/22/bengunn</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-SvK1_5pQoGg/UjnxOdF3akI/AAAAAAAA4IE/Ccl-LgNEY1Q/w480-h680-no/fractal.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;One of the main problems with online learning is that, no matter what we might do, so far it will necessarily lag behind a personal coach. Take for example the outstanding learning framework just posted by the &lt;a href=&quot;https://plus.google.com/106268032364497388036/posts/XRQxPEhLuia&quot;&gt;Khan Academy group&lt;/a&gt;. This framework is right on the spot, as it walks students through a real scenario, talks about everything that is important from the perspective of an expert, ultimately attempting to make the student think like an expert.&lt;/p&gt;
+&lt;p&gt;I have recently read a very interesting article where a journalist has interviewed &lt;a href=&quot;http://prisonerben.blogspot.com/&quot;&gt;Ben Gunn&lt;/a&gt;. In a nutshell, when Ben was 14 years old he killed another boy and was sentenced to 10 years in prison. Hi behavior while in jail was all but good, and 10 years were extended to the point where he was only released when he was 42. What is interesting about this is that while he was in jail he not only graduated from college, but went on to a MSc and started a PhD. In his blog he raises a fascinating discussion by lively describing situations he faced while in prison, making us question whether our prison system is doing society a service or just simply educating people to be better criminals than they were before getting into that system. His text is simply superb, which attracted the attention of not only about 20 thousand followers but also of newspapers and tv channels that now have Ben serving as an expert consultant every time an issue about the prison system is brought up. Here is the &lt;a href=&quot;http://www.theguardian.com/society/2013/sep/15/ben-gunn-murder-love-life-after-prison&quot;&gt;full interview&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;In sum, it&amp;#39;s perfect, except for one crucial thing: It&amp;#39;s not personalized to what the student needs at that very moment. In other words, when students say that they want to learn how to program, few if any would choose to learn how to program in general rather than creating a very specific program that would meet a very specific need they might have. In the end, what they are looking for is not to become programmers, but instead to learn how to program a certain thing to a achieve a specific objective. A personal coach could walk them through this process, a current online program cannot. &lt;/p&gt;
+&lt;p&gt;That whole story is already interesting in and of itself, but in the interview Ben raises a point that I find simply fascinating. He claims to be lost after having left prison, since he doesn&amp;#39;t understand the rules by which people play. Rules while in prison were clear, but outside why do we do the things we do? In other words, if you are a blogger with 20 thousand followers and consults for major news channels, why does it matter? In other words, what is the rat wheel in which society places us all to make us believe that the goals set for ourselves are worth pursuing? The interesting thing is that by Ben being an outsider and already an adult, it will be hard for him to buy into these fictitious reasons we keep fabricating for ourselves to get us out of bed in the morning. Ideas of meaning in our careers, or an ultimate goal that we keep pursuing.&lt;/p&gt;
 
-&lt;p&gt;But then what are the options? Creating an infinite number of tutorials is clearly not one of them, but perhaps a combination of the following factors could help:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;em&gt;Focus on a niche&lt;/em&gt;: From a marketing perspective, focus on a narrow niche that might make sense from an ROI perspective, and then go global. Going global will expand the number of people potentially taking the course even if the number of people interested is small&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Modularize the course structure&lt;/em&gt;: In psychometrics there is a field called &lt;a href=&quot;https://plus.google.com/106268032364497388036/posts/Zf2oedoqm7g&quot;&gt;Automatic Item Generation&lt;/a&gt; where items or questions are built as models, and then variations are introduced inside the models to generate a huge number of items. For example, if one wants to teach how to make a diagnosis of a set of abdominal conditions, it would be possible to list a group of symptoms, signs, and lab exams, and then associate each of the combinations with certain diagnoses and therapeutic plans. The same could potentially be applicable to different types of education. The key here would be to constantly feed these exercises through a group of motivated content creators and curators. &lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Ladder mechanism&lt;/em&gt;: Establish a ladder mechanism where the initial, more general part of learning is done through more general material. Then, once students have a general basis, then and only then they start with more individualized type or coaching.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Documentation integrated into daily activities&lt;/em&gt;: here the main concept is that as our ability to document our daily activities increases as a function of automation through software, more and more material will be available to students regarding what might be the current practice of a given professional. For example, if a given physician has a specially effective way of treating patients, and if this workflow is carefully followed through a series of software applications, then a student would be able to learn about that workflow by looking at the documentation trail left from that physician. This last path will obviously involve the 
+&lt;p&gt;I believe that the rat wheel/meaning topic is relevant for learning in at least two ways:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;ability to track information, like an electronic medical record tracking every single step of the physician&lt;/li&gt;
-&lt;li&gt;the concurrent documentation by the professional to enhance the data, or the physician constantly making notes to clarify any practice that might not be appropriately captured by the electronic medical record&lt;/li&gt;
-&lt;li&gt;the existence of tools that will facilitate the transformation of that data into useful information, such as graphical tools that might make the workflow clear enough&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>3D models in healthcare education - bone fractures</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/26/3D_anatomy_healthcare_learning/"/>
-		<updated>2013-08-26T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/26/3D_anatomy_healthcare_learning</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://openi.nlm.nih.gov/imgs/rescaled512/116429_1471-2474-3-14-3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;We are now testing the use of 3D models to educate healthcare professionals in relation to the diagnosis, biomechanics, and treatment of bone fractures. Starting with wrist fracture models created in &lt;a href=&quot;http://www.autodesk.com/products/autodesk-maya/overview&quot;&gt;Maya&lt;/a&gt; since they are so common, we decided to focus on 3D models for the following reasons:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;em&gt;Detail&lt;/em&gt;: Although the use of radiographs and other imaging modalities are certainly essential in training healthcare professionals to diagnose them, 3D models can show details that might not be possible with a regular clinical image. &lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Rare cases&lt;/em&gt;: Some fracture types are just not common enough to be easy to find at imaging repositories. In contrast, it takes a few minutes to create a highly quality fracture model that can be sliced, diced and rendered in any way the instructor might want, including giving the model an aspect that looks like an radiograph. &lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Biomechanics&lt;/em&gt;: Here I don&amp;#39;t mean the fracture mechanism, which is usually what an orthopedic surgeon will think about when the word biomechanics comes up. Although mechanism could easily be reproduced in a dynamic model, an arguably more important aspect is how muscles, ligaments, gravity and other mechanical factors contribute to make fracture fragments displace in one way or another. The idea here is that students will learn why the fracture behaves the way it does, with obvious implications for how it should be treated.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Treatment&lt;/em&gt;: Although treatment is not only about biomechanics, biomechanics does play an important role in defining how a certain fracture type should be treated. The idea for treatment then is to build dynamic models that will show how a given device or immobilization method interacts with the fracture biomechanics, making the treatment process more rational rather than an act of memorization.&lt;/li&gt;
+&lt;li&gt;Social extension: No matter much we might believe that we are individually in charge of our own goals, we are not. What is perceived to be an individual goal of mine is almost certainly something that I inherited from society, society making me believe that my goal is worth pursuing. One interpretation then is that learning has to happen in a social context. It&amp;#39;s not enough to learn a skill or simply absorb information. Learning has to happen in a context that will make that information or skill to have our so desired sense of meaning. This can be accomplished by reinforcing the skills and information with a social context that will provide a role model and help student set their &lt;em&gt;individual&lt;/em&gt; goals that are in reality social goals&lt;/li&gt;
+&lt;li&gt;Ability to get out of the rat wheel: A different goal is to provide students with the ability to perceive that what might seem as an individual goal is in reality something that society makes them perceive as individuals, but which in reality is imposed. Now, it would be naive to think that learning could provide students with the ability to be free from societal influences. After all, we&amp;#39;re humans and our nature seems to be to follow the flock, but perhaps an education that would at least give us a hint of what it is to think outside of the rat wheel would be a good thing ... or lead to a huge anxiety level.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;At this point we are focusing only on static images, but dynamic ones should be coming up soon, along with evidence-based information. One of my surprises when going over musculoskeletal models available in the most common 3D repositories is how poor they are. They will frequently lack very important bone details, have details that absolutely do not exist, the relationship among the bones is just plain wrong, among many other things. If the situation with skeletons is overall poor, it gets much worse when it comes to models combining bones, ligaments, cartilage, muscles and other anatomical structures. Let&amp;#39;s then not even talk about dynamic models. &lt;/p&gt;
-
-&lt;p&gt;In sum, a ton of work moving forward. &lt;/p&gt;
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
 	<entry>
-		<title>Educating innovators: a blogged book</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/25/blog_book/"/>
-		<updated>2013-08-25T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/25/blog_book</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-uvnOeJVVnSc/Ug0mEyVLwjI/AAAAAAAA0-E/X06aV67g4TQ/w506-h512/Screen+Shot+2013-08-15+at+4.02.57+PM.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+		<title>Need for educational scores adjusted to socio-economic factors</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/21/adjusted_scores/"/>
+		<updated>2013-09-21T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/21/adjusted_scores</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-0IcrIVRSBlc/UjZmrIMKgHI/AAAAAAAA33g/omCU3nWv_r0/w1000-h680-no/fractal.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Just finished reading Nina Amir&amp;#39;s &lt;a href=&quot;http://www.amazon.com/How-Blog-Book-Publish-ebook/dp/B0084IUD9S/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;amp;sr=&amp;amp;qid=&quot;&gt;How to blog a book&lt;/a&gt;. All in all it seems like an interesting, sound concept. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.oecd.org/&quot;&gt;OECD(Organisation for Economic Co-operation and Development)&lt;/a&gt; has been releasing a number of statistics on education for many years. In their reports, comparisons are made across different countries in relation to, among many other things, the effectiveness of their national education systems. What we tend to forget, however, is that education is not an isolated factor, meaning that educational performance will depend on a number of socio-economic factors. &lt;/p&gt;
 
-&lt;p&gt;Although one would possibly question whether somebody would feel &lt;em&gt;cheated&lt;/em&gt; in buying a book when parts of it are online, there is something about the book as a unit that is hard to describe. I noticed this when I started consulting &lt;a href=&quot;http://adv-r.had.co.nz/&quot;&gt;Hadley Wickham&amp;#39;s book on R Advanced Programming&lt;/a&gt;. I have probably read some of his chapters at least four times, and yet I can barely wait for the ebook to come out. Why? Perhaps it&amp;#39;s because it will have a final touch to it, sections will be more connected than they are now. Looking back, these are probably not reasons that would justify the buying of a book, maybe I&amp;#39;m just trying to rationalize the need to say thanks for putting together such a fantastic resource.&lt;/p&gt;
+&lt;p&gt;I have written about this in the comments to one of my &lt;a href=&quot;https://plus.google.com/106268032364497388036/posts/59orarBgrRP&quot;&gt;posts on Google+&lt;/a&gt;, but the concept is that educational indices should be statistically adjusted to socio-economic factors. &lt;/p&gt;
 
-&lt;p&gt;Now, whether I will be blogging a book once again? Probably not for a while, but never say never ...&lt;/p&gt;
+&lt;p&gt;Let me establish an analogy with healthcare: If I am a physician treating very sick patients, the complication rate of my patients will be substantially higher than those of somebody treating otherwise healthy patients. Does that mean that I am a bad doctor? No, simply means that my patients are sicker. Bringing this example back to education, the fact that a developing or emerging country has bad educational indices does not necessarily mean that they have a bad educational policy, but it might mean that they are doing the best possible job they can given the local socio-economic situation. &lt;/p&gt;
+
+&lt;p&gt;In order to generate these adjusted educational index, one would have to combine datasets containing information from education, economics, healthcare, and any other sources that might provide insight on factors that might downplay educational performance. Such a &lt;em&gt;Learning Observatory&lt;/em&gt; would have to have the ability to combine data in different formats (CSV, JSON, XML, free text, RDF, among others), always keeping in mind what the information needs of educational policy makers might be in order to put together policies aligned with their local situation.&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
 	<entry>
-		<title>Scaffolding education: The ability to search, understand key concepts and play with field-specific tools</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/15/triad/"/>
-		<updated>2013-08-15T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/15/triad</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://blog.emints.org/wp-content/uploads/2011/09/Scaffolding_Berlin.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+		<title>Novice researchers learning how to conduct a literature review: An iterative zoom-in-out method</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/20/zoominout/"/>
+		<updated>2013-09-20T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/20/zoominout</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-MAVte8M8bIE/UjY9EdKFlSI/AAAAAAAA328/ylvieZYqi70/w480-h680-no/fractal.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;One of Merrienboer&amp;#39;s central concepts in his &lt;a href=&quot;http://www.amazon.com/Steps-Complex-Learning-Four-Component-ebook/dp/B009WMBP7O/ref=sr_1_1_title_1_kin?s=books&amp;amp;ie=UTF8&amp;amp;qid=1376578242&amp;amp;sr=1-1&quot;&gt;Complex Design Instructional Design Model&lt;/a&gt; is that as students learn, they should be progressively stripped from &amp;quot;spoon-fed education.&amp;quot; In other words, when you start learning you need to be observed and assisted in every action, but as you progress then this support has to be substituted for a learning on how to learn. Merrienboer calls this a &lt;em&gt;scaffolding process&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;One of the most common mistakes made by a novice researcher when writing an original scientific paper is to write sections requiring a literature review one paper at a time. When they do this, it read like &amp;quot;author A said X,&amp;quot; &amp;quot;author B said Z,&amp;quot; and &amp;quot;author C said Z.&amp;quot; What is usually missing is not only the connection among each one of these statements but a true narrative telling a story that will connect with readers. Bear in mind, while on the surface we might sound like sophisticated scientists, in reality we are just the same cave men who gathered around the fire telling stories to each other for thousands of years.&lt;/p&gt;
 
-&lt;p&gt;I our day and age, I believe that one of the central characteristics of this scaffolding process is the ability to search online. But while most people think that searching is something done for the purposes of gathering information about a topic, searching alone is only part of the full-story. &lt;/p&gt;
-
-&lt;p&gt;First, concepts are only useful if they are put to a purpose, such as extending them by being able to consult more complex, deeper sources of information. In addition, concepts will play a central role in actually discussing with experts in the field to be able to obtain feedback the use of those concepts. This feedback will turn concepts that were originally static into something dynamic.&lt;/p&gt;
-
-&lt;p&gt;Second, searching will provide students with sources of tools where these concepts can be put into practice. For example, if a student is attempting to learn what a statistical average is, simply learning the concept is not enough. The student has to try the concept using whatever tool on a dataset. &lt;/p&gt;
-
-&lt;p&gt;The idea of concepts and tools is not mine, but was instead developed by &lt;a href=&quot;http://www.fas.harvard.edu/%7Ehsdept/bios/galison.html&quot;&gt;Peter Gallison&lt;/a&gt; in what he called &lt;a href=&quot;http://en.wikipedia.org/wiki/Trading_zones&quot;&gt;trading zones&lt;/a&gt;. Tool use and using concepts in an interactive way can also be interpreted as an instance of &lt;a href=&quot;http://en.wikipedia.org/wiki/Situated_cognition&quot;&gt;situated cognition&lt;/a&gt;&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>The university's dilemma</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/12/university_dilemma/"/>
-		<updated>2013-08-12T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/12/university_dilemma</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/7/9/1341835095092/The-number-of-university--008.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;The university is one of the most interesting institutions in our society, and yet it currently faces one of the biggest dilemmas of its entire existence. Founded under the premise that the best minds would have the time to freely think about all aspects of science and society, the university now faces a major dilemma that can be described in the following terms:&lt;/p&gt;
+&lt;p&gt;But then, how does a novice researcher go from first getting acquainted with some papers in the field to a coherent and engaging narrative? What follows is an evolving method, and it is not trivial as it will require that you have a good level of technical sophistication. While I do plan on putting together a mini-course describing each step in detail, for now this is just an introduction:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;If it simply decides to keep its ivory tower status, it becomes out of the business chain while producing knowledge that is irrelevant for anybody other than its peers&lt;/li&gt;
-&lt;li&gt;If it tries to align with national and international funding agencies, it turns professors into professional grant writers whose life is the art of attempting to be aligned with whatever agency might be willing to give them money.&lt;/li&gt;
-&lt;li&gt;If it goes the industry funding way, it becomes a pet. Despite the best intentions by conflict of interest committees researchers will design studies to prove industry products effective and later will hold back any criticism to their products since that would cut their chances of getting the next funding cycle.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Get to know the field before you write anything&lt;/em&gt;: First things first: Do not write the sections of the Introduction and Discussion sections of your paper before you have a good understanding of the literature. I know this sounds like a waste of time, but it will be easier in the end, trust me. One of the problems of writing a choppy, one paper at a time section is that once you commit to that kind of structure, it&amp;#39;s actually pretty hard to get out. Almost like a conceptual cage. Of importance, there is a sea of difference between the role and way you write the literature review for the Introduction and Discussion sections, but this is a topic I won&amp;#39;t cover now. &lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Define your initial set of concepts&lt;/em&gt;: The key for a smart search is to identify the kinds of concepts and their synonyms you would like to find. For example, I might want to find all the instances of the concepts &amp;quot;situated&amp;quot; within a certain proximity from the concept &amp;quot;cognition&amp;quot; and in articles&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Proper software&lt;/em&gt;: Install a copy of &lt;a href=&quot;http://jabref.sourceforge.net/&quot;&gt;JabRef&lt;/a&gt;. While most academics nowadays use &lt;a href=&quot;http://www.zotero.org/&quot;&gt;Zotero&lt;/a&gt;, &lt;a href=&quot;http://www.mendeley.com/&quot;&gt;Mendeley&lt;/a&gt;, or &lt;a href=&quot;http://endnote.com/&quot;&gt;Endnote&lt;/a&gt;, the main advantage of JabRef is that all your citations are stored as text files, and as I will describe later on.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Agregate searches across bibliographic databases&lt;/em&gt;: Run web searches from within JabRef, using as many bibliographic databases as you think might be required. I won&amp;#39;t go over the details required to search within each one of them, which can be found on &lt;a href=&quot;http://jabref.sourceforge.net/help/Contents.php&quot;&gt;JabRef&amp;#39;s help page&lt;/a&gt; but by and large you will run boolean searches as you would on the original page. You can also run a search on the database page, export the search results as a file, and then import it into JabRef.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Store your citations as text files and then search using regexp and text mining functions&lt;/em&gt;: JabRef saves the full library as a .bib file, meaning that this is a text file. To search the full file, simply enter into regular expression mode and you will have a much more powerful search than you could have within JabRef or the original application. Take that same file and treat with the &lt;a href=&quot;http://cran.r-project.org/web/packages/tm/vignettes/tm.pdf&quot;&gt;tm package&lt;/a&gt; in &lt;a href=&quot;http://www.r-project.org/&quot;&gt;R&lt;/a&gt; and you will have the ability to slice and dice your search in every single imaginable way. Of importance, go ahead and create a repo in &lt;a href=&quot;&quot;&gt;Gihub&lt;/a&gt; so that you can version your search as well as allow your collaborators and others to fork it.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Try to find the key papers to use in your Introduction or Discussion sections&lt;/em&gt;: Once regexp and text mining have given you tips on whether a certan paper might contain the type of information you want, evaluating its methodology should follow a &lt;a href=&quot;http://www.amazon.com/How-Read-Paper-Evidence-Based-ebook/dp/B005D7EUBA/ref=tmm_kin_title_0&quot;&gt;regular evidence-based sequence&lt;/a&gt;. Rather than trying to exhaust the literature, a good rule of thumb is to find the three or four key articles in relation to that topic, read them carefully, and then check their citations and the papers that have cited them, obviously including the relevant ones to your JabRef text file.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Enrich the citations with full text articles of the key papers&lt;/em&gt;: Once you have identified the key papers for each topic, grab their HTML files saved as complete Web pages and paste those into the &lt;em&gt;Review&lt;/em&gt; field within RefJab. This will include the full text into your final .bib file, allowing you to run regexp and text mining methods also across the full text. Notice that for certain databases such as PubMed, full-text search is not available. The PDF for each article should also be store within RefJab, although you won&amp;#39;t use PDFs for your regexp/text mining. Last, for bibliographic databases having alert functionality, go ahead and set queries that will keep sending you additional references throughout the course of your project. One word of caution when storing full-text HTML in your bib files under GitHub is that you should not place copyrighted material under a public repo. So, if you have copyrighted full-text articles, simply use a private repo.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Zoom in and out&lt;/em&gt;: From then on you will be constantly zooming out and looking at the conceptual map that you build as you read the key papers, and then zooming in to get the details of each key publication. The process is iterative and should probably last for the entire project lifecycle.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Does it mean that good science can&amp;#39;t be done? Absolutely not, there is still plenty of exciting projects, probably more than ever. But then, the problem persists without a solution that could take the university to the next level.&lt;/p&gt;
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
 	<entry>
-		<title>Big Data in Educational Psychometrics</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/11/big_data_educational_psychometrics/"/>
-		<updated>2013-08-11T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/11/big_data_educational_psychometrics</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.dracutforum.net/wp-content/uploads/2012/09/check_box_recruiting-300x299.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+		<title>Markdown for learning materials</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/19/markdown/"/>
+		<updated>2013-09-19T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/19/markdown</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-eQMPOpwIZDw/UjT9Wg3pPuI/AAAAAAAA31w/CahngnC1-0E/w1000-h500-no/fractal.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;I looked all over for a list of international databases containing fields on specific items (questions) from students of any age, focusing on any kind of educational assessment. Given the large number of psychometricians around the world, I was surprised to not find anything so far. &lt;/p&gt;
-
-&lt;p&gt;Solution was to create a &lt;a href=&quot;http://en.wikipedia.org/wiki/List_of_international_databases_on_individual_student_achievement_tests&quot;&gt;list on Wikipedia&lt;/a&gt;, which is now organically growing over the past few weeks. If you have any other sources or know of people who would, by all means feel free to add it yourself or add comment in the source code and I will add it for you. The goal here is to make it easier for researchers and students to quickly find data sets that might be used for research papers, item banks, educational policy evaluation, among many other purposes.&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>Scientific Writing Ninja</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/10/sci_wri_ninja/"/>
-		<updated>2013-08-10T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/10/sci_wri_ninja</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/7/72/Hokusai-sketches---hokusai-manga-vol6-crop.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;For a long time our group has been using content models to coach novice biomedical researchers on how to write scientific papers. Results are really good, since it quickly becomes clear to them what the underlying rhetorical structure is behind a paper.&lt;/p&gt;
-
-&lt;p&gt;But then, so far we have been using static templates, which is a fancy way to say that we simply put together a text with examples on how to write certain sections of a paper on a &lt;a href=&quot;https://drive.google.com/&quot;&gt;Google doc&lt;/a&gt;. Novice researchers then grab that template and apply it to their own manuscripts. &lt;/p&gt;
-
-&lt;p&gt;Recently, however, I have been exposed to a group of international novice researchers focusing on data sciences, which then gives me the flexibility to use some &lt;em&gt;geek tools&lt;/em&gt; that I wouldn&amp;#39;t dare using before. So, although in all honesty this is an ever changing framework and some portions have only been partially tested, here is what the current workflow looks like:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;All article writing happens using R markdown&lt;/li&gt;
-&lt;li&gt;Editor is &lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;Sublime Text&lt;/a&gt;, using the &lt;a href=&quot;https://github.com/wch/SendText&quot;&gt;sendtext&lt;/a&gt; plugin to run code as the text is written. You might want to check &lt;a href=&quot;http://www.youtube.com/watch?v=zoCFjpXa_UY&quot;&gt;this brief tutorial&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;Protocols are entirely reproducible, including versioning the manuscript itself on &lt;a href=&quot;http://git-scm.com/&quot;&gt;git&lt;/a&gt; through &lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;References are inserted through &lt;a href=&quot;http://carlboettiger.info/2012/05/30/knitcitations.html&quot;&gt;knitcitations&lt;/a&gt;, which is brilliantly connected to the &lt;a href=&quot;&quot;&gt;cito ontology&lt;/a&gt;. Searches are without a plugin and performed through the browser using specific databases such as &lt;a href=&quot;http://scholar.google.com/&quot;&gt;Google Scholar&lt;/a&gt;, &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed&quot;&gt;PubMed&lt;/a&gt;, &lt;a href=&quot;http://www.jstor.org/&quot;&gt;JSTOR&lt;/a&gt;, &lt;a href=&quot;http://www.scielo.org&quot;&gt;Scielo&lt;/a&gt;, and the like. Citation analyses are conducted through Google Scholar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Content-Everywhere-Structure-Future-Ready-ebook/dp/B00AEYPLPQ/ref=sr_1_1_bnp_1_kin?ie=UTF8&amp;amp;qid=1376085529&amp;amp;sr=8-1&amp;amp;keywords=content+everywhere&quot;&gt;Content models&lt;/a&gt;, or the text being reused across manuscripts, is stored on gists and then pulled into Sublime through the &lt;a href=&quot;https://github.com/kemayo/sublime-text-2-git/wiki&quot;&gt;gist plugin&lt;/a&gt;. Now, truth being told, using [Sublime snippets] would allow us to make the text substitution much easier, faster and they could also be stored on &lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;, but the ability to store individual gists allows for some perks in relation to the taxonomy (see next item).&lt;/li&gt;
-&lt;li&gt;Taxonomy for the gists involves a first word that determines the overall location within an article (abstract-introduction-methods-results-discussion), followed by the design, and then the specifics of the text chunk itself. For example, a section containing the randomization section within a randomized trial in the methods section could be called something like methods&lt;em&gt;rct&lt;/em&gt;randomization. The chunks are hierarchical, meaning that if I only look for a chunk called methods_rct I would get a gist with the names of all possible text chunks inside the methods section of randomized controlled trial. These sections obviously follow international standards, in the case of the randomized trial the standard being the &lt;a href=&quot;http://www.consort-statement.org/&quot;&gt;CONSORT statement&lt;/a&gt;, and the fact that Sublime Text uses &lt;a href=&quot;https://tutsplus.com/lesson/multiple-cursors-and-incremental-search/&quot;&gt;incremental or fuzzy search&lt;/a&gt; makes finding them really easy.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Of course this system is all but perfect, the main flaws being:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://daringfireball.net/projects/markdown/basics&quot;&gt;Markdown&lt;/a&gt; is all the rage among geeks, but should educators even care? I would say that Markdown is an excellent option for educators who like to learn new things and don&amp;#39;t mind having a period where they might feel like working with their traditional tools made them more productive. Below are the main advantages, text below referring specifically to the &lt;a href=&quot;http://johnmacfarlane.net/pandoc/README.html&quot;&gt;Pandoc flavor of Markdown&lt;/a&gt;:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;because these are gists it is hard for people to make contributions or fork a large number of them&lt;/li&gt;
-&lt;li&gt;the chunks are still fairly rough. Just to take the CONSORT example, there are currently multiple available versions&lt;/li&gt;
-&lt;li&gt;the taxonomy has to be better than what it currently is&lt;/li&gt;
+&lt;li&gt;Pure text: This might sound like a terrible reason, but being based on pure text rather than proprietary formats like MS Word has a number of advantages as will be outlined below. This does not mean that the final format is in plain text, since you can export the document to almost any type of file you can imagine&lt;/li&gt;
+&lt;li&gt;Multiple export formats: Files in Markdown can be exported to PDF, slides, web pages in HTML, LaTeX, MS Word documents, among many others. This means that if you are writing a paper, but want to turn that paper into a Web page, you are just one click away.&lt;/li&gt;
+&lt;li&gt;Semi-automatic translation: Because the document is in pure text you can simply upload it to a tool like &lt;a href=&quot;http://translate.google.com/toolkit&quot;&gt;Google Translator Toolkit&lt;/a&gt;, have it automatically translated to another language of your choice, and then have a human translator make minor changes. Because all the formatting is created through characters like * or # or _ , your final format will maintained exactly as is, be that a PDF, slide presentation, word document, etc &lt;/li&gt;
+&lt;li&gt;Reuse: Because you use the exact same way of writing to articles, blog posts, slides, among others, it&amp;#39;s just natural that you will be looking through your old documents and reusing chunks of texts rather than writing them again. Actually, after some time you will probably find yourself creating chunks of text solely for the purpose of reusing them in multiple locations, but don&amp;#39;t worry about that for now, this will come naturally.&lt;/li&gt;
+&lt;li&gt;Semantic citations with &lt;a href=&quot;http://www.essepuntato.it/lode/http://purl.org/spar/cito&quot;&gt;CiTO&lt;/a&gt;: Bibliographic citations in Markdown using the CiTO ontology means that when you cite a paper or a book, all the information about that reference will be available to you. In a traditional citation software, when you cite a reference you are able to see the usual info about authors, date of publication, etc, but in a semantic citation you would also have a connection to the abstract, databases that might have cited that reference, and any database that might connect to that reference in the future. All of this is obtained simply by adding the &lt;a href=&quot;http://www.doi.org/&quot;&gt;DOI (Digital Object Identifier)&lt;/a&gt; when you add the reference to your text.&lt;/li&gt;
+&lt;li&gt;Math equations: In contrast with softwares such as Microsoft Word where a math equation might not display properly when you transform that page into a PDF or Web page, math formulas in Pandoc Markdown are consistently transformed across files.&lt;/li&gt;
+&lt;li&gt;Tables: Tables are not only extremely easy to put together, but if you are performing data analyses you can very easily have tables automatically populated. The advantage is that if you modify your analysis in any way, ultimately affecting every cell in the table, using Markdown all results will be automatically updated without the need to manually do each cell all over again.&lt;/li&gt;
+&lt;li&gt;Styling CSS: Let&amp;#39;s say you have a collection of one thousand documents, and all of a sudden you decide that you want to change their look and feel. Using &lt;a href=&quot;http://www.w3schools.com/css/&quot;&gt;cascading style sheets (CSS)&lt;/a&gt; the change can be made in a single document and then automatically spread to all documents. Of importance, this doesn&amp;#39;t work all that well for PDF, although there are some potential solutions to this problem with software such as &lt;a href=&quot;http://www.princexml.com/&quot;&gt;Prince XML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Integration with data analysis: As mentioned in the point about tables, it is fairly easy to integrate Markdown with statistical languages like &lt;a href=&quot;&quot;&gt;R&lt;/a&gt; using packages such as &lt;a href=&quot;http://yihui.name/knitr/&quot;&gt;knitr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Amazing slide presentations: Although Pandoc Markdown does have a way to generate slides, &lt;a href=&quot;http://slidify.org/&quot;&gt;Slidify&lt;/a&gt; has a number of advantages that justify going along with it: Support for many different presentation modes, quizzes, dynamic graphics, among many other features.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Pondering about creating a course on this and then making the system evolve to a serious library with a consistent taxonomy/ontology and later a plugin that would manage some of these problems. But let&amp;#39;s see. So far I only got the course name down: &lt;em&gt;Scientific Writing Ninja&lt;/em&gt; LOL&lt;/p&gt;
+&lt;p&gt;There is obviously more, but this probably good enough for a post. If you would like to give it a try, perhaps the best way is just to start using it in a tablet computer like the iPad, there are excellent &lt;a href=&quot;http://ipad.appstorm.net/roundups/productivity-roundups/the-14-best-markdown-editors-and-notepads-for-the-ipad/&quot;&gt;review articles talking about different apps&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
 	<entry>
-		<title>Big learning data that matters: Bringing the excluded back in</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/10/learning_bigdata/"/>
-		<updated>2013-08-10T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/10/learning_bigdata</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://edudemic.com/wp-content/uploads/2012/11/learningstyles.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+		<title>Learning clinical research design using input-output concepts</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/18/design_input_output/"/>
+		<updated>2013-09-18T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/18/design_input_output</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-2cJPhN7us9w/UjCwvtDuzeI/AAAAAAAA3yo/19xQIJVaVhw/w800-h500-no/fractal.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;I recently read an excellent post from &lt;a href=&quot;http://www.knewton.com/&quot;&gt;Knewton&lt;/a&gt; on the &lt;a href=&quot;http://www.knewton.com/blog/knewton/from-jose/2013/07/18/big-data-in-education/?utm_medium=email&amp;amp;utm_campaign=July+newsletter+New&amp;amp;utm_content=July+newsletter+New+CID_1e4db5006f527cdc859264e27cfc7e06&amp;amp;utm_source=Knewton+Newsletter&amp;amp;utm_term=Read+more#more&quot;&gt;five different types of Big Data in Education &lt;em&gt;that matter&lt;/em&gt;&lt;/a&gt;. Very briefly, the five types are classified as identity data, user interaction data, inferred content data, system-wide data, inferred student data.&lt;/p&gt;
+&lt;p&gt;For a long time clinical researchers and data science specialists have lived in separate worlds, where a data science specialist knows little about the clinical aspects of an analysis and the clinical research knows next to nothing about data analysis. Some people have called this a turf protection from the traditional statisticians&amp;#39; perspective, but in reality it&amp;#39;s just both sides shooting themselves in the foot. Rather than protecting turf, the lack of appropriate communication not only reduces the overall quality of the final work, but it also decreases the odds that the clinical research specialist will try to dig deeper into the vast array of techniques the data scientist might have.&lt;/p&gt;
 
-&lt;p&gt;While I certainly agree that these types do matter, one of the possible interpretations might be that other types might &lt;em&gt;not matter&lt;/em&gt;. Although I am sure that this was not the intention of that post, mine is to come rescue the guys who were left out. 
-The list is huge, and my goal here is not to cover them all. So, here is a first shot:&lt;/p&gt;
+&lt;p&gt;The absurdity of this whole situation relied by and large on the idea that in some fields such as data sciences would either know everything and become &lt;em&gt;one of them&lt;/em&gt; or nothing at all. The problem with the proverbial &amp;quot;little knowledge&amp;quot; is that it might hold true when you are acting alone, but if you work in an interdisciplinary group then the little knowledge can go a long way in making sure that both sides can communicate, progressively learn from each other, and ultimately just do a good job in whatever they might be working on.&lt;/p&gt;
+
+&lt;p&gt;But how do you get started? In other words, if a clinical researcher is interested in learning more about data analysis do we have to start by proving Bayes theorem? Well, I am of the opinion that the first step is to simply equip a clinical researcher with the bare minimum communication tools to be able to talk with a data science specialist. One of those tools is to have a basic input-output knowledge about different data analysis methods. The basic idea here is that for any given analysis methods the biomedical research should know what is the type of data that should go in, and what type of result it should provide as an output?&lt;/p&gt;
+
+&lt;p&gt;For example, for a two-sample t-test, the biomedical researcher should think of the test as having the ability to compare how a continuous variable differs across two samples. For example, how body mass index compares between males and females. This is the input. Then the biomedical researcher should be able to look at a table with results from a t-test and understand the main concepts such as the mean value for each group, the p value and what it represents. That&amp;#39;s the output.&lt;/p&gt;
+
+&lt;p&gt;I am sure that at this point there might be people screaming out there by saying that t-tests are so much more complex and an introduction without x, x being a discussion about confidence intervals, or t distribution families, or how robust t-tests are to non-normal variables, or ... But I would argue that while all these points are important, they are not necessary to provide biomedical researchers with information so that they can start talking with data scientists. For example, if the data scientist took the body mass index and then turned it into a categorical variable, the biomedical researcher should be asking why rather than just saying amen. &lt;/p&gt;
+
+&lt;p&gt;I might come back to this topic later with some more solid examples.&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Theory of constraints, vocation and learning</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/17/toc_learning/"/>
+		<updated>2013-09-17T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/17/toc_learning</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-LUVTArRvfJs/UjCwxvXLmAI/AAAAAAAA3zQ/p_dQuxAAOS8/w535-h717-no/fractal3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;From the mother of all knowledge, Wikipedia, &lt;a href=&quot;http://en.wikipedia.org/wiki/Theory_of_constraints&quot;&gt;Theory of Constraints (TOC) is defined as&lt;/a&gt;: &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The theory of constraints (TOC) is a management paradigm that views any manageable system as being limited in achieving more of its goals by a very small number of constraints. There is always at least one constraint, and TOC uses a focusing process to identify the constraint and restructure the rest of the organization around it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you look closely, TOC is probably the modern version of vocational tests as a way to guide learning. Reason is that learning is no longer the response to a lifelong vocation, but instead a minute-by-minute, ever changing need in regular daily lives. For example, at this point I might need to learn how to write a short script to scrape a number of pages for my a paper I have to write, while in two hours I will need to learn the best possible way to run a meeting where members tend to be unfocused. None of these skills are captured by vocational tests, and yet these two skills are what I need the most at those very moments since without them I am highly constrained. My paper writing might take forever without scraping, and my meeting will be a disaster.&lt;/p&gt;
+
+&lt;p&gt;If you then think of learning as being determined by TOC, the two problems people putting learning systems in place will face are:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Before learning happens
+&lt;li&gt;&lt;em&gt;Problem identification&lt;/em&gt;: How do you help people that the problem they have is addressable by a given skill? For example, I might think that writing that paper will indeed take six months, and that my messy meeting is just the way it is.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Skill identification&lt;/em&gt;: How do you help somebody find out that, once they identify a problem, what they need to learn is a specific skill, when in multiple cases they might not even be aware of that skill? For example, most people don&amp;#39;t know what scraping is.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Problem and skill identification are both coaching components, and as we recently learned from &lt;a href=&quot;http://rpietro.github.io/situated_cognition,/big_data/2013/09/16/coaching_learning/&quot;&gt;Tutorspree&amp;#39;s experience&lt;/a&gt;, coaching is difficult to scale. Lots of work ahead of educators.&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Tutorspree, coaching and scalability</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/16/coaching_learning/"/>
+		<updated>2013-09-16T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/16/coaching_learning</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-orbuyeobWS4/UjCwzggIHpI/AAAAAAAA3z4/QQl9DkJeHOQ/w535-h717-no/fractal8.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Hindsight is 20/20, and I myself struggled in multiple attempts to scale up coaching programs in academics. And so this all to say that the following post is in no way a criticism of &lt;a href=&quot;http://www.sfgate.com/technology/businessinsider/article/After-Raising-1-8-Million-Y-Combinator-Startup-4797113.php&quot;&gt;Tutorspree, which has recently shut down&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To make a long story short, the founders themselves acknowledge that the main problem they faced was scalability, and that&amp;#39;s not surprising. Good quality coaching is such a personal endeavor, requiring a lot of energy from the coach to deeply understand not only the area of the person being coached, but also his/her skills and weaknesses. So, it&amp;#39;s almost like doing it yourself, except that you do not have (and don&amp;#39;t want to have) a great degree of control over what exactly the person being coached will do.&lt;/p&gt;
+
+&lt;p&gt;So, does all this means that it is impossible to scale coaching up. I don&amp;#39;t think so, but in order to do it well it likely requires some basic principles if you are attempting to create a coaching environment:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Niches: coaching is a specialized activity, and so you&amp;#39;ve got to segment your groups. One fits all is hard. For example, it would be difficult to create a single environment to coach programmers and healthcare professionals side by side. They require different content, with content being presented in different formats.&lt;/li&gt;
+&lt;li&gt;Provide good support content so that coaches&amp;#39; time can be spent on problem and skill needs identification: Coaches are good because they can pinpoint what the likely problem is in a given situation, and then point the person being coached to the skill he will likely need to address that problem. A good environment for coaching therefore needs to provide good content presented in an adequate framework. &lt;/li&gt;
+&lt;li&gt;Good content: Having access to good content will save coaches&amp;#39; time and therefore attract them. Think about it, if I am coaching somebody and then have to explain every single detail on my own, my life would be a living hell. If instead I can focus on identifying problems and then simply pointing the people I coach to good material, my job is significantly simplified. Goes without saying that the coach herself has to be trained to locate this content. Ultimate result here is what I &lt;a href=&quot;http://rpietro.github.io/situated_cognition,/big_data/2013/08/30/whole_task_ladder/&quot;&gt;mentioned in a previous post&lt;/a&gt; as a ladder: If the person can learn the basics from good, automatic content in the form of videos, slides, exercises, etc, then the coaching time will be optimized.&lt;/li&gt;
+&lt;li&gt;Good content placed in a variety of learning frameworks: good content resources used by coaches have to be constantly evolving not only in terms of format. For example, a step-by-step learning material might be a great resource at one point, but later on a coach might want to point the person being coached to a learning material that instead talks about the most common errors in a certain field. &amp;quot;Step by step&amp;quot; material and learning by showing common &amp;quot;errors and fixes&amp;quot; are different frameworks to present the same problem, both needed in different situations.&lt;/li&gt;
+&lt;li&gt;Communication platforms: In our day and age, it&amp;#39;s unlikely that your dream come true coach will be your next door neightboor. Communication platforms used to be very difficult to find a few years ago, nowadays we have plenty of good options. &lt;a href=&quot;http://www.google.com/+/learnmore/hangouts/&quot;&gt;Google Hangouts&lt;/a&gt; are my favorite, provided the coach and the person being coached both have access to a decent Internet connection and are reasonably computer literate. &lt;/li&gt;
+&lt;li&gt;Coaching mentality: To be a coach you have to think like a coach or, even better, you have to like to be a coach. In other words, you have to think about the other person first. Finding the right person used to be a nightmare, since you had to define psychometric characteristics that were predictive of good coaching and then hope that they would work. They usually wouldn&amp;#39;t. But now there are social networks, which allow people to communicate about who the good and bad coaches might be. So, way less of a problem.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Rawl's Theory of Justice and a simple example in learning</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/15/theory_justice_learning/"/>
+		<updated>2013-09-15T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/15/theory_justice_learning</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-IBBXUvOYK_4/UjCwtvLDeMI/AAAAAAAA3yM/ATIOX7v3YoQ/w535-h717-no/%253Bldf.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I propose to teach you differential equations, but you have never taken calculus before. Then I announce that your whole life depends on your final score.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s clear that this course will be a massacre at least, very few people would dispute that. But then this is, in a very simplistic way, the very basis of &lt;a href=&quot;http://en.wikipedia.org/wiki/A_Theory_of_Justice&quot;&gt;Rawl&amp;#39;s Theory of Justice&lt;/a&gt;. In other words, to assume that any two people will be coming from the exact level when you give them an &amp;quot;equal opportunity&amp;quot; is just insane. &lt;/p&gt;
+
+&lt;p&gt;Now, if this is so easy to understand with a simple example, why is it so hard to bring to all other parts of life?&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>What does market research mean when you are talking about an experiential product?</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/14/learning_markets/"/>
+		<updated>2013-09-14T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/14/learning_markets</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-e2dhovtUWJs/UjCEh05PaSI/AAAAAAAA3w8/FWNUmy4hTNA/w480-h680-no/fr.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ve written before about the &lt;a href=&quot;http://rpietro.github.io/situated_cognition,/big_data/2013/08/08/agile_online_courses/&quot;&gt;use of market research in online learning&lt;/a&gt;, the main gist being that before you invest a ton of time on a course product with some new spin, you should first test the market. In other words, the principle should be &lt;a href=&quot;http://www.amazon.com/Power-Pull-Smartly-Things-ebook/dp/B0039KO9ZK/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;amp;sr=8-1&amp;amp;qid=1378912778&quot;&gt;pull&lt;/a&gt; rather than push.&lt;/p&gt;
+
+&lt;p&gt;But then if your new learning product involves a new type of experience, then it could be hard or next to impossible to convey what that new experience would be in a market research survey. For example, if your course is about to create a new level of personalization and interaction, that experience won&amp;#39;t get through in a short description or even in a well-crafted video. People have to try it so that they might get a better idea on whether they would like to pay for the product and exactly how much they would be willing to pay.&lt;/p&gt;
+
+&lt;p&gt;This is why I am now thinking that market research might be simply the first iterative cycle in an Agile chain. The process then should start with a market research, followed by an immediate release of a &lt;a href=&quot;http://en.wikipedia.org/wiki/Minimum_viable_product&quot;&gt;minimum viable product (MVP)&lt;/a&gt;. Only then increments to that product are made through a series of small randomized experiments. &lt;/p&gt;
+
+&lt;p&gt;In this context, market research is not a definitive step, do or die. Instead, market research is just the start of an extensive experiment where the path can be re-oriented dynamically oriented as you go. So, if a given niche wants personalization, then given then the type of personalization they want. If their main need is deep content, then deep content it is, and so on.&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Tim Ferris and the Agile/Lean movement</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/13/ferris_agile/"/>
+		<updated>2013-09-13T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/13/ferris_agile</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-rwgJOrePL-o/UiNM5hY0NsI/AAAAAAAA3IA/SQWPHn5COpo/w680-h480-no/fractal5.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;A lot has been written about &lt;a href=&quot;http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-ebook/dp/B002WE46UW/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;amp;sr=1-1&amp;amp;qid=1378911156&quot;&gt;Tim Ferris&amp;#39; book on the four-hour week&lt;/a&gt; concept. Tim is an incredible marketer, and he was right in pitching the title as being able to work four hours a week to make 40k/month and travel around the world. But then, if you look closer there is a much deeper message there, I think.&lt;/p&gt;
+
+&lt;p&gt;Tim&amp;#39;s approach seems to be that there is always an easy way to do things, and that people should go for the low-hanging fruit. Although this is stated in a completely different way, there is a ton of parallels here with the Lean/Agile movement, when they say that you should start with the simplest possible hack or minimum viable product. If it doesn&amp;#39;t work you toss it, if it does work you take it from there in multiple iterating cycles where each cycle delivers a functional but likely ever incomplete product. &lt;/p&gt;
+
+&lt;p&gt;But then I think that Tim adds one more essential component to this. If I have an idea and I put this idea inside an Agile cycle, I am basically missing one of the most important steps, which is to search for the perfectly hackable idea. In other words, it&amp;#39;s not really about trying to get a hack out of a certain area, but instead trying to find areas where a hack is likely to turn things around. Searching with a hacking mind then implies discarding a lot of ideas before you even get started. Essentially, you toss out everything that might not seem like is waiting to be easily disrupted. This search, and the focus to keep it simple later on is the real hacking art, I think.&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Functions, objects, and experiences in learning</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/12/functions_objects_experiences/"/>
+		<updated>2013-09-12T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/12/functions_objects_experiences</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-BLGsGkbyiaA/Ui4lcl3h32I/AAAAAAAA3rA/Tpf0mjyQbRg/w800-h500-no/fractal.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;The other day I was reading somewhere that in the R stats language almost everything is either an object and/or a function (might be the Chambers book, but I am not sure). If you like to think in terms of semantics, this does make sense in that you can create meaning by making an object generate action through a function to create another object.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s then tempting to establish an analogy with learning to say that when trying to teach a skill to somebody all you need is to show them how to gather the raw material to put the skill to practice (an object) and then to teach this person to put the skill in action (function), so that an endproduct (a resulting object) can be generated. &lt;/p&gt;
+
+&lt;p&gt;This all sounds perfect, except that when you bring the functions-objects duo to humans you end up mixing a third component: Experience or, like some people prefer to call it, the situations surrounding functions &amp;amp; objects. Situations will affect how humans use functions/actions to act upon objects/things. &lt;/p&gt;
+
+&lt;p&gt;So, for example: I might coach a novice biomedical researcher by telling her that working in interdisciplinary groups is a good thing. However, if she feels that a given person would not be a good professional match for her, then the decision should be to not establish a collaboration with that individual. Also, I might coach another novice research into always reaching out to peers for further advice. That being said, if that novice researcher does not reach out in a way that is socially acceptable to within that research group, then no help will be provided.&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Hacking math equations: Math for Big Data practitioners</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/11/equation_hacking/"/>
+		<updated>2013-09-11T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/11/equation_hacking</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-XQ6g7dMjySo/Uid8d9gbdPI/AAAAAAAA3Y4/MwHG-ah2ngg/w700-h500-no/brown2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;This post is actually an expansion of something I wrote on &lt;a href=&quot;https://plus.google.com/106268032364497388036/posts/McTvKEVX5UW&quot;&gt;Google Plus&lt;/a&gt; and which is an idea that has been hunting me down for a while. As full disclosure, I am by no means a mathematician, although my PhD was focused on statistics and so I can say I come from a quantitative background. The basic principle is that a number of Big Data practitioners is scared of mathematical proofs, and therefore end up missing the inner guts of algorithms they might be working with. Sure, they have a rough practical understanding of things, but the algorithms are treated more likely a black box, something goes in, magic happens, something comes out.&lt;/p&gt;
+
+&lt;p&gt;While I will have an opportunity to demonstrate and hopefully hone the method in future posts, the idea here is simply to lay the main steps and principles down. Here they are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Start by breaking an equation down into its functional components. I call this the hacking approach, which is used around the Web in quite a few places. Check for example the outstanding post by Stuart Riffle on &lt;a href=&quot;http://www.altdevblogaday.com/2011/05/17/understanding-the-fourier-transform/&quot;&gt;Fourier Transforms&lt;/a&gt;. The more relevant portion of his post is when he color codes different portions of the main equation and then &lt;a href=&quot;http://altdevblogaday.com/wp-content/uploads/2011/05/DerivedDFT.png&quot;&gt;explains each portion in isolation&lt;/a&gt;. &lt;/li&gt;
+&lt;li&gt;Once you&amp;#39;ve broken the main equation into components, then test each component in isolation using numeric in algorithms. My preference is for &lt;a href=&quot;http://www.r-project.org/&quot;&gt;R&lt;/a&gt; just because I&amp;#39;m a bit more familiar with it, but &lt;a href=&quot;http://ipython.org/&quot;&gt;iPython&lt;/a&gt; or &lt;a href=&quot;http://julialang.org/&quot;&gt;Julia&lt;/a&gt; or whatever you might be comfortable with will do, including even languages that might handle symbolic computations like &lt;a href=&quot;http://www.sagemath.org/doc/reference/calculus/sage/calculus/calculus.html&quot;&gt;Sage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Finally bring all the parts together and continue running experiments to check the equation&amp;#39;s behavior&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Again, it&amp;#39;s no rocket science and it will likely get the data science practioner&amp;#39;s understanding of the underlying math to the next level. A few important additional points in relation to the equation hacking method that I would like to cover&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;What does the market wants people to know?&lt;/li&gt;
-&lt;li&gt;What do people themselves want to learn?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Within the learning process
+&lt;li&gt;The method is not new, and multiple people have laid down fairly similar things for a long time. Among them Jack Holmer](http://www.linkedin.com/profile/view?id=1815063&amp;amp;authType=NAME&lt;em&gt;SEARCH&amp;amp;authToken=a4P7&amp;amp;locale=en&lt;/em&gt;US&amp;amp;srchid=56292141378682048157&amp;amp;srchindex=1&amp;amp;srchtotal=8&amp;amp;trk=vsrp&lt;em&gt;people&lt;/em&gt;res_name&amp;amp;trkInfo=VSRPsearchId%3A56292141378682048157%2CVSRPtargetId%3A1815063%2CVSRPcmpt%3Aprimary) with his &lt;a href=&quot;http://www.systemdynamics.org/conferences/1983/proceed/parallel-vol2/homer920.pdf&quot;&gt;partial-model testing&lt;/a&gt; for System Dynamics models, &lt;a href=&quot;http://www.ted.com/talks/conrad_wolfram_teaching_kids_real_math_with_computers.html&quot;&gt;Conrad Wolfram in his TED talk&lt;/a&gt; focusing on Mathematica, the &lt;a href=&quot;http://mosaic-web.org/&quot;&gt;Project Mosaic&lt;/a&gt; by &lt;a href=&quot;http://www.macalester.edu/%7Ekaplan/&quot;&gt;Daniel Kaplan&lt;/a&gt; and others, and the proponents of &lt;a href=&quot;http://www.amazon.com/Mathematics-Experiment-2nd-Edition-Plausible/dp/1568814429/ref=sr_1_2?ie=UTF8&amp;amp;qid=1378739569&amp;amp;sr=8-2&amp;amp;keywords=experimental+mathematics&quot;&gt;experimental mathematics&lt;/a&gt; like Borwein and Bailey.&lt;/li&gt;
+&lt;li&gt;The intention is not to replace mathematical proofs, that would be stupid to say the least. That being said, proofs are a mathematicians business, while our business as practitioners is to have the best possible understanding of what we are doing. The goal with the hacking equations method is then to increase the intelligibility by those who, like me, did plenty of proofs in grad school but who don&amp;#39;t have the mathematical sophistication to understand complex math. &lt;/li&gt;
+&lt;li&gt;This method can&amp;#39;t obviously be followed without some basic math pre-requisites. At this point I would say that the following would certainly help:
 
 &lt;ul&gt;
-&lt;li&gt;How immersed are the students by the learning experience?&lt;/li&gt;
-&lt;li&gt;How much do students like the learning experience?&lt;/li&gt;
-&lt;li&gt;Did it the learning experience allow them to keep learning after the course?&lt;/li&gt;
-&lt;li&gt;Were the students able to put the learning content to practice beyond simply absorbing information?&lt;/li&gt;
+&lt;li&gt;Some basic &lt;a href=&quot;http://www.amazon.com/Theory-Logic-Dover-Mathematics-ebook/dp/B00CB2MKPI/ref=sr_1_1?s=digital-text&amp;amp;ie=UTF8&amp;amp;qid=1378743111&amp;amp;sr=1-1&amp;amp;keywords=set+theory&quot;&gt;Set Theory&lt;/a&gt; to understand the notation &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.com/How-Solve-Mathematical-Princeton-ebook/dp/B0073X0IOA/ref=tmm_kin_title_0&quot;&gt;Proof principles&lt;/a&gt;  since even if you are not going to do the proofs by hand, some general principles will help you understand how to prove something using a computer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/math/calculus&quot;&gt;Calculus&lt;/a&gt; there are some attempts now by the Project Mosaic to &lt;a href=&quot;http://test.causeweb.org/wiki/mosaic/index.php/Pub114&quot;&gt;teach Calculus using R&lt;/a&gt; but I haven&amp;#39;t tried it&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Hands-On-Matrix-Algebra-Using-Applications/dp/9814313696&quot;&gt;Linear algebra&lt;/a&gt;, and Vinod&amp;#39;s book is extraordinary, just too bad that it doesn&amp;#39;t have a Kindle version&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Solving-Differential-Equations-Use-ebook/dp/B00DGERDI4/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;amp;sr=&amp;amp;qid=&quot;&gt;Differential equations&lt;/a&gt;, and here Soetaert&amp;#39;s book is definitely the place to go&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;After learning
+&lt;/ul&gt;
 
-&lt;ul&gt;
-&lt;li&gt;How useful was the learning? Did students get a job? Did they get a promotion? Did it lead the student to do social good?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I guess my point is that big learning data is certainly about the act of absorbing information, but what comes before and after as well as all the other factors that come along also do matter.&lt;/p&gt;
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
 	<entry>
-		<title>Delegation and team formation for researchers</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/10/delegation_researchers/"/>
-		<updated>2013-08-10T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/10/delegation_researchers</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://www.toddmckeever.com/wp-content/uploads/2012/06/delegation.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+		<title>T skills in learning</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/10/t_nuggets/"/>
+		<updated>2013-09-10T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/10/t_nuggets</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-BRpTBRSQTq8/UieF5TsNFwI/AAAAAAAA3bQ/FUZPcsHQDXM/s558-no/fractal5.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;If you go over most books on delegation, they will tell you that in order to delegate you have to make sure that the person you are delegating to has to have at least three main characteristics: Has to be willing, has to have the time, and has to have the ability.&lt;/p&gt;
+&lt;!-- need to clarify the nugget portion --&gt;
 
-&lt;p&gt;This is all nice in theory, but in practice the problem is that when you start working with somebody you will usually not know whether this person has these characteristics. &lt;/p&gt;
+&lt;p&gt;Have been thinking a lot recently about an absolutely brilliant &lt;a href=&quot;http://cacm.acm.org/magazines/2013/8/166303-teaching-programming-the-way-it-works-outside-the-classroom/fulltext&quot;&gt;post by Philip Guo&lt;/a&gt; on how programming is done in the real world, and therefore how it should probably be taught. The whole concept can be summarized by the sequence forage, tinker, weld, grow, doubt, and refactor.&lt;/p&gt;
 
-&lt;p&gt;What&amp;#39;s the solution then? One possibility is to follow an &lt;a href=&quot;http://agilemanifesto.org/&quot;&gt;Agile&lt;/a&gt; approach, where tasks are given to somebody in small chunks, and then followed up in an iterative manner. For example, if the task is to do the data management, give the person a tiny chunk of data to be cleaned and then follow-up. If the three criteria were met for that task, then scale up and check. &lt;/p&gt;
+&lt;p&gt;Some people would call the essence of a hack, but notice that I am using the word hack here is one of the highest possible levels of a compliment.&lt;/p&gt;
 
-&lt;p&gt;The other aspect of delegation that is often not mentioned, is that delegation is not about passing tasks to others but instead it is one of the first steps in creating a research team. In other words, if the person can complete a task and keeps moving up in terms of difficulty, then this is a dependable member of your team.&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>An online course that people would really like to take</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/08/ideal_course/"/>
-		<updated>2013-08-08T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/08/ideal_course</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/3/3b/Alexander_and_Aristotle.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I like this post so much that I think the whole concept can be further expanded to cover the connection between programming and any area outside of programming. This means once you reached the stage when you are done tweaking the code your foraged, you could potentially bring in pieces of non-programming methods. Here is an example: let&amp;#39;s say that I decided to run some Big Data experiments using a method called &lt;a href=&quot;http://lsa.colorado.edu/papers/dp1.LSAintro.pdf&quot;&gt;latent semantic analysis (LSA)&lt;/a&gt;. Blatantly oversimplifying things, LSA will extract concepts within free text that are highly associated and infer that they are all pointing to a higher construct. For example, if the concepts of grades, intelligence, diligence, and persistence keep clustering across units of text, I might infer that these concepts probably have something in common from the perspective of the writer. &lt;/p&gt;
 
-&lt;p&gt;A few weeks ago I enrolled into an online course related to data analysis that I was really looking forward to taking. The instructor was the primary person in the field, I had read his whole book once and a few chapters multiple times. What an opportunity then to be able to ask questions and get answers from the guy himself.&lt;/p&gt;
+&lt;p&gt;Now, following the forage-refactor sequence from Philip, I would grab a piece of LSA code, play with it a bit, insert my own data and make it work, and then could maybe bring in a chunk of graphical source code to illustrate my brand new LSA analysis. This is all good, but instead of bringing in another piece of code, I could also blend my initial analysis with some qualitative research, meaning to conduct an interview with the writer and see whether my analysis does make sense. The difference between inserting yet another chunk of code and introducing a qualitative methodology is subtle but, I think, important. It means that one of the essential components of novelty is to blend skills that are usually distant. In my example, almost every data scientist who knows LSA likely knows how to graphically display data, but a far smaller number of them are intimately connected to qualitative research. &lt;/p&gt;
 
-&lt;p&gt;But then the course started. And the course was a reference to the book along with a pdf with some really simplistic questions, and a board controlled by a really well-intended teaching assistant. &lt;/p&gt;
-
-&lt;p&gt;Of course I was disappointed and ended up dropping the course after a couple days. But then this experience got me thinking about what is it that I would like to see in a large online course, large here meaning a place where the instructor cannot spend time with individual students, but instead has to create an environments where all of them can be managed as a group. Here are some thoughts:&lt;/p&gt;
+&lt;p&gt;Some clarification is probably in order:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;I would like to work on something that is similar to the task I am trying to accomplish. So, if it&amp;#39;s a certain type of data analysis, I would like to do it from a to z. This also means that I don&amp;#39;t want the task to be broken down into small pieces to only at the end find out how all the parts come together.&lt;/li&gt;
-&lt;li&gt;I would like to have tips on where to search for information that might not be provided in the course static info and social&lt;/li&gt;
-&lt;li&gt;I would like to learn about new tools and also where I could find additional tool. The latter would ideally include static sources of information such as traditional journals or lists as well as social sources where I can interact and ask questions&lt;/li&gt;
-&lt;li&gt;I would like to learn from personal stories talking about their experience with what works and what not, biggest mistakes, early signs of success and whatever they would share while having a beer with me&lt;/li&gt;
-&lt;li&gt;i would like the course to adapt to me&lt;/li&gt;
-&lt;li&gt;i would like to make choices in relation to course path&lt;/li&gt;
+&lt;li&gt;To say that a skill is distant from each other, I explicitly mean that the people with one set of skills communicate very little with the people who know the other skill set. So, distant is used here in the social network analysis context.&lt;/li&gt;
+&lt;li&gt;In order to get this kind of blending a T skill set will be required. I honestly don&amp;#39;t know who came up with the T metaphor, but to me it summarizes the essence of what is needed in this kind of situation. The &lt;em&gt;T&lt;/em&gt; skill has a long vertical arm of expertise in one area, and a shorter horizontal, cross-disciplinary range of skills across areas. Call it the 21st century version of our beloved polymath.&lt;/li&gt;
+&lt;li&gt;The central point of the T skill is the crossing point between the vertical and the horizontal arms, or how to make the two lead into something potentially useful, but that is another whole story that I will likely come back to in future posts.&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
 	<entry>
-		<title>Static sites and reproducible research blogging</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/08/blog_archeology/"/>
-		<updated>2013-08-08T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/08/blog_archeology</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://hq.scisdragons.net/xkruger/files/2011/08/Archeology.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+		<title>Just-in-time learning</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/09/jit_learning/"/>
+		<updated>2013-09-09T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/09/jit_learning</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-1PR_O2WTanE/UimrLWkFkxI/AAAAAAAA3e4/1bz2HwoEUwg/s558-no/Mandelbrot+view.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Others have mentioned before some of the advantages of static sites like &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyll&lt;/a&gt;, and among them is the use of versioning systems like &lt;a href=&quot;http://git-scm.com/book&quot;&gt;git&lt;/a&gt; on github](https://github.com/). But another hidden advantage is that anybody digging through the directory structure of the site can check which posts might be coming up, and once they are posted how exactly they evolved over time.&lt;/p&gt;
+&lt;p&gt;People attempting to predict what the future of learning might be is obviously fooling themselves: The variety of styles will likely be as large as it gets, fades will come and go, blending among themselves in what promises to be an awesome ecology. &lt;/p&gt;
 
-&lt;p&gt;For example, see my &lt;a href=&quot;https://github.com/rpietro/rpietro.github.io/tree/master/_drafts&quot;&gt;drafts directory&lt;/a&gt; as well as &lt;a href=&quot;https://github.com/rpietro/rpietro.github.io/blob/master/_drafts/2013-07-29-blog_archeology.markdown&quot;&gt;how this specific post evolved&lt;/a&gt; before it got to be published on this blog.&lt;/p&gt;
+&lt;p&gt;But then, at the risk of making a fool of myself, or maybe actually trying to make a fool of myself, here is my own prediction: One of the important components in future education will be just in time (JIT) learning, to the point of the very expression JIT becoming synonymous with learning. Rather than trying to define it, here is a vision: I am doing a task for personal or work-related reasons  and in order to complete that task I need to have a certain ability and access some materials, but I don&amp;#39;t know how to do it, where to get the required stuff, and who to ask. I search for the closest possible skill course, decide that it is close enough to my needs, and decide on whether I want to buy the learning nugget or get the freely available ones. Once I grab the learning nugget, it will first show me how to quickly run their example from start to finish and then how to adapt that same working example to my particular case.&lt;/p&gt;
 
-&lt;p&gt;But then you might be like &lt;em&gt;who cares?&lt;/em&gt; Well, if you&amp;#39;re writing a non-scientific blog post then probably there is less reason to care about the archeology of a certain post. But imagine that the post is instead focused on exploring a given data set for the adverse effects of a certain drug. Well, all of a sudden how exactly the post got to the conclusions it got does matter. For example, did you go in a certain direction that showed no problems just to fish into a little corner that would make your blog post shine? Did multiple people actually contribute to the post? Who did what? All of this would be easy to find if the blog has an underlying versioning system.&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>What does Agile mean in terms of online learning?</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/08/agile_online_courses/"/>
-		<updated>2013-08-08T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/08/agile_online_courses</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://blog.mindjet.com/wp-content/uploads/2012/06/Agile-Marketing-Series-What-is-Agile-Marketing.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Agile still is the hype thing to be. Whether it goes by kanban, lean, or whatever other name, the central concepts are more or less the same: &lt;/p&gt;
+&lt;p&gt;There is a bunch of detail hidden into this description, and so let&amp;#39;s dissect some of its pieces:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Focus on whoever will use what you are building&lt;/li&gt;
-&lt;li&gt;Work in short iterative cycles, delivering something that is incomplete but functioning&lt;/li&gt;
+&lt;li&gt;I am talking about a task that could be for work or personal reasons, but the distinction between the two is getting more and more blurred everyday. If you hope to retire for any reason other than inability to do absolutely anything, think twice.&lt;/li&gt;
+&lt;li&gt;By a task here I mean things such as programming a computer, building a bacteria to create something you want, building a certain 3D model for printing, communicating with another person ... anything requiring a skill set&lt;/li&gt;
+&lt;li&gt;Searching for the right learning material will likely be a mix of search and social activity, similar to what it already is but more efficient, perhaps semantic&lt;/li&gt;
+&lt;li&gt;It will be possible to understand, at a glance, exactly what kind of skill set you will have at the end of that learning experience. This means that practical outcomes will be more important than the whole theory that comes along with the learning is experience, theory will come later when and if needed. Again, this is JIT&lt;/li&gt;
+&lt;li&gt;In order to deliver content that is precisely what people need, a great deal of dynamic, real-time market research will be going on, with an even better experience monitoring after the content is delivered. The continuous production of additional content will be driven by both the market research and the experience monitoring. In other words, markets will be highly segmented.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;But then does this concept have any connection with the creation of online courses? I think it does at multiple levels. Below are just some possible examples:&lt;/p&gt;
+&lt;p&gt;Anyway, like any prediction writer, I will likely regret having written this one, but it&amp;#39;s written anyway.&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;Run a quick and dirt market research survey before you launch something. In other words, which people care about what you have to say. Once you find a niche, create a course specifically for them&lt;/li&gt;
-&lt;li&gt;Don&amp;#39;t overdo it, create the simplest possible course you can in the beginning, and then improve from there&lt;/li&gt;
-&lt;li&gt;Measure and experiment, which translates into metrics such as: are people completing the course, do they talk about it and what do they say, if you have some kind of satisfaction metric in there (5 stars will do), what is it that they are saying.&lt;/li&gt;
-&lt;/ol&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>The evolving definition of literacy</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/03/literacy/"/>
-		<updated>2013-08-03T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/03/literacy</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://blogs-images.forbes.com/marketshare/files/2011/08/abc_blocks.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;The definition of what constitutes being literate has been changing over time, and the rate of change is accelerating. Until not a long time ago being literate meant the ability to read and write in your own language. But unless your language is English, this definition is really getting outdated, and very soon Chinese is likely going to be joining the English. &lt;/p&gt;
-
-&lt;p&gt;But then it is not just about reading words, the definition is moving far beyond that. Right now literacy means the ability to be able to skillfully search for information, interpret and possibly analyze data, and write computer programs. Of course it&amp;#39;s not going to stop there, at some point the basic literacy will be to understand and maybe hack biotechnology and maybe neurobiology.&lt;/p&gt;
-
-&lt;p&gt;But then again, this is just my opinion ...&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>Expert education</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/02/expert_education/"/>
-		<updated>2013-08-02T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/02/expert_education</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://fabiusmaximus.files.wordpress.com/2013/06/20130621-expert-monkey.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;I have heard a number of times that experts do not need structured learning environments, all they need is freedom to explore. While I certainly agree with the freedom bit, I think that the portion on not needing structured learning environments is plain wrong. Here is why:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;An expert has a focus in one area, but to innovate experts will often, if not always, have to go outside of their domains of expertise. At the boundaries with another discipline every expert becomes a novice. This is what Gallison calls a &lt;a href=&quot;http://en.wikipedia.org/wiki/Trading_zones&quot;&gt;trading zone&lt;/a&gt;, or a place of exchange with people from other fields. I would call this horizontal expansion.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Within their field of expertise, experts need to be fed with problems at the edge of their current level of expertise so that they can be expanding their expertise to a deeper and deeper level. The problem is that a sophisticated structure is required in order to get to these highly refined problems that are at a level that can push the experts skills to the next level. These are called &amp;quot;ladder environments,&amp;quot; a term I learned from &lt;a href=&quot;http://www.linkedin.com/profile/view?id=121305572&amp;amp;authType=NAME_SEARCH&amp;amp;authToken=m86Y&amp;amp;locale=en_US&amp;amp;srchid=56292141375494439812&amp;amp;srchindex=1&amp;amp;srchtotal=12&amp;amp;trk=vsrp_people_res_name&amp;amp;trkInfo=VSRPsearchId%3A56292141375494439812%2CVSRPtargetId%3A121305572%2CVSRPcmpt%3Aprimary&quot;&gt;Bob Eberlein&lt;/a&gt; called it a ladder since there is a group of novices or mid-level experts working with a wide range of projects while solving the easier problems and only taking to the expert the most complicated cases. I would call this vertical expansion.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;In sum, the statement that experts do not require a structured learning environment is an urban legend, but they do require a *different type of environment.&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>Merrienboering a topic</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/01/merrienboering/"/>
-		<updated>2013-08-01T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/01/merrienboering</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://img1.imagesbn.com/p/9780415807968_p0_v1_s600.JPG&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;I think I am coining a new verb, assuming others haven&amp;#39;t done it before me. The 
-verb is &lt;em&gt;merrienboering&lt;/em&gt;, or the ability to turn a topic into Merrienboer&amp;#39;s Instructional Design Model called &lt;a href=&quot;http://www.amazon.com/Steps-Complex-Learning-Four-Component-ebook/dp/B009WMBP7O/ref=tmm_kin_title_0?ie=UTF8&amp;amp;qid=1375382850&amp;amp;sr=8-3&quot;&gt;Complex Learning&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I will likely post at some point about my understanding of the main components behind Merrienboer&amp;#39;s model, but one of the most attractive features to me is that you start the learning process by getting a complete or whole task completed. That&amp;#39;s right, no more learning one piece at a time to only then putting it all together at the very end. A &lt;em&gt;life is short, eat dessert first&lt;/em&gt; sort of attitude, which I personally connect with the hacker/agile/lean culture. In other words, hack your way into the simplest possible solution, and only start making it fancier.&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>Mastering an experimental approach to mathematics: Are the expert skills similar to the ones displayed by experts trained in a traditional way?</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/08/01/experimental_math/"/>
-		<updated>2013-08-01T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/08/01/experimental_math</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;http://emis.matem.unam.mx/journals/EM/img/CassiniQuartic.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;I recently came one more time across a post on &lt;a href=&quot;https://plus.google.com/106268032364497388036/posts/3PGuie75xmx&quot;&gt;what is it like to understand advanced mathematics?&lt;/a&gt;. Although the number of people reaching the level of mastery described in this post are certain few, I wonder what would be the differences in the type of expertise and insight that would be developed when comparing traditional mathematicians vs. those trained primarily from an experimental perspective. I am actually not sure whether there are people who are solely trained as experimental mathematicians, but even a comparison with the ones primarily focusing on experimental mathematics would be fairly interesting. &lt;/p&gt;
-
-&lt;p&gt;Reason for my interest in this topic is that I identify this as the geek/Agile/constructivist/Merrienboer way of doing mathematics, something that &lt;a href=&quot;http://www.carma.newcastle.edu.au/jon/&quot;&gt;Jonathan Borwein&lt;/a&gt; has been advocating for a while through several books, including his latest &lt;a href=&quot;http://www.amazon.com/Introduction-Modern-Mathematical-Computing-ebook/dp/B00A7QHJR4/ref=tmm_kin_title_0?ie=UTF8&amp;amp;qid=1375387549&amp;amp;sr=1-1&quot;&gt;An Introduction to Modern Mathematical Computing: With Mathematica&lt;/a&gt;. Perhaps making the book focused on, say, &lt;a href=&quot;http://www.sagemath.org/&quot;&gt;Sage&lt;/a&gt; would make it more widely accessible, but regardless this is a very exciting field for mathematical education.&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>3D models for clinical training</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/07/30/3D_clinical/"/>
-		<updated>2013-07-30T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/07/30/3D_clinical</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-9bSce_VZSOU/UffkEw4Ck-I/AAAAAAAAz-Y/JflPNKPfy6g/w506-h285/Desktop.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;3D models have typically been used for training with a number of clinical specialties, and we are now experimenting with orthopedic fractures and dentistry prostheses. The possibilities are endless, but one that is of particular interest to me is the ability to enhance training and assessment in relation to diagnosis, disease mechanisms or pathophysiology, and therapeutic planning. Here are some examples in the context of orthopedic fractures, a topic that is of interest not only to orthopedic surgeons and residents but also to the large number of other health care providers involved with the treatment of bone fractures such as nurses, physical and occupational therapists, general practitioners, among others.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Diagnosis: even very large clinical image repositories can be difficult to search when looking for specific types of fractures and their multiple combinations. With 3D models you cannot only reproduce any type of fracture, but also any combination. This is important for novice healthcare providers since they rarely have an opportunity to see a large collection all in one place. &lt;/li&gt;
-&lt;li&gt;Pathophysiology or fracture biomechanics: the biomechanics of a fracture largely determines its treatment. In other words, how the fragments are displaced as a function of their muscle and ligament insertions, gravity, or walking load will largely determine whether a fracture might be successfuly treated with a conservative treatment or the multiple types of surgical devices. In a 3D model it is possible to demonstrate the impact of the biomechanical factors on the fracture, such as having fragments being pulled in one direction or another.&lt;/li&gt;
-&lt;li&gt;Treatment: 3D can demonstrate with extreme clarity how a cast or an orthopedic device interact with a the biomechanics of a fracture, counterbalancing these mechanisms to bring the fragments to their anatomical position. This is certainly useful when attempting to explain the preference for one treatment vs. another.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;To bring this back to an educational context, the main role of these 3D models is to have healthcare providers build rich maps with the concepts and situations surrounding therapeutic planning. In other words, rather than having oversimplistic associations saying that for a given fracture type the treatment should be x, you build a number of rich associations having biomechanical mechanisms in the middle.&lt;/p&gt;
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	

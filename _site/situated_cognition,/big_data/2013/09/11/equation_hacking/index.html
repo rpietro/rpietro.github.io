@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>divein coaching</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="big data and behavioral sciences applied to immersive distance education">
+
+    <link href="/css/bootstrap.css" rel="stylesheet">
+    <style>
+      body {
+        padding-top: 60px;
+      }
+    </style>
+    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="#">divein coaching</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="active"><a href="/">Home</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+<div class="row-fluid">
+	<div class="span8">
+		<h1>Hacking math equations: Math for Big Data practitioners</h1>
+		<p class="muted">11 September 2013</p>
+
+		<p><img src="https://lh3.googleusercontent.com/-XQ6g7dMjySo/Uid8d9gbdPI/AAAAAAAA3Y4/MwHG-ah2ngg/w700-h500-no/brown2.png" alt=""></p>
+
+<p>This post is actually an expansion of something I wrote on <a href="https://plus.google.com/106268032364497388036/posts/McTvKEVX5UW">Google Plus</a> and which is an idea that has been hunting me down for a while. As full disclosure, I am by no means a mathematician, although my PhD was focused on statistics and so I can say I come from a quantitative background. The basic principle is that a number of Big Data practitioners is scared of mathematical proofs, and therefore end up missing the inner guts of algorithms they might be working with. Sure, they have a rough practical understanding of things, but the algorithms are treated more likely a black box, something goes in, magic happens, something comes out.</p>
+
+<p>While I will have an opportunity to demonstrate and hopefully hone the method in future posts, the idea here is simply to lay the main steps and principles down. Here they are:</p>
+
+<ol>
+<li>Start by breaking an equation down into its functional components. I call this the hacking approach, which is used around the Web in quite a few places. Check for example the outstanding post by Stuart Riffle on <a href="http://www.altdevblogaday.com/2011/05/17/understanding-the-fourier-transform/">Fourier Transforms</a>. The more relevant portion of his post is when he color codes different portions of the main equation and then <a href="http://altdevblogaday.com/wp-content/uploads/2011/05/DerivedDFT.png">explains each portion in isolation</a>. </li>
+<li>Once you&#39;ve broken the main equation into components, then test each component in isolation using numeric in algorithms. My preference is for <a href="http://www.r-project.org/">R</a> just because I&#39;m a bit more familiar with it, but <a href="http://ipython.org/">iPython</a> or <a href="http://julialang.org/">Julia</a> or whatever you might be comfortable with will do, including even languages that might handle symbolic computations like <a href="http://www.sagemath.org/doc/reference/calculus/sage/calculus/calculus.html">Sage</a></li>
+<li>Finally bring all the parts together and continue running experiments to check the equation&#39;s behavior</li>
+</ol>
+
+<p>Again, it&#39;s no rocket science and it will likely get the data science practioner&#39;s understanding of the underlying math to the next level. A few important additional points in relation to the equation hacking method that I would like to cover</p>
+
+<ul>
+<li>The method is not new, and multiple people have laid down fairly similar things for a long time. Among them Jack Holmer](http://www.linkedin.com/profile/view?id=1815063&amp;authType=NAME<em>SEARCH&amp;authToken=a4P7&amp;locale=en</em>US&amp;srchid=56292141378682048157&amp;srchindex=1&amp;srchtotal=8&amp;trk=vsrp<em>people</em>res_name&amp;trkInfo=VSRPsearchId%3A56292141378682048157%2CVSRPtargetId%3A1815063%2CVSRPcmpt%3Aprimary) with his <a href="http://www.systemdynamics.org/conferences/1983/proceed/parallel-vol2/homer920.pdf">partial-model testing</a> for System Dynamics models, <a href="http://www.ted.com/talks/conrad_wolfram_teaching_kids_real_math_with_computers.html">Conrad Wolfram in his TED talk</a> focusing on Mathematica, the <a href="http://mosaic-web.org/">Project Mosaic</a> by <a href="http://www.macalester.edu/%7Ekaplan/">Daniel Kaplan</a> and others, and the proponents of <a href="http://www.amazon.com/Mathematics-Experiment-2nd-Edition-Plausible/dp/1568814429/ref=sr_1_2?ie=UTF8&amp;qid=1378739569&amp;sr=8-2&amp;keywords=experimental+mathematics">experimental mathematics</a> like Borwein and Bailey.</li>
+<li>The intention is not to replace mathematical proofs, that would be stupid to say the least. That being said, proofs are a mathematicians business, while our business as practitioners is to have the best possible understanding of what we are doing. The goal with the hacking equations method is then to increase the intelligibility by those who, like me, did plenty of proofs in grad school but who don&#39;t have the mathematical sophistication to understand complex math. </li>
+<li>This method can&#39;t obviously be followed without some basic math pre-requisites. At this point I would say that the following would certainly help:
+
+<ul>
+<li>Some basic <a href="http://www.amazon.com/Theory-Logic-Dover-Mathematics-ebook/dp/B00CB2MKPI/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1378743111&amp;sr=1-1&amp;keywords=set+theory">Set Theory</a> to understand the notation </li>
+<li><a href="http://www.amazon.com/How-Solve-Mathematical-Princeton-ebook/dp/B0073X0IOA/ref=tmm_kin_title_0">Proof principles</a>  since even if you are not going to do the proofs by hand, some general principles will help you understand how to prove something using a computer</li>
+<li><a href="https://www.khanacademy.org/math/calculus">Calculus</a> there are some attempts now by the Project Mosaic to <a href="http://test.causeweb.org/wiki/mosaic/index.php/Pub114">teach Calculus using R</a> but I haven&#39;t tried it</li>
+<li><a href="http://www.amazon.com/Hands-On-Matrix-Algebra-Using-Applications/dp/9814313696">Linear algebra</a>, and Vinod&#39;s book is extraordinary, just too bad that it doesn&#39;t have a Kindle version</li>
+<li><a href="http://www.amazon.com/Solving-Differential-Equations-Use-ebook/dp/B00DGERDI4/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;sr=&amp;qid=">Differential equations</a>, and here Soetaert&#39;s book is definitely the place to go</li>
+</ul></li>
+</ul>
+
+<p>by Ricardo Pietrobon</p>
+
+	</div>
+	<div class="span4">
+		<h3>About Me</h3>
+
+<p>My name is Ricardo Pietrobon and I am interested in big data and situated cognition applied to immersive distance education.</p>
+
+<ul>
+  
+    <li><a href="/situated_cognition,/big_data/2013/09/28/coaching_posts/">Orientando pesquisadores: O começo de uma série de artigos</a></li>
+  
+    <li><a href="/situated_cognition,/big_data,/facebook/2013/09/27/coaching_posts/">Coaching researchers: Beginning a series of posts</a></li>
+  
+    <li><a href="/situated_cognition,/big_data/2013/09/26/givedirectly_libations/">GiveDirectly libations</a></li>
+  
+    <li><a href="/situated_cognition,/big_data/2013/09/25/shinto_monism_learning/">Shinto, situated cognition, and monism</a></li>
+  
+    <li><a href="/situated_cognition,/big_data/2013/09/24/sequencing_ladder/">Merrienboer, whole tasks and the learning ladder</a></li>
+  
+</ul>
+	</div>
+</div>
+
+</div>
+
+  </body>
+</html>
