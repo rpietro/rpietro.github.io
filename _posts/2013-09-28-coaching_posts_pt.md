@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Orientando pesquisadores: O começo de uma série de artigos"
+title:  "Orientando pesquisadores: O começo de uma serie de artigos"
 date:   2013-09-28
 categories: situated_cognition, big_data, facebook
 ---
