@@ -7,6 +7,9 @@ categories: situated_cognition, big_data, facebook
 
 ![](https://lh3.googleusercontent.com/-joKOP9Mu7Sw/UkLT_Zfc_II/AAAAAAAA4Ug/aAxdWZ-8kg8/w706-h353-no/fractal3.png)
 
+<title>{{ page.title }}</title>
+
+
 Researchers who have been successful in publishing in journals within their own countries will often find it hard to have their articles accepted when moving to higher impact, international journals. Below are some of the most frequent reasons:
 
 ## 1. Not focusing on a real gap in the literature
