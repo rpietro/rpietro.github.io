@@ -72,3 +72,5 @@ When reviewing the literature in an original paper, it's often tempting to start
 
 
 All of these topics and much more will be covered in future posts. So, stay tuned and join our [Facebook page](https://www.facebook.com/groups/170343223157225/) so that you can know every time something new has come up. Hope you enjoy.
+
+by Ricardo Pietrobon

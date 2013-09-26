@@ -26,3 +26,5 @@ But now you might be asking what is it that Jekyll can do that you can't get acc
 1. No backend database - here the argument is that a static site is safer since there is no way for the blog to be attacked through a [SQL injection](http://en.wikipedia.org/wiki/SQL_injection). While I think that the odds of somebody wanting to hack my blog are pretty remote - hey, the whole content is github, just fork it - for me this is more of a theoretical advantage.
 
 So, just to restate what I said before, I am not claiming that any the items above cannot be included in a different workflow using one of the simpler blogging platforms. Hey, different folks different strokes, and Jekyll simply works for me ... at least until I find something cooler.
+
+by Ricardo Pietrobon

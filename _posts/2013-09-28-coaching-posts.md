@@ -16,3 +16,5 @@ Estou começando uma série de posts que sobre sugestões práticas para pesquis
 Cada uma destes posts estará disponível em Inglês e Português, geralmente postados em dias consecutivos. Os posts também serão publicados nas respectivas paginas do Facebook, nas suas versões global e brasileira, a página brasileira [já estando disponível](https://www.facebook.com/groups/578812732155954/?bookmark_t=group). Outras línguas podem vir a aparecer posteriormente caso os posts gerem interesse. 
 
 Mas chega de conversa, mãos a obra ...
+
+escrito por Ricardo Pietrobon

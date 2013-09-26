@@ -71,3 +71,5 @@ Ao rever a literatura em um artigo original, muitas vezes é tentador começar a
 
 
 Todos esses temas e muito mais serão abordados em posts futuros. Então, fique atento e se junte ao nosso [grupo no Facebook](https://www.facebook.com/groups/170343223157225/), de modo que você possa saber cada vez que algo novo surgiu. Espero que gostem.
+
+escrito por Ricardo Pietrobon
