@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sete motivos pelos quais pesquisadores brasileiros podem ter dificuldade ao tentar publicar em revistas internacionais alto impacto"
+title:  "Sete motivos pelos quais pesquisadores brasileiros podem ter dificuldade ao tentar publicar em revistas internacionais de alto impacto"
 date:   2013-10-01
 categories: situated_cognition, big_data, facebook, errors
 ---
