@@ -5,7 +5,7 @@ date:   2013-10-06
 categories: situated_cognition, big_data, networking
 ---
 
-![]()
+![](https://lh3.googleusercontent.com/-ul3-okePKVo/Ukg3u2Tr4-I/AAAAAAAA4c4/VTmETF6gh-w/w506-h380/frac.png)
 
 <title>{{ page.title }}</title>
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Coaching researchers: Why qualitative research matters?"
+title:  "Coaching researchers: Why should qualitative research matter?"
 date:   2013-10-04
 categories: situated_cognition, big_data, facebook, analysis
 ---
 
-![]()
+![](https://lh4.googleusercontent.com/-xT0kLYdxqP4/Ukg2A4tvH6I/AAAAAAAA4bk/kWI1mM0XZKA/w672-h504-no/fractal.png)
 
 <title>{{ page.title }}</title>
 

@@ -5,7 +5,7 @@ date:   2013-10-05
 categories: situated_cognition, big_data, data, facebook
 ---
 
-![]()
+![](https://lh4.googleusercontent.com/-uNWdfkWgrd0/Ukg3RCycHDI/AAAAAAAA4cc/lhepxoVzW7c/w672-h504-no/fractal3.png)
 
 <title>{{ page.title }}</title>
 
