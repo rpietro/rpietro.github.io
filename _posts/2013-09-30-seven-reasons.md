@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Seven reasons why researchers around the world might have difficulty when attempting to publish in high impact, international journals"
+title:  "Coaching researchers: Seven reasons why researchers around the world might have difficulty when attempting to publish in high impact, international journals"
 date:   2013-09-30
 categories: situated_cognition, big_data, facebook
 ---

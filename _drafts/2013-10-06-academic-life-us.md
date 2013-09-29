@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Coaching researchers: What is truly valued in an academic life in the US?"
+date:   2013-10-06
+categories: situated_cognition, big_data, networking
+---
+
+![]()
+
+<title>{{ page.title }}</title>
+
+
+A frequent question when I travel abroad to give courses on research methodology is *how does the academic life in the US differ from here*. Now, of course *here* will differ whether I might be in Europe, Asia, or South America. With that disclosure, here is an attempt to summarize the main differences:
+
+1. Two currencies: In different countries promotion will depend on metrics such as international collaborations, number of MSc or PhD students, educational activities, entrepreneurial activities, administrative academic activities, among others. In contrast, in the US two currencies are almost unparalleled: Funding the professor might bring in, and high impact original publications. Despite a number of attempts to value different efforts and accomplishments, and many speeches by administrative officers, everything else is significantly secondary. For example, in the biomedical sector clinical activities are considered an important source of revenue and faculty members are strongly encouraged to keep their schedules very busy, but in terms of academic recognition the clinical work is almost irrelevant. Mentoring students or other faculty members is considered nice, but unless it comes along with funding to support those efforts it is viewed as a budget expense. Even original articles that might represent contributions to the field are looked down if they are not supported by funding. And then, when it comes to funding, something coming from the National Institutes of Health is preferred in comparison with industry funding, although if the amount from industry is substantial nobody will complain.
+2. Professors are responsible to cover for their own salary: Although there are variations across different universities, there are two main classes (some people would call casts) of professors: Research and tenure track professors. Research professors are responsible to cover their salaries through funded research, and if they cannot cover their own salaries they will be dismissed. Tenure track positions are offered at the very beginning to those who are perceived as having a greater potential. After a certain period of time, usually around eight to ten years, the tenure-track professors will be evaluated and either promoted to tenure or, again, asked to leave. If they receive tenure, then they can only be dismissed in extreme cases, such as scientific fraud or having an affair with a student. 
+3. Merit and politics: In contrast with many countries, promotions and even being hired as a professor is a matter of merit and far less of politics. Sure, egos, political alliances, and hot air still go around and can help, but they usually won't be sustained unless the professor can deliver the two main metrics: funding and high impact publications.
+4. Entrepreneurial activities: Forming startup companies is the new hype in the US, and for good reasons: The research system has outgrown the government capacity to fund it, and there is a dire need to integrate the ivory towers with the rest of society. Despite a lot of speeches, the university is usually a very large and slow-moving organization, and old habits die hard. All this means is that the two currencies still prevail: Funding and publications. Since entrepreneurial activities are not a particularly strong method to attract neither in most cases, at this point there is much more talk than action, a few institutions around the country probably being the exception.
+5. Brains, egos, and mentors: At the top American universities the hype will usually meet the reality, and you are usually truly surrounded by smart people with excellent ideas. Of course, those big brains are very often, but not necessarily accompanied by huge egos. If you have the political skills or massaging abilities to deal with the egos you will do well, again provided that you can deliver the required currencies. As for mentors, it is usually a hit or miss. Some people like me are simply lucky and will encounter true mentors who will teach you the path and guide you through it. Others are less lucky and will struggle by falling under somebody who doesn't see himself as a true mentor and a coach. 
+
+
+by Ricardo Pietrobon

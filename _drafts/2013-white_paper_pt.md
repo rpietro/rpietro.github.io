@@ -1,13 +1,6 @@
----
-layout: post
-title:  "Orientando pesquisadores: Sete motivos pelos quais pesquisadores brasileiros podem ter dificuldade ao tentar publicar em revistas internacionais de alto impacto"
-date:   2013-10-01
-categories: situated_cognition, big_data, facebook, errors
----
+# Sete motivos pelos quais pesquisadores brasileiros podem ter dificuldade ao tentar publicar em revistas internacionais de alto impacto
 
-<title>{{ page.title }}</title>
 
-![](https://lh3.googleusercontent.com/-joKOP9Mu7Sw/UkLT_Zfc_II/AAAAAAAA4Ug/aAxdWZ-8kg8/w706-h353-no/fractal3.png)
 
 Muitas vezes pesquisadores brasileiros que são bem sucedidos com publicações em revistas brasileiras acabam tendo dificuldade quando tentam publicar em revistas de maior impacto a nível internacional. Abaixo estão algumas das razões mais frequentes pelas quais isso pode ocorrer:
 

@@ -7,3 +7,6 @@ categories: situated_cognition, big_data, analysis
 
 ![]()
 
+hacking equations approach
+
+mean equation hacking using R

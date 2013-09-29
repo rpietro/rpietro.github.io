@@ -7,3 +7,8 @@ categories: situated_cognition, big_data
 
 ![]()
 
+<title>{{ page.title }}</title>
+
+popular art, teenager movements, all pointing toward what is cutting edge in terms of zeitgeist
+
+by Ricardo Pietrobon

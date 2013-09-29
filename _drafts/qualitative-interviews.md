@@ -7,3 +7,11 @@ categories: situated_cognition, big_data, facebook, methods
 
 ![]()
 
+<title>{{ page.title }}</title>
+
+similar to medical interviews
+do not induce
+iterative
+continuously changing script
+
+by Ricardo Pietrobon
