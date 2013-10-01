@@ -14,3 +14,5 @@ You've probably heard of people who floss in the shower just because it creates 
 Then, every time you feel like you have to ask your gods for support or strength or hope or simply luck, you go ahead and make a GiveDirectly libation by donating some money. The quantity is proportional to how much you might want to get your gods on your side, some of them might be picky.
 
 GiveDirectly is one of the best donation sites, with [90 to 93% of your donation being transferred to the people who need the money](https://www.givedirectly.org/give.php). This will allow them to buy food, get better shelter, learn something, or [do whatever they think their top priority might be](http://www.givedirectly.org/faqs.php).
+
+by Ricardo Pietrobon

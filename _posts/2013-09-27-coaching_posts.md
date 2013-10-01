@@ -12,3 +12,5 @@ I am starting a series of posts I plan on publishing about practical suggestions
 Each of these posts will be available in English and Portuguese versions, usually posted in consecutive days. They will also be published to the respective Global and Brazilian versions of a Facebook Group page, the Brazilian page [already being available]](https://www.facebook.com/groups/578812732155954/?bookmark_t=group). Other languages might follow depending on whether the posts generate some interest. 
 
 Enough said, let's get to work ...
+
+by Ricardo Pietrobon
