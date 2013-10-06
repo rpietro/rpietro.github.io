@@ -5,7 +5,7 @@ date:   2013-10-10
 categories: situated_cognition, big_data, literature
 ---
 
-![]()
+
 
 <title>{{ page.title }}</title>
 
