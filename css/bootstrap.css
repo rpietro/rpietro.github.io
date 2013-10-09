@@ -5650,3 +5650,87 @@ button.close {
     overflow: visible !important;
   }
 }
+
+
+/* Main Content Body styles both Front Page and Individual Post */
+
+.span12 h4 {
+	float: left;
+	line-height: 1px;
+	padding-right: 8px;
+	font-weight: normal;
+	font-size: 15px;
+	font-style:italic;
+	color: #939599;
+}
+
+.row-fluid p a{
+	font-weight: bold;
+    font-size: 14px;
+    border-left: 1px solid black;
+    padding-left: 8px;
+}
+
+
+.row-fluid {
+	border-bottom: 1px solid #d1e3ec;
+	padding-bottom: 8px;
+}
+
+.muted {
+	font-weight: normal;
+	font-size: 15px;
+	font-style:italic;
+	color: #939599;	
+}
+
+.span8 {
+	font-size: 18px;
+}
+
+
+
+
+h1 {
+	font-weight: normal;	
+}
+
+h2 {
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 25px;
+	padding: 8px 0px;
+}
+
+h3 {
+	font-weight: normal;
+}
+
+
+/* Side Bar Custom Styles */
+
+.span4 {
+
+	background: #f9f8f6 url("http://farm3.staticflickr.com/2848/10023765323_fc43080487_n.jpg") center top no-repeat;
+	background-color: #F9F8F6;
+	padding: 0px 10px 10px 10px;
+	margin-top: 0px;
+	padding-top: 320px;
+	width: 320px !important;
+}
+
+.span4 h4 {
+    padding-top: 8px;
+	font-weight: normal;
+}
+
+.span4 #facebookgroups {
+		background: #f9f8f6 url("http://farm8.staticflickr.com/7406/10156164195_99f0ef0cdc_s.jpg") right top no-repeat;
+		padding-right: 80px;
+		margin-top: 10px;
+}
+
+
+
+
+

@@ -4,7 +4,7 @@
 	<title type="text" xml:lang="en"></title>
 	<link type="application/atom+xml" href="http://rpietro.github.io/feed/" rel="self"/>
  	<link type="text" href="hhttp://rpietro.github.io/" rel="alternate"/>
-	<updated>2013-09-26T17:58:32-04:00</updated>
+	<updated>2013-10-09T10:03:05-04:00</updated>
 	<id>http://http://rpietro.github.io/</id>
 	<author>
 		<name>Ricardo Pietrobon</name>
@@ -13,11 +13,248 @@
 	
 	
 	<entry>
-		<title>Sete motivos pelos quais pesquisadores brasileiros podem ter dificuldade ao tentar publicar em revistas internacionais alto impacto</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data,/facebook,/errors/2013/10/01/seven-errors/"/>
+		<title>Are you primarily aiming at educating readers in the Introduction section of your original paper? If so, stop!</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data,/literature/2013/10/10/review-intro/"/>
+		<updated>2013-10-10T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data,/literature/2013/10/10/review-intro</id>
+		<content type="html">&lt;p&gt;&lt;title&gt;Are you primarily aiming at educating readers in the Introduction section of your original paper? If so, stop!&lt;/title&gt;&lt;/p&gt;
+
+&lt;p&gt;It is a common misconception that the primary goal of the literature review in the Introduction section of an original scientific article is to educate readers. Why readers will be somewhat educated about the main areas of your paper while reading the Introduction, having education as a primary purpose of the Introduction will almost necessarily mislead your readers. Here are the primary reasons:&lt;/p&gt;
+
+&lt;h2&gt;Why should you focus on a gap rather than education?&lt;/h2&gt;
+
+&lt;p&gt;If you are writing an original paper, the first task in a paper is to convince readers that the problem you will be addressing is indeed novel. The primary goal of the Introduction is to establish, beyond any reasonable doubt, that the topic is indeed novel. Put in another way, the primary goal of the literature review in the Introduction is to establish that the information gap addressed by the paper is a true gap.&lt;/p&gt;
+
+&lt;h2&gt;But is there a problem in focusing on education&lt;/h2&gt;
+
+&lt;p&gt;The primary problem in focusing on education as the primary goal is that the literature will be unfocused. As a fictitious example, imagine that an author wants to write an original clinical research paper on the effect diabetes on mortality after appendectomy in elderly patients. If the author introduces a section in the Introduction talking about the molecular pathophysiology of diabetes, there will be at least two main problems from the readers&amp;#39; perspective. &lt;/p&gt;
+
+&lt;p&gt;First, readers will be distracted, since pathophysiology is not relevant to establish that no previous study has ever been conducted regarding the relationship between diabetes and clinical outcomes. Second, if the author does talk about the molecular pathophysiology of diabetes, readers will automatically assume that the article will focus on some basic science aspect of the problem. Since they will later on find that this is not the case, they will be frustrated.&lt;/p&gt;
+
+&lt;h2&gt;How can you review the literature on gap since the information does not exist?&lt;/h2&gt;
+
+&lt;p&gt;If an author then decides that focusing on the gap is the way to go, how can you then conduct a literature review on a gap? In other words, how can you review the literature on something that you yourself claims is novels and therefore has not been done before?&lt;/p&gt;
+
+&lt;p&gt;The answer here is to review literature on the fringes of your gap, and then keep pointing to your gap to emphasize that the gap is indeed a gap. For example, if the proposed gap is the absence of literature on the relationship between diabetes and surgical outcomes after appendectomy in the elderly, then one strategy would be to review similar studies that are not in the elderly, emphasizing since the elderly have a different response to diabetes the results could be different. Other approaches could be to evaluate a narrow section of the literature of the impact of diabetes on post-operative outcomes or a review of other studies evaluating post appendectomy studies involving the elderly. After each of these, the author then emphasizes that, despiting knowing what is known in the field, the original gap has not been filled and, therefore, it is the objective of the current study.&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Us Brazil</title>
+		<link href="http://rpietro.github.io//2013/10/09/us-brazil/"/>
+		<updated>2013-10-09T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//2013/10/09/us-brazil</id>
+		<content type="html">&lt;hr&gt;
+
+&lt;p&gt;layout: post
+title:  &amp;quot;Orientando pesquisadores: Qual a diferença entre a vida acadêmica em uma universidade americana e brasileira?&amp;quot;
+date:   2013-10-09&lt;/p&gt;
+
+&lt;h2&gt;categories: situated&lt;em&gt;cognition, big&lt;/em&gt;data&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-vU_10wGtzj0/Uk3FaoxcuqI/AAAAAAAA4iw/AtFaPbqDK0I/w748-h561-no/fractal.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;title&gt;Us Brazil&lt;/title&gt;&lt;/p&gt;
+
+&lt;p&gt;Professores, pesquisadores e estudantes brasileiros frequentemente me perguntam sobre as diferenças entre a vida acadêmica em uma universidade americana e brasileira. Apesar de nunca haver trabalhado profissionalmente em uma universidade brasileira, eu tenho colaborado com professores e estudantes brasileiros desde o início da minha carreira. Nos Estados Unidos minha principal experiência é com a Duke University, mas tambem trabalhei em colaboração com professores em várias outras instituições. O texto abaixo tenta resumir o meu ponto de vista pessoal sobre as principais diferenças:&lt;/p&gt;
+
+&lt;h2&gt;1. Uma moeda única&lt;/h2&gt;
+
+&lt;p&gt;No Brasil as métricas para avaliação de produtividade acadêmica são variadas, envolvendo conceitos com colaborações internacionais, número de alunos orientados para mestrado ou doutorado, atividades educacionais, interface com indústria, atividades acadêmicas administrativas, entre outros. Nisso o Brasil segue uma linha que é comum em vários paises na Ásia e Europa. Nos EUA, apesar de universidades diferentes apresentarem métricas institucionais diferentes, na prática a métrica se reduz a uma única coisa: Trazer recursos financeiros para a sua pesquisa dentro da instituição. Uma segunda métrica relacionada a primeira é a geração de publicações originais em revistas de alto impacto. Apesar de uma série de tentativas de valorização de outras métricas, e um todo um discurso retórico institucional, na prática todo o restante é secundário. Por exemplo, no setor de pesquisa biomédica atividades clínicas são consideradas uma importante fonte de renda e professores são fortemente encorajados a manter os seus volumes de pacientes tão ocupados quanto possível, mas em termos de reconhecimento acadêmico o trabalho clínico é quase irrelevante. Orientar estudantes de pós-graduação é consideado bom, desde que essa orientação seja financiada por alguma agência de financiamento externa, ao contrário essa atividade será vista como um item de despesa no orçamento. Mesmo os artigos originais que possam representar contribuições para o campo podem ser considerados secundários se não forem apoiados por financiamento externo. E por último, um financiamento que venha de uma instituição de prestígio como o &lt;a href=&quot;http://www.nih.gov/&quot;&gt;National Institutes of Health (NIH)&lt;/a&gt; é preferível a um financiamento via indústria. No entanto, se o valor vindo da indústria for alto, ninguém irá reclamar, apesar de que isso está mais e mais difícil com a &lt;a href=&quot;http://www.news-republic.com/Web/ArticleWeb.aspx?regionid=1&amp;amp;articleid=13666655&quot;&gt;crise da indústria farmacêutica mundial&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;2. Professores são responsáveis por cobrir o seu próprio salário&lt;/h2&gt;
+
+&lt;p&gt;Embora haja variações entre diferentes universidades, há duas categorias principais de professores: Professores de pesquisa (Research Professors) e Professores em um &lt;em&gt;tenure track&lt;/em&gt;. Professores de pesquisa são responsáveis por cobrir os seus salários por meio de financiamento de pesquisa. Caso eles não consigam cobrir pelo menos uma boa parte do seu salário eles sao demitidos. Ao contrário dos professores de pesquisa, outros professores que tenham um maior potencial começam suas carreira com um tenure-track. No tenure-track depois de algo em torno de oito a dez anos, eles são avaliados e nesse momento ou são promovidos para uma posição de tenure ou são &amp;quot;convidados a sair&amp;quot;. Os que receberem a tenure não podem mais ser mandados a não ser em casos extremos, como por exemplo quando seja comprovada fraude científica ou no caso de haver um relacionamento amoroso com um estudante.&lt;/p&gt;
+
+&lt;h2&gt;3. Mérito e política&lt;/h2&gt;
+
+&lt;p&gt;Em contraste com muitos países na America Latina, Europa e Ásia, promoções e até mesmo ser contratado como professor é uma questão primariamente de mérito e bem menos de política. Obviamente, egos, alianças políticas e contar vantagem podem ajudar, mas esses fatores geralmente não se sustentam a longo prazo a não ser que o professor consiga atingir a métrica central: trazer financiamento para a universidade.&lt;/p&gt;
+
+&lt;h2&gt;4. Atividades de empreendedorismo&lt;/h2&gt;
+
+&lt;p&gt;A criação de empresas por professores, as assim chamadas &amp;quot;start-ups&amp;quot;, é uma tendência crescente nos EUA. E por boas razões: com o crescimento do sistema de pesquisa nos EUA, a capacidade do governo para financiá-lo é limitada, havendo uma necessidade urgente de integrar a produtividade acadêmica com necessidades reais da sociedade. Apesar de toda uma retórica de apoio ao empreendedorismo, a universidade é uma organização muito grande e geralmente lenta, onde os hábitos antigos persistem por um tempo prolongado. Isso significa que apesar de todo um discurso pró-empreendedorismo a moeda única ainda prevalece: Aquisição de financiamento é considerado imensamente mais importante do que a criação de empresas. Como as atividades empresariais não são um método particularmente eficaz para atrair financiamento na maioria dos casos, nesse momento há muito mais conversa do que ação em relação a realmente promover a criação de startups, apesar de que existem instituições que fogem a essa regra e provem ambientes realmente fecundos.&lt;/p&gt;
+
+&lt;h2&gt;5. Cérebros, egos e orientadores&lt;/h2&gt;
+
+&lt;p&gt;Nas melhores universidades americanas a fama dos professores normalmente se conecta a realidade, e que quer dizer que você se vê circundado por pessoas realmente inteligentes, gerando idéias excelentes. Obviamente, esses grandes cérebros são, muito frequentemente mas não necessariamente, acompanhados de egos que superam em muito o tamanho dos cérebros. Ou seja, se você tem as habilidades políticas para lidar com esses egos a possibilidade de sucesso é grande. Mas sempre, apesar de manobras políticas ajudarem, a moeda única de atração de financiamento predomina, e sem ela a política sozinha não vai levar a lugar algum. Em relação a orientadores, existem bons e maus orientadores. Algumas pessoas simplesmente tem sorte e conseguem encontrar um verdadeiro orientador que vá guiá-lo. Eu tive essa sorte. Tendo dito isso, os orientandos absolutamente não devem esperar que os seus orientadores irão lhes dizer tudo o que deve ser feito. A iniciativa é essencial, assim como a capacidade de trabalho sem esperar que o seu orientador vá monitorá-lo. A expectativa e que todos os que estejam trabalhando sejam profissionais maduros e com responsabilidade. Outros tem menos sorte vão cair com alguém que não se vê como um verdadeiro orientador.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;escrito por Ricardo Pietrobon&lt;/strong&gt;&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Coaching researchers: How to cite a reference in an original article: Despite what you think, it might not be so obvious</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data,/literature/2013/10/08/how-cite/"/>
+		<updated>2013-10-08T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data,/literature/2013/10/08/how-cite</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-qyZ16xzg3Ak/Ukg5Pu5vxtI/AAAAAAAA4eU/l4TbFIWZk7g/w672-h504-no/fract65.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;title&gt;Coaching researchers: How to cite a reference in an original article: Despite what you think, it might not be so obvious&lt;/title&gt;&lt;/p&gt;
+
+&lt;p&gt;Most novice researchers make mistakes when citing a reference, and often times those mistakes go unnoticed for years, if caught at all.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Always cite the primary reference. In other words, if you are citing a paper because it mentions something that was as result of yet another paper, you are doing the wrong thing. Papers should be cited by something they have done. For example, a result they had, a methodology they used, or an opinion regarding their results stated in the Discussion section. &lt;/li&gt;
+&lt;li&gt;Read the article you are citing in full text. Do not cite an article merely because you read its abstract. Worse yet, do not cite an article because other articles have also cited it.&lt;/li&gt;
+&lt;li&gt;Unless an article is a landmark study in the topic you are discussing, do not describe it in isolation. In other words, cite article in perspective of other similar articles might have done. For example, instead of saying that Smith et al. have had such and such methods reaching such and such results, aggregate all articles talking about a certain topic and describe that topic as a whole in light of clusters of articles agreeing or disagreeing with a certain position.&lt;/li&gt;
+&lt;li&gt;In an ideal scenario, keep your references organized so that you know exactly which sections of a given article support whatever you might have used it for. For example, if you cite Smith at al. because that article reports a mortality rate of 2%, then your reference manager software should store the reference to Smith at al. along with the paragraphs in that paper where the 2% mortality rate are stated. Although this might sound like an overkill, this is a new trend and already present in reference management software such as &lt;a href=&quot;http://jabref.sourceforge.net/&quot;&gt;JabRef&lt;/a&gt; combined with the &lt;a href=&quot;http://trinker.github.io/reports/&quot;&gt;reports&lt;/a&gt; package.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Coaching researchers: Why avoiding spreadsheets such as Microsoft Excel as the way to store your research data is likely not a good idea</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data,/data,/facebook/2013/10/07/excel-collection/"/>
+		<updated>2013-10-07T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data,/data,/facebook/2013/10/07/excel-collection</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-vpQCVUeSEvc/Ukg4rlMSkdI/AAAAAAAA4dk/3Yl_PW3_g8E/w506-h380/fractals45.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;title&gt;Coaching researchers: Why avoiding spreadsheets such as Microsoft Excel as the way to store your research data is likely not a good idea&lt;/title&gt;&lt;/p&gt;
+
+&lt;p&gt;Don&amp;#39;t get me wrong, spreadsheets are as useful as a software can get. That being said, using spreadsheets as the primary means of collecting your data is inherently a bad idea. Here are some of the reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;No protection: once the data is entered, it is very easy to either delete it or replace a correct value with an incorrect one. &lt;/li&gt;
+&lt;li&gt;No versioning: If you keep adding data to the same spreadsheet, you really cannot go back in time to know who made which modifications at which time. &lt;a href=&quot;https://docs.google.com/spreadsheet/%E2%80%8E&quot;&gt;Google sheets&lt;/a&gt; is better in this regarding since it does have a versioning system that is mostly reliable.&lt;/li&gt;
+&lt;li&gt;Hard to share: sure you can place a spreadsheet in a system such as &lt;a href=&quot;https://www.dropbox.com/&quot;&gt;Dropbox&lt;/a&gt;, where multiple people can access it, but if any two people attempt to change the same spreadsheet at the same time there will be a conflict. Google sheets is slightly better in this regard since you can share the sheet with other collaborators who will then be able to see if somebody if somebody else is editing the sheet at the same time.&lt;/li&gt;
+&lt;li&gt;Privacy: if you collect sensitive data, such as biomedical data, spreadsheets are not safe at all and could expose information that could compromise the privacy of patients.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The solution then is to use one of the many &lt;a href=&quot;http://en.wikipedia.org/wiki/Electronic_data_capture&quot;&gt;electronic data capture systems&lt;/a&gt;, out there which will take care of each of these problems. &lt;a href=&quot;http://project-redcap.org/&quot;&gt;RedCap&lt;/a&gt; is one that comes to mind as being not only very good but also increasingly used by a number of researchers conducting prospective data collection. &lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Coaching researchers: What is truly valued in an academic life in the US?</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data,/networking/2013/10/06/academic-life-us/"/>
+		<updated>2013-10-06T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data,/networking/2013/10/06/academic-life-us</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-ul3-okePKVo/Ukg3u2Tr4-I/AAAAAAAA4c4/VTmETF6gh-w/w506-h380/frac.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;title&gt;Coaching researchers: What is truly valued in an academic life in the US?&lt;/title&gt;&lt;/p&gt;
+
+&lt;p&gt;A frequent question when I travel abroad to give courses on research methodology is &lt;em&gt;how does the academic life in the US differ from here&lt;/em&gt;. Now, of course &lt;em&gt;here&lt;/em&gt; will differ whether I might be in Europe, Asia, or South America. With that disclosure, here is an attempt to summarize the main differences:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Two currencies: In different countries promotion will depend on metrics such as international collaborations, number of MSc or PhD students, educational activities, entrepreneurial activities, administrative academic activities, among others. In contrast, in the US two currencies are almost unparalleled: Funding the professor might bring in, and high impact original publications. Despite a number of attempts to value different efforts and accomplishments, and many speeches by administrative officers, everything else is significantly secondary. For example, in the biomedical sector clinical activities are considered an important source of revenue and faculty members are strongly encouraged to keep their schedules very busy, but in terms of academic recognition the clinical work is almost irrelevant. Mentoring students or other faculty members is considered nice, but unless it comes along with funding to support those efforts it is viewed as a budget expense. Even original articles that might represent contributions to the field are looked down if they are not supported by funding. And then, when it comes to funding, something coming from the National Institutes of Health is preferred in comparison with industry funding, although if the amount from industry is substantial nobody will complain.&lt;/li&gt;
+&lt;li&gt;Professors are responsible to cover for their own salary: Although there are variations across different universities, there are two main classes (some people would call casts) of professors: Research and tenure track professors. Research professors are responsible to cover their salaries through funded research, and if they cannot cover their own salaries they will be dismissed. Tenure track positions are offered at the very beginning to those who are perceived as having a greater potential. After a certain period of time, usually around eight to ten years, the tenure-track professors will be evaluated and either promoted to tenure or, again, asked to leave. If they receive tenure, then they can only be dismissed in extreme cases, such as scientific fraud or having an affair with a student. &lt;/li&gt;
+&lt;li&gt;Merit and politics: In contrast with many countries, promotions and even being hired as a professor is a matter of merit and far less of politics. Sure, egos, political alliances, and hot air still go around and can help, but they usually won&amp;#39;t be sustained unless the professor can deliver the two main metrics: funding and high impact publications.&lt;/li&gt;
+&lt;li&gt;Entrepreneurial activities: Forming startup companies is the new hype in the US, and for good reasons: The research system has outgrown the government capacity to fund it, and there is a dire need to integrate the ivory towers with the rest of society. Despite a lot of speeches, the university is usually a very large and slow-moving organization, and old habits die hard. All this means is that the two currencies still prevail: Funding and publications. Since entrepreneurial activities are not a particularly strong method to attract neither in most cases, at this point there is much more talk than action, a few institutions around the country probably being the exception.&lt;/li&gt;
+&lt;li&gt;Brains, egos, and mentors: At the top American universities the hype will usually meet the reality, and you are usually truly surrounded by smart people with excellent ideas. Of course, those big brains are very often, but not necessarily accompanied by huge egos. If you have the political skills or massaging abilities to deal with the egos you will do well, again provided that you can deliver the required currencies. As for mentors, it is usually a hit or miss. Some people like me are simply lucky and will encounter true mentors who will teach you the path and guide you through it. Others are less lucky and will struggle by falling under somebody who doesn&amp;#39;t see himself as a true mentor and a coach. &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Coaching researchers: Coaching researchers: Data dictionaries are a central piece in any article focusing on analyzing an existing database</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data,/data,/facebook/2013/10/05/data-dictionaries/"/>
+		<updated>2013-10-05T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data,/data,/facebook/2013/10/05/data-dictionaries</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-uNWdfkWgrd0/Ukg3RCycHDI/AAAAAAAA4cc/lhepxoVzW7c/w672-h504-no/fractal3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;title&gt;Coaching researchers: Coaching researchers: Data dictionaries are a central piece in any article focusing on analyzing an existing database&lt;/title&gt;&lt;/p&gt;
+
+&lt;p&gt;When a researcher plans a paper based on an existing database, one of the central considerations is that no results in the paper will be possible unless they are backed up by existing questions that have been asked within that database. In a future post I will contradict myself by saying that databases can be enriched and extended, but for now let us assume that their content is fixed in relation to what they can contain. This makes the data dictionary, or the collection of questions, the platform that will serve as the basis for every subsequent step in process of creating the manuscript.&lt;/p&gt;
+
+&lt;p&gt;So, if you now believe that creating a data dictionary should be your first step after deciding that you will publish a manuscript, what are exactly the components of a data dictionary you should be putting together? Here you go:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Variables: When you think about a regular prospective study, you can think of a variable as the questions asked in a form. If you think of a database as a spreadsheet, then the variables will be the names of the columns in that sheet. Still using the sheet example, each observation will be a separate row containing information about a patient or whatever even might be measured. Depending on what kind of data scientist you talk to, they might use the term field or class to represent a variable, but in the end it is all the same. A final detail is that a properly named variable will mean something to you when you first read it. For example, a good variable name is age&lt;em&gt;years which you will almost immediately identify as a variable measuring age in years. In contrast a variable called xx&lt;/em&gt;23 will let you wondering what it might mean, which is not good.&lt;/li&gt;
+&lt;li&gt;Variable definition: A variable definition is simply what was asked in order to get the data. For example, a variable called age_years could have been generated from a question such as &amp;quot;What is your current age?&amp;quot; Having a definition is important because if that variable had been generated from something like a date of birth the interpretation would be slightly different. If you might be wondering why, well, several studies have shown that, surprise surprise, people tend to lie about their age when asked directly.&lt;/li&gt;
+&lt;li&gt;Alternative options: Alternative options are whatever options a person might have been given when answering the question. For example, if the variable age had a field where a number could be inserted would be a very different scenario from that field having broad age categories such as 0-10, 10-20, ... as the latter contains less information than the former.&lt;/li&gt;
+&lt;li&gt;Type of alternative options: The type of variable could be something like continuous (numbers which include decimals), integers, time, nominal categories (white, black, ...), ordinal (education level as elementary, high school, college), dichotomous (yes/no), among others. The type of alternative options will be important later on as they are one of the factors in deciding what type of data analysis methods might be used to extract information from them.&lt;/li&gt;
+&lt;li&gt;Missing and implausible values: Missing values is simply information that has not been filled out. As every basic stats book will tell you, missing is very different from a value of zero, as missing means that you don&amp;#39;t know what value to assign to that cell, while missing is ... missing.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Coaching researchers: Why should qualitative research matter?</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data,/facebook,/analysis/2013/10/04/qualitative-res/"/>
+		<updated>2013-10-04T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data,/facebook,/analysis/2013/10/04/qualitative-res</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-xT0kLYdxqP4/Ukg2A4tvH6I/AAAAAAAA4bk/kWI1mM0XZKA/w672-h504-no/fractal.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;title&gt;Coaching researchers: Why should qualitative research matter?&lt;/title&gt;&lt;/p&gt;
+
+&lt;p&gt;When most researchers talk about clinical research, most people will make an instant connection with studies where everything is quantified. Whether it is an experimental study such as a randomized trial or an observational study, everything has to be represented by a number or a category. What most of these people miss, however, is that results from quantitative research can hardly be evaluated in the absence of context, and context is qualitative.&lt;/p&gt;
+
+&lt;p&gt;Here is a simple example: There is a humongous amount of research regarding healthcare disparities, the vast majority of them demonstrating that racial minorities usually have worse results when treated for a given condition. What is often uncertain however, is why that might be the case. For example, is is because there is racial discrimination? Communication problems? Issues in accessing care? All of the above? &lt;/p&gt;
+
+&lt;p&gt;This is where qualitative research comes in, because to even create a hypothesis about why a certain factor might be a player in the disparity scenario, a researcher first has to know that that factor exists. For example, if I attempt to study a group where disparities abound, but I don&amp;#39;t even think about the possibility of that phenomenon being related to mistrust issues among the minority group, the researcher might misinterpret the disparity as being caused by the healthcare provider.&lt;/p&gt;
+
+&lt;p&gt;Second, in order to properly measure all the different aspects during the quantitative study, it is important to have a deep qualitative understanding of the phenomenon. Back to our example regarding mistrust, unless a researcher has a deep understanding about the various components of mistrust, it would be impossible to capture the underlying causes. For example, are the main underlying factors issues such as historical events, the fact that healthcare providers are perceived as being from a racial or ethnic group that is different from theirs, or whatever else might be underlying the issue. The fact is that without qualitative research it is virtually impossible to determine what will have to measured in the quantitative portion of the study.&lt;/p&gt;
+
+&lt;p&gt;Last, one of the big misconceptions about qualitative research is that it has to entirely precede the quantitative components. The problem with that concept is that if in order to conduct a quantitative study we have to wait for the qualitative to be completed, the full study would take a really long time. Instead, an ideal workflow would be to have iterative cycles of short studies where the qualitative results help guide the quantitative ones, and the quantitative studies would help point the qualitative ones to the areas where more depth is needed.&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Pair programming as a strategy to learn how to program?</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/10/03/pair-programming/"/>
+		<updated>2013-10-03T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/10/03/pair-programming</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-xT0kLYdxqP4/Ukg2A4tvH6I/AAAAAAAA4bk/kWI1mM0XZKA/w672-h504-no/fractal.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;title&gt;Pair programming as a strategy to learn how to program?&lt;/title&gt;&lt;/p&gt;
+
+&lt;p&gt;Every time somebody asks a question on a title you bet the answer will be yes. But here the answer is maybe, but I really don&amp;#39;t know. I recently read an excellent post on pair programming, which is one of the pillars behind &lt;a href=&quot;http://xprogramming.com/what-is-extreme-programming/&quot;&gt;XP (eXtreme Programming)&lt;/a&gt;. It is interesting that a few years ago there was almost a taboo talking about remote pair programming, for example with two programmers working together through a screen sharing app. But now it seems like the remote pair programming has gone mainstream, which I find pretty interesting.&lt;/p&gt;
+
+&lt;p&gt;But one topic that I have not seen addressed and that I haven&amp;#39;t tried myself is whether pair programming could be used so that one of the parties could learn how to program. When I say learn I don&amp;#39;t mean to take one person who knows absolutely nothing about programming as that will likely slow down the main programmer. But if the learner knows how to program in another language then she can provide some insights without necessarily know the syntax. Although as I said I haven&amp;#39;t tried it, the key for this to work is for the learner to have the sensibility not to get in the way of the main programmer, otherwise productivity will go down.&lt;/p&gt;
+
+&lt;p&gt;Perhaps something to be tested ...&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Coaching researchers: Why should biomedical researchers learn R?</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data,/analysis/2013/10/02/why-r/"/>
+		<updated>2013-10-02T00:00:00-04:00</updated>
+		<id>http://rpietro.github.io//situated_cognition,/big_data,/analysis/2013/10/02/why-r</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-tYIssxIGpvs/Ukg0cnmzGbI/AAAAAAAA4a4/LNPARlsBW3c/w741-h504-no/fract.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;title&gt;Coaching researchers: Why should biomedical researchers learn R?&lt;/title&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.r-project.org/&quot;&gt;R&lt;/a&gt; is the language of choice for a large number of data scientists. And for good reasons, including the outstanding group of &lt;a href=&quot;http://www.r-project.org/contributors.html&quot;&gt;core developers&lt;/a&gt;, a huge number of &lt;a href=&quot;http://cran.r-project.org/web/packages/available_packages_by_name.html&quot;&gt;packages&lt;/a&gt; covering almost everything imaginable, and a language combining object orientation and functions that is easy to learn if you have some previous programming experience. &lt;/p&gt;
+
+&lt;p&gt;When it comes to biomedical researchers, however, the prerequisite of having some previous programming experience is missing in most of the cases, and that creates a problem. The end result is that every time I mention R as a possible language, the reaction is almost invariably that (a) R is hard to learn and (b) &lt;em&gt;X&lt;/em&gt; is what I am using now since it is &lt;em&gt;easy&lt;/em&gt;. &lt;em&gt;X&lt;/em&gt; will usually translate into SPSS, Stata, or SAS-JMP, and &lt;em&gt;easy&lt;/em&gt; usually means that there is a graphical user interface for them to point &amp;amp; click and do their own analyses. &lt;/p&gt;
+
+&lt;p&gt;In contrast with most people in what I call the old statistics school, I am absolutely in favor of biomedical researchers directly working with their data. The concerns from the old school stem, in their words, from a concern of biomedical researchers getting results results that they don&amp;#39;t understand and, worse, propagating those results as if they were valid. I share that concern and think that it is legitimate. In most cases, however, the true, vested concern from the old school is actually simpler: Turf protection. I disagree entirely, and think that biomedical researchers not playing with their data are simply shifting the errors in interpretation to the statistician or data scientist since the latter do not have the biomedical insights to explore the data sets as they should be explored. Where I am trying to get with this is that if the biomedical researcher works alone or the statistician/data scientist is not supported by the full insights from the biomedical researcher, the odds of having incomplete or misleading information is significantly increased.&lt;/p&gt;
+
+&lt;p&gt;Now, what does all this have to do with R? Well, if we agree that the way to go is to have teams where biomedical researchers have insights from their field and data scientists know their methods in depth, then biomedical researchers need to understand what data scientists are saying and doing. This is where R comes in. So, in an ideal research team, biomedical researchers would know at least the following:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Read an R source code: in other words, which tests and models are being run and with which variables&lt;/li&gt;
+&lt;li&gt;Interpret whether the choice of tests and models were appropriate given the type of variables serving as input to them&lt;/li&gt;
+&lt;li&gt;Interpret the general results of each test and model&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In other words, it&amp;#39;s not even to write code, but instead to &lt;em&gt;critically&lt;/em&gt; read code. I also think that the ability to explore the data set is incredibly useful, and this can certainly be done with a graphical user interface, in R or any other software.&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
+Included file 'rss_footer.html' not found in _includes directory</content>
+	</entry>
+	
+	<entry>
+		<title>Orientando pesquisadores: Sete motivos pelos quais pesquisadores brasileiros podem ter dificuldade ao tentar publicar em revistas internacionais de alto impacto</title>
+		<link href="http://rpietro.github.io//situated_cognition,/big_data,/facebook,/errors/2013/10/01/seven-errors-pt/"/>
 		<updated>2013-10-01T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data,/facebook,/errors/2013/10/01/seven-errors</id>
-		<content type="html">&lt;p&gt;&lt;title&gt;Sete motivos pelos quais pesquisadores brasileiros podem ter dificuldade ao tentar publicar em revistas internacionais alto impacto&lt;/title&gt;&lt;/p&gt;
+		<id>http://rpietro.github.io//situated_cognition,/big_data,/facebook,/errors/2013/10/01/seven-errors-pt</id>
+		<content type="html">&lt;p&gt;&lt;title&gt;Orientando pesquisadores: Sete motivos pelos quais pesquisadores brasileiros podem ter dificuldade ao tentar publicar em revistas internacionais de alto impacto&lt;/title&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-joKOP9Mu7Sw/UkLT_Zfc_II/AAAAAAAA4Ug/aAxdWZ-8kg8/w706-h353-no/fractal3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
@@ -41,7 +278,7 @@
 &lt;li&gt;Evite argumentar que a lacuna no conhecimento que o seu artigo aborde seja a ausência de informação somente no contexto brasileiro. Enquanto você certamente deve mencionar que o seu estudo foi realizado no Brasil, se você enfatizar que a principal lacuna abordada pelo seu estudo é que o assunto nunca foi estudado no Brasil, isso provavelmente vai diminuir o interesse do editor já que os leitores ao redor do mundo não vão estar interessados no que você tem a dizer.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Não seguir as normas internacionais sobre como reportar um artigo utilizando uma determinada metodologia&lt;/h2&gt;
+&lt;h2&gt;3. Não seguir as normas internacionais sobre como reportar um artigo utilizando uma determinada metodologia&lt;/h2&gt;
 
 &lt;p&gt;Ao longo da última década, uma série de normas internacionais sobre como reportar artigos científico foram publicadas, e algumas dessas normas são inclusive mandatórias para certas revistas. Isto significa que se você desenhar ou reportar o seu estudo sem levar essas normas em consideração, o seu artigo pode não ser nem enviado aos revisores, o editor rejeitando o artigo já em uma primeira instância. Alguma soluções possíveis:&lt;/p&gt;
 
@@ -50,7 +287,7 @@
 &lt;li&gt;Estude o padrão em detalhes quando você estiver desenhando o seu estudo, e não apenas depois de completar a coleta de dados e análise. Embora as normas destinem-se para fins de como reportar um artigo, se você não seguir estas normas desde o início do seu projeto, você provavelmente não terá coletado as informações necessárias para poder seguir essas mesmas normas.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Não escrever usando um &amp;quot;português americanizado&amp;quot;&lt;/h2&gt;
+&lt;h2&gt;4. Não escrever usando um &amp;quot;português americanizado&amp;quot;&lt;/h2&gt;
 
 &lt;p&gt;Com as ferramentas de tradução automática ficando melhor a cada dia, e tradutores profissionais de qualidade disponíveis via a internet, os pesquisadores muitas vezes pensam que escrever um artigo científico com o mesmo estilo ou estrutura de qualquer outro documento em português seja satisfatório. A má notícia é que não é bem assim. Se você usar uma estrutura normal da língua portuguesa e depois tentar a tradução via um tradutor automático como o &lt;a href=&quot;http://translate.google.com/&quot;&gt;Google Translate&lt;/a&gt; ou mesmo tendo tradutor profissional revisando o seu trabalho, os resultados tendem a ser de ruins a desastrosos. Alguma soluções possíveis:&lt;/p&gt;
 
@@ -59,7 +296,7 @@
 &lt;li&gt;Muito cuidado com as palavras técnicas, já que normalmente nem tradutores automáticos nem profissionais sabem como traduzi-los seguindo o que normalmente é feito dentro de um determinado campo científico.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Não trabalhar em uma verdadeira colaboração com os chamados cientistas de dados&lt;/h2&gt;
+&lt;h2&gt;5. Não trabalhar em uma verdadeira colaboração com os chamados cientistas de dados&lt;/h2&gt;
 
 &lt;p&gt;Antigamente, pesquisadores não quantitativos muitas vezes desenhavam seus estudos, coletavam seus dados e ao final enviavam tudo para um estatístico. Nesse momento, os estatísticos se queixavam de que eles não estavam envolvidos desde a fase de desenho, mas eles também não faziam qualquer esforço para ensinar os pesquisadores sobre os conceitos básicos de estatística, ja que isso poderia fazer com que eles perdessem a sua função. Este tipo de &amp;quot;colaboração&amp;quot; claramente não funciona. Alguma soluções possíveis:&lt;/p&gt;
 
@@ -68,7 +305,7 @@
 &lt;li&gt;Se você não é um assim chamado cientista de dados ou estatístico e você está fazendo a sua análise sozinho, pare imediatamente. Só porque você pode clicar nos botões do SPSS não significa que você deve estar trabalhando sozinho. Há uma série de pressupostos e complexidades inerentes a interpretação da maioria das análises que podem levá-lo a erros grosseiros de interpretação. Resumindo: você deve trabalhar em equipes. É mais divertido e definitivamente levará a um melhor aproveitamento do tempo de todos.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Não alinhar a lacuna, objetivo e principais resultados do seu artigo&lt;/h2&gt;
+&lt;h2&gt;6. Não alinhar a lacuna, objetivo e principais resultados do seu artigo&lt;/h2&gt;
 
 &lt;p&gt;Muitos livros e cursos sobre escrita científica irão dizer que o seu artigo deve ser focado num único tópico ou que ele deveria dizer uma coisa única. Eles estão certos quando dizem isso, mas a imensa maioria nunca realmente especificam exatamente o que isso significa. Aqui está uma breve descrição do que isso quer dizer na prática:&lt;/p&gt;
 
@@ -78,7 +315,7 @@
 &lt;li&gt;Os seus três ou quatro resultados principais devem estar alinhados ao objetivo que você definiu anteriormente. Quando todos os três componentes estão alinhados, o seu editor e leitores irão sentir que o seu trabalho tem um foco único já que todos estão falando sobre a mesma coisa. &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Não desenvolver uma estória narrativa ao discutir a literatura&lt;/h2&gt;
+&lt;h2&gt;7. Não desenvolver uma estória narrativa ao discutir a literatura&lt;/h2&gt;
 
 &lt;p&gt;Ao rever a literatura em um artigo original, muitas vezes é tentador começar a ler um determinado artigo, adicionar um pedaço de informação dele no seu artigo, depois de ler outro artigo e imediatamente inserir mais um pedacinho, e assim por diante. O resultado final, frequentemente, é um texto aos pedaços que soa desconectado. Soluções:&lt;/p&gt;
 
@@ -89,17 +326,19 @@
 &lt;/ol&gt;
 
 &lt;p&gt;Todos esses temas e muito mais serão abordados em posts futuros. Então, fique atento e se junte ao nosso &lt;a href=&quot;https://www.facebook.com/groups/170343223157225/&quot;&gt;grupo no Facebook&lt;/a&gt;, de modo que você possa saber cada vez que algo novo surgiu. Espero que gostem.&lt;/p&gt;
+
+&lt;p&gt;escrito por Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
 	<entry>
-		<title>Seven reasons why researchers around the world might have difficulty when attempting to publish in high impact, international journals</title>
+		<title>Coaching researchers: Seven reasons why researchers around the world might have difficulty when attempting to publish in high impact, international journals</title>
 		<link href="http://rpietro.github.io//situated_cognition,/big_data,/facebook/2013/09/30/seven-reasons/"/>
 		<updated>2013-09-30T00:00:00-04:00</updated>
 		<id>http://rpietro.github.io//situated_cognition,/big_data,/facebook/2013/09/30/seven-reasons</id>
 		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-joKOP9Mu7Sw/UkLT_Zfc_II/AAAAAAAA4Ug/aAxdWZ-8kg8/w706-h353-no/fractal3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;title&gt;Seven reasons why researchers around the world might have difficulty when attempting to publish in high impact, international journals&lt;/title&gt;&lt;/p&gt;
+&lt;p&gt;&lt;title&gt;Coaching researchers: Seven reasons why researchers around the world might have difficulty when attempting to publish in high impact, international journals&lt;/title&gt;&lt;/p&gt;
 
 &lt;p&gt;Researchers who have been successful in publishing in journals within their own countries will often find it hard to have their articles accepted when moving to higher impact, international journals. Below are some of the most frequent reasons:&lt;/p&gt;
 
@@ -169,6 +408,8 @@ Included file 'rss_footer.html' not found in _includes directory</content>
 &lt;/ol&gt;
 
 &lt;p&gt;All of these topics and much more will be covered in future posts. So, stay tuned and join our &lt;a href=&quot;https://www.facebook.com/groups/170343223157225/&quot;&gt;Facebook page&lt;/a&gt; so that you can know every time something new has come up. Hope you enjoy.&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
@@ -198,6 +439,8 @@ Included file 'rss_footer.html' not found in _includes directory</content>
 &lt;/ol&gt;
 
 &lt;p&gt;So, just to restate what I said before, I am not claiming that any the items above cannot be included in a different workflow using one of the simpler blogging platforms. Hey, different folks different strokes, and Jekyll simply works for me ... at least until I find something cooler.&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
@@ -215,6 +458,8 @@ Included file 'rss_footer.html' not found in _includes directory</content>
 &lt;p&gt;Cada uma destes posts estará disponível em Inglês e Português, geralmente postados em dias consecutivos. Os posts também serão publicados nas respectivas paginas do Facebook, nas suas versões global e brasileira, a página brasileira &lt;a href=&quot;https://www.facebook.com/groups/578812732155954/?bookmark_t=group&quot;&gt;já estando disponível&lt;/a&gt;. Outras línguas podem vir a aparecer posteriormente caso os posts gerem interesse. &lt;/p&gt;
 
 &lt;p&gt;Mas chega de conversa, mãos a obra ...&lt;/p&gt;
+
+&lt;p&gt;escrito por Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
@@ -230,6 +475,8 @@ Included file 'rss_footer.html' not found in _includes directory</content>
 &lt;p&gt;Each of these posts will be available in English and Portuguese versions, usually posted in consecutive days. They will also be published to the respective Global and Brazilian versions of a Facebook Group page, the Brazilian page [already being available]](https://www.facebook.com/groups/578812732155954/?bookmark_t=group). Other languages might follow depending on whether the posts generate some interest. &lt;/p&gt;
 
 &lt;p&gt;Enough said, let&amp;#39;s get to work ...&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
@@ -247,6 +494,8 @@ Included file 'rss_footer.html' not found in _includes directory</content>
 &lt;p&gt;Then, every time you feel like you have to ask your gods for support or strength or hope or simply luck, you go ahead and make a GiveDirectly libation by donating some money. The quantity is proportional to how much you might want to get your gods on your side, some of them might be picky.&lt;/p&gt;
 
 &lt;p&gt;GiveDirectly is one of the best donation sites, with &lt;a href=&quot;https://www.givedirectly.org/give.php&quot;&gt;90 to 93% of your donation being transferred to the people who need the money&lt;/a&gt;. This will allow them to buy food, get better shelter, learn something, or &lt;a href=&quot;http://www.givedirectly.org/faqs.php&quot;&gt;do whatever they think their top priority might be&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
@@ -266,6 +515,8 @@ Included file 'rss_footer.html' not found in _includes directory</content>
 &lt;p&gt;Perhaps what is common to Aikido, Shinto and Parkour is the idea of &lt;a href=&quot;http://en.wikipedia.org/wiki/Monism&quot;&gt;Monism&lt;/a&gt;, or the concept that there is a unity that is inherent to all things. Where learning comes into the scene, I think, is with the concepts of using &lt;a href=&quot;http://en.wikipedia.org/wiki/Situated_cognition&quot;&gt;situated cognition&lt;/a&gt; permeate the learning process. I have covered some of these concepts in a &lt;a href=&quot;http://rpietro.github.io/situated_cognition,/big_data/2013/07/29/shallows_medieval/&quot;&gt;previous post&lt;/a&gt;, but one example would be that learning is not about simply absorbing concepts, but it is instead about interacting with your environment to produce some kind of outcome. For example, rather than just learning a programming language, students will also learn how to properly ask other programmers for help or how to search for the latest tools that might help beyond what they learned during the course. In another situation, rather than simply learning about, say, racial disparities, one would take a course as an opportunity to be coached while actively working with a community to address sources of disparity.&lt;/p&gt;
 
 &lt;p&gt;The point in all of this is that the distinction between the concepts underlying religion, the sciences, humanities and likely anything humans touch is very subtle. Perhaps this is why I think that those strongly arguing in favor of a certain religion or against all religions are probably mistaken. Just look around and you will see religious concepts permeating all we do, learning included.&lt;/p&gt;
+
+&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
 	</entry>
 	
@@ -341,209 +592,6 @@ Included file 'rss_footer.html' not found in _includes directory</content>
 &lt;p&gt;Let me establish an analogy with healthcare: If I am a physician treating very sick patients, the complication rate of my patients will be substantially higher than those of somebody treating otherwise healthy patients. Does that mean that I am a bad doctor? No, simply means that my patients are sicker. Bringing this example back to education, the fact that a developing or emerging country has bad educational indices does not necessarily mean that they have a bad educational policy, but it might mean that they are doing the best possible job they can given the local socio-economic situation. &lt;/p&gt;
 
 &lt;p&gt;In order to generate these adjusted educational index, one would have to combine datasets containing information from education, economics, healthcare, and any other sources that might provide insight on factors that might downplay educational performance. Such a &lt;em&gt;Learning Observatory&lt;/em&gt; would have to have the ability to combine data in different formats (CSV, JSON, XML, free text, RDF, among others), always keeping in mind what the information needs of educational policy makers might be in order to put together policies aligned with their local situation.&lt;/p&gt;
-
-&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>Novice researchers learning how to conduct a literature review: An iterative zoom-in-out method</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/20/zoominout/"/>
-		<updated>2013-09-20T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/20/zoominout</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-MAVte8M8bIE/UjY9EdKFlSI/AAAAAAAA328/ylvieZYqi70/w480-h680-no/fractal.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;One of the most common mistakes made by a novice researcher when writing an original scientific paper is to write sections requiring a literature review one paper at a time. When they do this, it read like &amp;quot;author A said X,&amp;quot; &amp;quot;author B said Z,&amp;quot; and &amp;quot;author C said Z.&amp;quot; What is usually missing is not only the connection among each one of these statements but a true narrative telling a story that will connect with readers. Bear in mind, while on the surface we might sound like sophisticated scientists, in reality we are just the same cave men who gathered around the fire telling stories to each other for thousands of years.&lt;/p&gt;
-
-&lt;p&gt;But then, how does a novice researcher go from first getting acquainted with some papers in the field to a coherent and engaging narrative? What follows is an evolving method, and it is not trivial as it will require that you have a good level of technical sophistication. While I do plan on putting together a mini-course describing each step in detail, for now this is just an introduction:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;em&gt;Get to know the field before you write anything&lt;/em&gt;: First things first: Do not write the sections of the Introduction and Discussion sections of your paper before you have a good understanding of the literature. I know this sounds like a waste of time, but it will be easier in the end, trust me. One of the problems of writing a choppy, one paper at a time section is that once you commit to that kind of structure, it&amp;#39;s actually pretty hard to get out. Almost like a conceptual cage. Of importance, there is a sea of difference between the role and way you write the literature review for the Introduction and Discussion sections, but this is a topic I won&amp;#39;t cover now. &lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Define your initial set of concepts&lt;/em&gt;: The key for a smart search is to identify the kinds of concepts and their synonyms you would like to find. For example, I might want to find all the instances of the concepts &amp;quot;situated&amp;quot; within a certain proximity from the concept &amp;quot;cognition&amp;quot; and in articles&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Proper software&lt;/em&gt;: Install a copy of &lt;a href=&quot;http://jabref.sourceforge.net/&quot;&gt;JabRef&lt;/a&gt;. While most academics nowadays use &lt;a href=&quot;http://www.zotero.org/&quot;&gt;Zotero&lt;/a&gt;, &lt;a href=&quot;http://www.mendeley.com/&quot;&gt;Mendeley&lt;/a&gt;, or &lt;a href=&quot;http://endnote.com/&quot;&gt;Endnote&lt;/a&gt;, the main advantage of JabRef is that all your citations are stored as text files, and as I will describe later on.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Agregate searches across bibliographic databases&lt;/em&gt;: Run web searches from within JabRef, using as many bibliographic databases as you think might be required. I won&amp;#39;t go over the details required to search within each one of them, which can be found on &lt;a href=&quot;http://jabref.sourceforge.net/help/Contents.php&quot;&gt;JabRef&amp;#39;s help page&lt;/a&gt; but by and large you will run boolean searches as you would on the original page. You can also run a search on the database page, export the search results as a file, and then import it into JabRef.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Store your citations as text files and then search using regexp and text mining functions&lt;/em&gt;: JabRef saves the full library as a .bib file, meaning that this is a text file. To search the full file, simply enter into regular expression mode and you will have a much more powerful search than you could have within JabRef or the original application. Take that same file and treat with the &lt;a href=&quot;http://cran.r-project.org/web/packages/tm/vignettes/tm.pdf&quot;&gt;tm package&lt;/a&gt; in &lt;a href=&quot;http://www.r-project.org/&quot;&gt;R&lt;/a&gt; and you will have the ability to slice and dice your search in every single imaginable way. Of importance, go ahead and create a repo in &lt;a href=&quot;&quot;&gt;Gihub&lt;/a&gt; so that you can version your search as well as allow your collaborators and others to fork it.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Try to find the key papers to use in your Introduction or Discussion sections&lt;/em&gt;: Once regexp and text mining have given you tips on whether a certan paper might contain the type of information you want, evaluating its methodology should follow a &lt;a href=&quot;http://www.amazon.com/How-Read-Paper-Evidence-Based-ebook/dp/B005D7EUBA/ref=tmm_kin_title_0&quot;&gt;regular evidence-based sequence&lt;/a&gt;. Rather than trying to exhaust the literature, a good rule of thumb is to find the three or four key articles in relation to that topic, read them carefully, and then check their citations and the papers that have cited them, obviously including the relevant ones to your JabRef text file.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Enrich the citations with full text articles of the key papers&lt;/em&gt;: Once you have identified the key papers for each topic, grab their HTML files saved as complete Web pages and paste those into the &lt;em&gt;Review&lt;/em&gt; field within RefJab. This will include the full text into your final .bib file, allowing you to run regexp and text mining methods also across the full text. Notice that for certain databases such as PubMed, full-text search is not available. The PDF for each article should also be store within RefJab, although you won&amp;#39;t use PDFs for your regexp/text mining. Last, for bibliographic databases having alert functionality, go ahead and set queries that will keep sending you additional references throughout the course of your project. One word of caution when storing full-text HTML in your bib files under GitHub is that you should not place copyrighted material under a public repo. So, if you have copyrighted full-text articles, simply use a private repo.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Zoom in and out&lt;/em&gt;: From then on you will be constantly zooming out and looking at the conceptual map that you build as you read the key papers, and then zooming in to get the details of each key publication. The process is iterative and should probably last for the entire project lifecycle.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>Markdown for learning materials</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/19/markdown/"/>
-		<updated>2013-09-19T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/19/markdown</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-eQMPOpwIZDw/UjT9Wg3pPuI/AAAAAAAA31w/CahngnC1-0E/w1000-h500-no/fractal.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://daringfireball.net/projects/markdown/basics&quot;&gt;Markdown&lt;/a&gt; is all the rage among geeks, but should educators even care? I would say that Markdown is an excellent option for educators who like to learn new things and don&amp;#39;t mind having a period where they might feel like working with their traditional tools made them more productive. Below are the main advantages, text below referring specifically to the &lt;a href=&quot;http://johnmacfarlane.net/pandoc/README.html&quot;&gt;Pandoc flavor of Markdown&lt;/a&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Pure text: This might sound like a terrible reason, but being based on pure text rather than proprietary formats like MS Word has a number of advantages as will be outlined below. This does not mean that the final format is in plain text, since you can export the document to almost any type of file you can imagine&lt;/li&gt;
-&lt;li&gt;Multiple export formats: Files in Markdown can be exported to PDF, slides, web pages in HTML, LaTeX, MS Word documents, among many others. This means that if you are writing a paper, but want to turn that paper into a Web page, you are just one click away.&lt;/li&gt;
-&lt;li&gt;Semi-automatic translation: Because the document is in pure text you can simply upload it to a tool like &lt;a href=&quot;http://translate.google.com/toolkit&quot;&gt;Google Translator Toolkit&lt;/a&gt;, have it automatically translated to another language of your choice, and then have a human translator make minor changes. Because all the formatting is created through characters like * or # or _ , your final format will maintained exactly as is, be that a PDF, slide presentation, word document, etc &lt;/li&gt;
-&lt;li&gt;Reuse: Because you use the exact same way of writing to articles, blog posts, slides, among others, it&amp;#39;s just natural that you will be looking through your old documents and reusing chunks of texts rather than writing them again. Actually, after some time you will probably find yourself creating chunks of text solely for the purpose of reusing them in multiple locations, but don&amp;#39;t worry about that for now, this will come naturally.&lt;/li&gt;
-&lt;li&gt;Semantic citations with &lt;a href=&quot;http://www.essepuntato.it/lode/http://purl.org/spar/cito&quot;&gt;CiTO&lt;/a&gt;: Bibliographic citations in Markdown using the CiTO ontology means that when you cite a paper or a book, all the information about that reference will be available to you. In a traditional citation software, when you cite a reference you are able to see the usual info about authors, date of publication, etc, but in a semantic citation you would also have a connection to the abstract, databases that might have cited that reference, and any database that might connect to that reference in the future. All of this is obtained simply by adding the &lt;a href=&quot;http://www.doi.org/&quot;&gt;DOI (Digital Object Identifier)&lt;/a&gt; when you add the reference to your text.&lt;/li&gt;
-&lt;li&gt;Math equations: In contrast with softwares such as Microsoft Word where a math equation might not display properly when you transform that page into a PDF or Web page, math formulas in Pandoc Markdown are consistently transformed across files.&lt;/li&gt;
-&lt;li&gt;Tables: Tables are not only extremely easy to put together, but if you are performing data analyses you can very easily have tables automatically populated. The advantage is that if you modify your analysis in any way, ultimately affecting every cell in the table, using Markdown all results will be automatically updated without the need to manually do each cell all over again.&lt;/li&gt;
-&lt;li&gt;Styling CSS: Let&amp;#39;s say you have a collection of one thousand documents, and all of a sudden you decide that you want to change their look and feel. Using &lt;a href=&quot;http://www.w3schools.com/css/&quot;&gt;cascading style sheets (CSS)&lt;/a&gt; the change can be made in a single document and then automatically spread to all documents. Of importance, this doesn&amp;#39;t work all that well for PDF, although there are some potential solutions to this problem with software such as &lt;a href=&quot;http://www.princexml.com/&quot;&gt;Prince XML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Integration with data analysis: As mentioned in the point about tables, it is fairly easy to integrate Markdown with statistical languages like &lt;a href=&quot;&quot;&gt;R&lt;/a&gt; using packages such as &lt;a href=&quot;http://yihui.name/knitr/&quot;&gt;knitr&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Amazing slide presentations: Although Pandoc Markdown does have a way to generate slides, &lt;a href=&quot;http://slidify.org/&quot;&gt;Slidify&lt;/a&gt; has a number of advantages that justify going along with it: Support for many different presentation modes, quizzes, dynamic graphics, among many other features.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There is obviously more, but this probably good enough for a post. If you would like to give it a try, perhaps the best way is just to start using it in a tablet computer like the iPad, there are excellent &lt;a href=&quot;http://ipad.appstorm.net/roundups/productivity-roundups/the-14-best-markdown-editors-and-notepads-for-the-ipad/&quot;&gt;review articles talking about different apps&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>Learning clinical research design using input-output concepts</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/18/design_input_output/"/>
-		<updated>2013-09-18T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/18/design_input_output</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/-2cJPhN7us9w/UjCwvtDuzeI/AAAAAAAA3yo/19xQIJVaVhw/w800-h500-no/fractal.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;For a long time clinical researchers and data science specialists have lived in separate worlds, where a data science specialist knows little about the clinical aspects of an analysis and the clinical research knows next to nothing about data analysis. Some people have called this a turf protection from the traditional statisticians&amp;#39; perspective, but in reality it&amp;#39;s just both sides shooting themselves in the foot. Rather than protecting turf, the lack of appropriate communication not only reduces the overall quality of the final work, but it also decreases the odds that the clinical research specialist will try to dig deeper into the vast array of techniques the data scientist might have.&lt;/p&gt;
-
-&lt;p&gt;The absurdity of this whole situation relied by and large on the idea that in some fields such as data sciences would either know everything and become &lt;em&gt;one of them&lt;/em&gt; or nothing at all. The problem with the proverbial &amp;quot;little knowledge&amp;quot; is that it might hold true when you are acting alone, but if you work in an interdisciplinary group then the little knowledge can go a long way in making sure that both sides can communicate, progressively learn from each other, and ultimately just do a good job in whatever they might be working on.&lt;/p&gt;
-
-&lt;p&gt;But how do you get started? In other words, if a clinical researcher is interested in learning more about data analysis do we have to start by proving Bayes theorem? Well, I am of the opinion that the first step is to simply equip a clinical researcher with the bare minimum communication tools to be able to talk with a data science specialist. One of those tools is to have a basic input-output knowledge about different data analysis methods. The basic idea here is that for any given analysis methods the biomedical research should know what is the type of data that should go in, and what type of result it should provide as an output?&lt;/p&gt;
-
-&lt;p&gt;For example, for a two-sample t-test, the biomedical researcher should think of the test as having the ability to compare how a continuous variable differs across two samples. For example, how body mass index compares between males and females. This is the input. Then the biomedical researcher should be able to look at a table with results from a t-test and understand the main concepts such as the mean value for each group, the p value and what it represents. That&amp;#39;s the output.&lt;/p&gt;
-
-&lt;p&gt;I am sure that at this point there might be people screaming out there by saying that t-tests are so much more complex and an introduction without x, x being a discussion about confidence intervals, or t distribution families, or how robust t-tests are to non-normal variables, or ... But I would argue that while all these points are important, they are not necessary to provide biomedical researchers with information so that they can start talking with data scientists. For example, if the data scientist took the body mass index and then turned it into a categorical variable, the biomedical researcher should be asking why rather than just saying amen. &lt;/p&gt;
-
-&lt;p&gt;I might come back to this topic later with some more solid examples.&lt;/p&gt;
-
-&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>Theory of constraints, vocation and learning</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/17/toc_learning/"/>
-		<updated>2013-09-17T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/17/toc_learning</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-LUVTArRvfJs/UjCwxvXLmAI/AAAAAAAA3zQ/p_dQuxAAOS8/w535-h717-no/fractal3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;From the mother of all knowledge, Wikipedia, &lt;a href=&quot;http://en.wikipedia.org/wiki/Theory_of_constraints&quot;&gt;Theory of Constraints (TOC) is defined as&lt;/a&gt;: &lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;The theory of constraints (TOC) is a management paradigm that views any manageable system as being limited in achieving more of its goals by a very small number of constraints. There is always at least one constraint, and TOC uses a focusing process to identify the constraint and restructure the rest of the organization around it.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If you look closely, TOC is probably the modern version of vocational tests as a way to guide learning. Reason is that learning is no longer the response to a lifelong vocation, but instead a minute-by-minute, ever changing need in regular daily lives. For example, at this point I might need to learn how to write a short script to scrape a number of pages for my a paper I have to write, while in two hours I will need to learn the best possible way to run a meeting where members tend to be unfocused. None of these skills are captured by vocational tests, and yet these two skills are what I need the most at those very moments since without them I am highly constrained. My paper writing might take forever without scraping, and my meeting will be a disaster.&lt;/p&gt;
-
-&lt;p&gt;If you then think of learning as being determined by TOC, the two problems people putting learning systems in place will face are:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;em&gt;Problem identification&lt;/em&gt;: How do you help people that the problem they have is addressable by a given skill? For example, I might think that writing that paper will indeed take six months, and that my messy meeting is just the way it is.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Skill identification&lt;/em&gt;: How do you help somebody find out that, once they identify a problem, what they need to learn is a specific skill, when in multiple cases they might not even be aware of that skill? For example, most people don&amp;#39;t know what scraping is.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Problem and skill identification are both coaching components, and as we recently learned from &lt;a href=&quot;http://rpietro.github.io/situated_cognition,/big_data/2013/09/16/coaching_learning/&quot;&gt;Tutorspree&amp;#39;s experience&lt;/a&gt;, coaching is difficult to scale. Lots of work ahead of educators.&lt;/p&gt;
-
-&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>Tutorspree, coaching and scalability</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/16/coaching_learning/"/>
-		<updated>2013-09-16T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/16/coaching_learning</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-orbuyeobWS4/UjCwzggIHpI/AAAAAAAA3z4/QQl9DkJeHOQ/w535-h717-no/fractal8.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Hindsight is 20/20, and I myself struggled in multiple attempts to scale up coaching programs in academics. And so this all to say that the following post is in no way a criticism of &lt;a href=&quot;http://www.sfgate.com/technology/businessinsider/article/After-Raising-1-8-Million-Y-Combinator-Startup-4797113.php&quot;&gt;Tutorspree, which has recently shut down&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;To make a long story short, the founders themselves acknowledge that the main problem they faced was scalability, and that&amp;#39;s not surprising. Good quality coaching is such a personal endeavor, requiring a lot of energy from the coach to deeply understand not only the area of the person being coached, but also his/her skills and weaknesses. So, it&amp;#39;s almost like doing it yourself, except that you do not have (and don&amp;#39;t want to have) a great degree of control over what exactly the person being coached will do.&lt;/p&gt;
-
-&lt;p&gt;So, does all this means that it is impossible to scale coaching up. I don&amp;#39;t think so, but in order to do it well it likely requires some basic principles if you are attempting to create a coaching environment:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Niches: coaching is a specialized activity, and so you&amp;#39;ve got to segment your groups. One fits all is hard. For example, it would be difficult to create a single environment to coach programmers and healthcare professionals side by side. They require different content, with content being presented in different formats.&lt;/li&gt;
-&lt;li&gt;Provide good support content so that coaches&amp;#39; time can be spent on problem and skill needs identification: Coaches are good because they can pinpoint what the likely problem is in a given situation, and then point the person being coached to the skill he will likely need to address that problem. A good environment for coaching therefore needs to provide good content presented in an adequate framework. &lt;/li&gt;
-&lt;li&gt;Good content: Having access to good content will save coaches&amp;#39; time and therefore attract them. Think about it, if I am coaching somebody and then have to explain every single detail on my own, my life would be a living hell. If instead I can focus on identifying problems and then simply pointing the people I coach to good material, my job is significantly simplified. Goes without saying that the coach herself has to be trained to locate this content. Ultimate result here is what I &lt;a href=&quot;http://rpietro.github.io/situated_cognition,/big_data/2013/08/30/whole_task_ladder/&quot;&gt;mentioned in a previous post&lt;/a&gt; as a ladder: If the person can learn the basics from good, automatic content in the form of videos, slides, exercises, etc, then the coaching time will be optimized.&lt;/li&gt;
-&lt;li&gt;Good content placed in a variety of learning frameworks: good content resources used by coaches have to be constantly evolving not only in terms of format. For example, a step-by-step learning material might be a great resource at one point, but later on a coach might want to point the person being coached to a learning material that instead talks about the most common errors in a certain field. &amp;quot;Step by step&amp;quot; material and learning by showing common &amp;quot;errors and fixes&amp;quot; are different frameworks to present the same problem, both needed in different situations.&lt;/li&gt;
-&lt;li&gt;Communication platforms: In our day and age, it&amp;#39;s unlikely that your dream come true coach will be your next door neightboor. Communication platforms used to be very difficult to find a few years ago, nowadays we have plenty of good options. &lt;a href=&quot;http://www.google.com/+/learnmore/hangouts/&quot;&gt;Google Hangouts&lt;/a&gt; are my favorite, provided the coach and the person being coached both have access to a decent Internet connection and are reasonably computer literate. &lt;/li&gt;
-&lt;li&gt;Coaching mentality: To be a coach you have to think like a coach or, even better, you have to like to be a coach. In other words, you have to think about the other person first. Finding the right person used to be a nightmare, since you had to define psychometric characteristics that were predictive of good coaching and then hope that they would work. They usually wouldn&amp;#39;t. But now there are social networks, which allow people to communicate about who the good and bad coaches might be. So, way less of a problem.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>Rawl's Theory of Justice and a simple example in learning</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/15/theory_justice_learning/"/>
-		<updated>2013-09-15T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/15/theory_justice_learning</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-IBBXUvOYK_4/UjCwtvLDeMI/AAAAAAAA3yM/ATIOX7v3YoQ/w535-h717-no/%253Bldf.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;I propose to teach you differential equations, but you have never taken calculus before. Then I announce that your whole life depends on your final score.&lt;/p&gt;
-
-&lt;p&gt;It&amp;#39;s clear that this course will be a massacre at least, very few people would dispute that. But then this is, in a very simplistic way, the very basis of &lt;a href=&quot;http://en.wikipedia.org/wiki/A_Theory_of_Justice&quot;&gt;Rawl&amp;#39;s Theory of Justice&lt;/a&gt;. In other words, to assume that any two people will be coming from the exact level when you give them an &amp;quot;equal opportunity&amp;quot; is just insane. &lt;/p&gt;
-
-&lt;p&gt;Now, if this is so easy to understand with a simple example, why is it so hard to bring to all other parts of life?&lt;/p&gt;
-
-&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>What does market research mean when you are talking about an experiential product?</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/14/learning_markets/"/>
-		<updated>2013-09-14T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/14/learning_markets</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-e2dhovtUWJs/UjCEh05PaSI/AAAAAAAA3w8/FWNUmy4hTNA/w480-h680-no/fr.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;ve written before about the &lt;a href=&quot;http://rpietro.github.io/situated_cognition,/big_data/2013/08/08/agile_online_courses/&quot;&gt;use of market research in online learning&lt;/a&gt;, the main gist being that before you invest a ton of time on a course product with some new spin, you should first test the market. In other words, the principle should be &lt;a href=&quot;http://www.amazon.com/Power-Pull-Smartly-Things-ebook/dp/B0039KO9ZK/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;amp;sr=8-1&amp;amp;qid=1378912778&quot;&gt;pull&lt;/a&gt; rather than push.&lt;/p&gt;
-
-&lt;p&gt;But then if your new learning product involves a new type of experience, then it could be hard or next to impossible to convey what that new experience would be in a market research survey. For example, if your course is about to create a new level of personalization and interaction, that experience won&amp;#39;t get through in a short description or even in a well-crafted video. People have to try it so that they might get a better idea on whether they would like to pay for the product and exactly how much they would be willing to pay.&lt;/p&gt;
-
-&lt;p&gt;This is why I am now thinking that market research might be simply the first iterative cycle in an Agile chain. The process then should start with a market research, followed by an immediate release of a &lt;a href=&quot;http://en.wikipedia.org/wiki/Minimum_viable_product&quot;&gt;minimum viable product (MVP)&lt;/a&gt;. Only then increments to that product are made through a series of small randomized experiments. &lt;/p&gt;
-
-&lt;p&gt;In this context, market research is not a definitive step, do or die. Instead, market research is just the start of an extensive experiment where the path can be re-oriented dynamically oriented as you go. So, if a given niche wants personalization, then given then the type of personalization they want. If their main need is deep content, then deep content it is, and so on.&lt;/p&gt;
-
-&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>Tim Ferris and the Agile/Lean movement</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/13/ferris_agile/"/>
-		<updated>2013-09-13T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/13/ferris_agile</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/-rwgJOrePL-o/UiNM5hY0NsI/AAAAAAAA3IA/SQWPHn5COpo/w680-h480-no/fractal5.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;A lot has been written about &lt;a href=&quot;http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-ebook/dp/B002WE46UW/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;amp;sr=1-1&amp;amp;qid=1378911156&quot;&gt;Tim Ferris&amp;#39; book on the four-hour week&lt;/a&gt; concept. Tim is an incredible marketer, and he was right in pitching the title as being able to work four hours a week to make 40k/month and travel around the world. But then, if you look closer there is a much deeper message there, I think.&lt;/p&gt;
-
-&lt;p&gt;Tim&amp;#39;s approach seems to be that there is always an easy way to do things, and that people should go for the low-hanging fruit. Although this is stated in a completely different way, there is a ton of parallels here with the Lean/Agile movement, when they say that you should start with the simplest possible hack or minimum viable product. If it doesn&amp;#39;t work you toss it, if it does work you take it from there in multiple iterating cycles where each cycle delivers a functional but likely ever incomplete product. &lt;/p&gt;
-
-&lt;p&gt;But then I think that Tim adds one more essential component to this. If I have an idea and I put this idea inside an Agile cycle, I am basically missing one of the most important steps, which is to search for the perfectly hackable idea. In other words, it&amp;#39;s not really about trying to get a hack out of a certain area, but instead trying to find areas where a hack is likely to turn things around. Searching with a hacking mind then implies discarding a lot of ideas before you even get started. Essentially, you toss out everything that might not seem like is waiting to be easily disrupted. This search, and the focus to keep it simple later on is the real hacking art, I think.&lt;/p&gt;
-
-&lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
-Included file 'rss_footer.html' not found in _includes directory</content>
-	</entry>
-	
-	<entry>
-		<title>Functions, objects, and experiences in learning</title>
-		<link href="http://rpietro.github.io//situated_cognition,/big_data/2013/09/12/functions_objects_experiences/"/>
-		<updated>2013-09-12T00:00:00-04:00</updated>
-		<id>http://rpietro.github.io//situated_cognition,/big_data/2013/09/12/functions_objects_experiences</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/-BLGsGkbyiaA/Ui4lcl3h32I/AAAAAAAA3rA/Tpf0mjyQbRg/w800-h500-no/fractal.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;The other day I was reading somewhere that in the R stats language almost everything is either an object and/or a function (might be the Chambers book, but I am not sure). If you like to think in terms of semantics, this does make sense in that you can create meaning by making an object generate action through a function to create another object.&lt;/p&gt;
-
-&lt;p&gt;It&amp;#39;s then tempting to establish an analogy with learning to say that when trying to teach a skill to somebody all you need is to show them how to gather the raw material to put the skill to practice (an object) and then to teach this person to put the skill in action (function), so that an endproduct (a resulting object) can be generated. &lt;/p&gt;
-
-&lt;p&gt;This all sounds perfect, except that when you bring the functions-objects duo to humans you end up mixing a third component: Experience or, like some people prefer to call it, the situations surrounding functions &amp;amp; objects. Situations will affect how humans use functions/actions to act upon objects/things. &lt;/p&gt;
-
-&lt;p&gt;So, for example: I might coach a novice biomedical researcher by telling her that working in interdisciplinary groups is a good thing. However, if she feels that a given person would not be a good professional match for her, then the decision should be to not establish a collaboration with that individual. Also, I might coach another novice research into always reaching out to peers for further advice. That being said, if that novice researcher does not reach out in a way that is socially acceptable to within that research group, then no help will be provided.&lt;/p&gt;
 
 &lt;p&gt;by Ricardo Pietrobon&lt;/p&gt;
 Included file 'rss_footer.html' not found in _includes directory</content>
