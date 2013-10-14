@@ -1,9 +1,35 @@
+
+
 <h3>About Me</h3>
 
+
 <p>My name is Ricardo Pietrobon and I am interested in big data and situated cognition applied to immersive distance education.</p>
+
+
 
 <ul>
   {% for post in site.posts limit: 5 %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+<h4>Continue the Conversation:</h4>
+
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-person" data-href="https://plus.google.com/106268032364497388036" data-layout="landscape" data-rel="author"></div>
+
+<!-- Place this tag after the last widget tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<div id="facebookgroups">
+	<ul>
+		<li><a href="https://www.facebook.com/groups/170343223157225/" target="_blank">Methods and tips for international scientific publications  (English)</a></li>
+		<li><a href="https://www.facebook.com/groups/bigdatabrazil/" target="_blank">Métodos e sugestões para publicações científicas internacionais (Portuguese)</a></li>
+	</ul>
+</div>
