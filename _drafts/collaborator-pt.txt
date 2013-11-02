@@ -1,0 +1,39 @@
+﻿# Um manual para estabelecer colaborações científicas internacionais
+
+No Brasil professores universitários e pesquisadores são incentivados a estabelecer parcerias de pesquisa com colegas de outros países. Este artigo vai mostrar a perspectiva americana sobre o que seria considerada uma proposta atraente para colaborar com um pesquisador brasileiro. 
+
+Vamos aos itens:
+
+## Confira o histórico do pesquisador com o qual você gostaria de colaborar
+
+Antes de abordar um pesquisador, é importante que você entenda exatamente a sua área de pesquisa, já que se você propuser algo que está fora de seus projetos, ele provavelmente não vai mostrar interesse algum. Portanto, verifique tanto as suas publicações (quanto mais recente melhor) quanto o seu histórico de financiamento de pesquisa. 
+
+Publicações estarão disponíveis em Web sites públicos, como por exemplo o [Google Scholar](http://scholar.google.com/), [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed), ou [ISI]( http://thomsonreuters.com/web-of-knowledge/). Mas apenas as publicações não são suficientes, uma vez que elas geralmente representam somente no que este pesquisador estava trabalhando há dois ou três anos atrás quando o projeto foi iniciado. Projetos em fase de execução tendem a representar melhor o que esta pessoa está fazendo no presente momento. A melhor fonte para verificar projetos ativos é um CV online, caso ele esteja disponível. Outros locais possíveis incluem a ferramenta de busca do [NIH](http://projectreporter.nih.gov/reporter.cfm) e da [NSF](http://www.nsf.gov/awardsearch/).
+
+
+## Se possível, encontre-se pessoalmente com o pesquisador para uma conversa
+
+Telefonemas ou e-mails tendem a ser bastante impessoais e, por isso, se possível conheça o pesquisador pessoalmente. Por exemplo, se houver recursos se ofereça para visitar o grupo de pesquisa desse pesquisador. Isso certamente vai garantir uma conversa longa e potencialmente frutífera.
+
+
+## Se você for iniciar com um e-mail, seja curto e objetivo
+
+Se encontrar o pesquisador pessoalmente não for uma possibilidade e o seu primeiro contato for através de e-mail, escreva uma mensagem curta e objetiva. Componentes importantes dessa mensagem devem ser: quem você é, o tipo de colaboração que você tem em mente e, especificamente, quais os tipos de recursos com os quais você poderia contribuir para essa eventual colaboração.
+
+Exemplos de recursos que você pode oferecer incluem banco de dados, um potencial participação do pesquisador em uma proposta de financiamento no Brasil, ou algo que você tenha identificado como sendo de potencial interesse para ele. No final da mensagem, pergunte sobre a possibilidade de uma conversa por telefone ou através de um sistema de vídeo-conferência como o [Skype](http://www.skype.com/) ou o [Google Hangout](http://www. google.com/hangouts/).
+
+
+## Prepare um CV em inglês
+
+Embora não seja essencial, se possível crie um CV público em inglês, já que isso vai permitir ao seu potencial colaborador saber o que você tem feito dentro da sua área de pesquisa. CVs em inglês são fáceis de criar usando ferramentas como o [Google Scholar](http://fyi.libmedia.nymc.edu/?p=2517). 
+
+Se você é um especialista em métodos, uma outra forma é colocar os seus scripts de análise em um repositório que gere visibilidade, tal como [GitHub](https://github.com/). Colocar suas análises ali não só vai informar ao seu colaborador sobre suas habilidades, mas também demonstrar na prática o que você é capaz de fazer.
+
+
+## Inglês ou outro idioma falado pelo seu potencial colaborador
+
+Isso deveria ser óbvio, mas suas habilidades com o inglês ou outrao idioma tem de ser boas o suficiente para se fazer entender assim como para entender o que ele vai lhe dizer. Se esse não for o caso, considere a possibilidade de escolher uma outra pessoa cujo idioma seja algo que você domine.
+
+## Consistência ao longo do tempo
+
+Este é provavelmente um dos únicos pontos mais importantes caso o pesquisador se mostre inicialmente interessado: seja consistente e confiável. Se você prometer alguma coisa, certifique-se de entregar exatamente o que foi prometido. Se você estabeleceu um prazo, tenha a certeza absoluta que você vai entregar, no mínimo, na data definida.

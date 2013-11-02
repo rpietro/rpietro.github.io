@@ -1,0 +1,1 @@
+post on why organizational rather than individual skills are the reason why mid-age professionals might not find a way to fund themselves after being laid off
